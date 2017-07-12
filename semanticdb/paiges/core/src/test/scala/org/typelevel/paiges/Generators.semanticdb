@@ -1,0 +1,466 @@
+*
+ºø _root_.org.typelevel.paiges.Doc.Z
+Ã’P_root_.org.scalacheck.Gen.frequency(Lscala/collection/Seq;)Lorg/scalacheck/Gen;.U
+ÉáKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1667..1671$
+Úı_root_.org.scalacheck.Gen#U
+˚˝Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1718..1720C
+ø¿9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(i)9
+ú	£	/_root_.org.typelevel.paiges.Generators.doc0Gen.R
+òùH_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.D
+˝	ˇ	:_root_.org.typelevel.paiges.Generators.folds.$anonfun.(ds)=
+Çç3_root_.org.typelevel.paiges.Generators.asciiString.$
+‹ﬂ_root_.org.scalacheck.Gen#*
+Ü
+â
+ _root_.org.typelevel.paiges.Doc#&
+ÂÍ_root_.org.scalacheck.Cogen#$
+Ø±_root_.scala.Int#`>=`(I)Z.î
+ﬂ‰â_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.I
+¡¬?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)I
+•¶?_root_.org.typelevel.paiges.Generators.asciiString.$anonfun.(n)R
+ÎˆH_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.$
+ß™_root_.org.scalacheck.Gen.%
+ÂÎ_root_.scala.Int#toChar()C.$
+Ω	¡	_root_.scala.package.List#8
+√…._root_.org.typelevel.paiges.Generators.genDoc.P
+¬…F_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.U
+ﬂ·Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1561..1563#
+„‰_root_.scala.Int#`-`(I)I.O
+¥∑E_root_.org.scalacheck.Gen#map(Lscala/Function1;)Lorg/scalacheck/Gen;.$
+•
+®
+_root_.org.scalacheck.Gen.W
+àçM_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)
+)3_root_.org.scalacheck.*
+Æ± _root_.org.typelevel.paiges.Doc#O
+§	ß	E_root_.org.scalacheck.Gen#map(Lscala/Function1;)Lorg/scalacheck/Gen;.#
+–—_root_.scala.Int#`-`(I)I.U
+ˆ˙Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1667..1671$
+»À_root_.org.scalacheck.Gen.*
+îó _root_.org.typelevel.paiges.Doc.P
+æ≈F_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.U
+ÙKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1644..1790
+¸ˇ_root_.scala.Int#*
+œ“ _root_.org.typelevel.paiges.Doc.$
+µ
+π
+_root_.scala.package.List#l
+çòb_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.8
+ú¢._root_.org.typelevel.paiges.Generators.arbDoc.R
+ı	˙	H_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.*
+π¬ _root_.org.scalacheck.Arbitrary.
+%(_root_.org.Ä
+¢®v_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.$
+Õ–_root_.org.scalacheck.Gen.D
+±
+≥
+:_root_.org.typelevel.paiges.Generators.folds.$anonfun.(ds)P
+Ô
+ˆ
+F_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.Y
+ÅäO_root_.org.scalacheck.Cogen#contramap(Lscala/Function1;)Lorg/scalacheck/Cogen;.z
+˝Çp_root_.org.scalacheck.Gen.oneOf(Ljava/lang/Object;Ljava/lang/Object;Lscala/collection/Seq;)Lorg/scalacheck/Gen;.S
+˚ÇI_root_.org.scalacheck.Gen#flatMap(Lscala/Function1;)Lorg/scalacheck/Gen;.*
+åè _root_.org.typelevel.paiges.Doc#h
+í
+ò
+^_root_.org.typelevel.paiges.Doc.spread(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.$
+¬≈_root_.org.scalacheck.Gen.O
+âëE_root_.scala.collection.TraversableOnce#mkString()Ljava/lang/String;.=
+GJ5_root_.org.scalacheck.Gen.;_root_.org.scalacheck.Gen#%
+Ò˜_root_.scala.Int#toChar()C.I
+ËÈ?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)*
+‚Â _root_.org.typelevel.paiges.Doc#d
+ÍÎZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.*
+ÓÒ _root_.org.typelevel.paiges.Doc#W
+ œM_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)$
+¨Ø_root_.org.scalacheck.Gen#N
+“ÿD_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.*
+‡„ _root_.org.typelevel.paiges.Doc#R
+¿ƒH_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.U
+›ﬁKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1538..1539P
+’‹F_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.F
+åç<_root_.org.typelevel.paiges.Generators.cogenDoc.$anonfun.(d)*
+ÊÈ _root_.org.typelevel.paiges.Doc#$
+_root_.org.typelevel.paiges.U
+¨∞Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1515..1638$
+◊⁄_root_.org.scalacheck.Gen.4
+ÿ·*_root_.org.scalacheck.Arbitrary#arbitrary.
+_root_.org.typelevel.*
+ˆ˘ _root_.org.typelevel.paiges.Doc#?
+ô¶5_root_.org.typelevel.paiges.Generators.generalString.*
+Öà _root_.org.typelevel.paiges.Doc.$
+Ñá_root_.org.scalacheck.Gen#U
+ôùKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1429..1509W
+ß¨M_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)7
+ËÌ-_root_.org.typelevel.paiges.Generators.folds.*
+∞≥ _root_.org.typelevel.paiges.Doc#I
+¯˘?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)]
+íñS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+˚˛ _root_.org.typelevel.paiges.Doc##
+ÃÕ_root_.scala.Int#`-`(I)I.&
+ˆ˚_root_.org.scalacheck.Cogen.R
+”‹H_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.Ä
+€·v_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.C
+âä9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(d)S
+±∂I_root_.org.scalacheck.Gen#flatMap(Lscala/Function1;)Lorg/scalacheck/Gen;.*
+Å	Ñ	 _root_.org.typelevel.paiges.Doc#U
+¨≠Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1452..1453%
+ãë_root_.scala.Predef.String#S
+ãêI_root_.org.scalacheck.Gen#flatMap(Lscala/Function1;)Lorg/scalacheck/Gen;.*
+¬	≈	 _root_.org.typelevel.paiges.Doc#U
+ΩæKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1469..1470#
+≠Æ_root_.scala.Int#`-`(I)I.$
+»À_root_.org.scalacheck.Gen.L
+–—B_root_.org.typelevel.paiges.Generators.unary.$anonfun.$anonfun.(d)U
+„‰Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1469..1470$
+ºø_root_.org.scalacheck.Gen.*
+éë _root_.org.typelevel.paiges.Doc#U
+ÇÉKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1538..1539*
+Ø≤ _root_.org.typelevel.paiges.Doc.$
+®´_root_.org.scalacheck.Gen#O
+—‘E_root_.org.scalacheck.Gen.lzy(Lscala/Function0;)Lorg/scalacheck/Gen;.U
+ôùKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1429..1509*
+èí _root_.org.typelevel.paiges.Doc#N
+ÎÚD_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.W
+›‚M_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)?
+¶≥5_root_.org.typelevel.paiges.Generators.generalString.R
+¨±H_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.$
+”÷_root_.org.scalacheck.Gen.C
+Ÿ⁄9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(i)U
+ø√Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1644..1790I
+ÆØ?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)D
+Ã
+Œ
+:_root_.org.typelevel.paiges.Generators.folds.$anonfun.(ds)*
+πº _root_.org.typelevel.paiges.Doc#Ä
+´±v_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.W
+˜
+¸
+M_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)I
+ãå?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)I
+ÄÅ?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)R
+©
+Æ
+H_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.U
+„ÂKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1592..1594C
+ìî9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(d)$
+éê_root_.scala.Int#`<=`(I)Z.g
+∆
+À
+]_root_.org.typelevel.paiges.Doc.stack(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.:
+€„0_root_.org.typelevel.paiges.Generators.cogenDoc.(
+jm _root_.org.typelevel.paiges.Doc.9
+íô/_root_.org.typelevel.paiges.Generators.doc0Gen.
+_root_.org.*
+ÎÓ _root_.org.typelevel.paiges.Doc#U
+óöKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1687..1690[
+nrS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.%
+œ’_root_.scala.Predef.String#S
+áíI_root_.org.scalacheck.Gen#flatMap(Lscala/Function1;)Lorg/scalacheck/Gen;.*
+®´ _root_.org.typelevel.paiges.Doc.*
+∫
+Ω
+ _root_.org.typelevel.paiges.Doc#$
+ÔÚ_root_.org.scalacheck.Gen#*
+˘¸ _root_.org.typelevel.paiges.Doc#b
+≥ºX_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.I
+ìî?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)R
+◊‹H_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.U
+®¨Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1429..1509U
+ÔÛKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1515..1638I
+’÷?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)Z
+€	ﬂ	P_root_.scala.collection.immutable.List#take(I)Lscala/collection/immutable/List;.W
+∆ÀM_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)U
+ôõKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1561..1563?
+ù™5_root_.org.typelevel.paiges.Generators.generalString.U
+·‚Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1452..1453$
+˝Ä_root_.org.scalacheck.Gen.U
+∏∫Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1592..1594A
+@E9_root_.org.scalacheck.Cogen.;_root_.org.scalacheck.Cogen#3
+ô°)_root_.org.typelevel.paiges.Doc#hashCode.$
+ÍÌ_root_.org.scalacheck.Gen.I
+ôö?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)/
+T^'_root_.org.typelevel.paiges.Generators.9
+Éä/_root_.org.typelevel.paiges.Generators.doc0Gen.O
+´ÆE_root_.org.scalacheck.Gen#map(Lscala/Function1;)Lorg/scalacheck/Gen;.I
+ãå?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)$
+˝Ä_root_.org.scalacheck.Gen.E
+™	≠	;_root_.org.typelevel.paiges.Generators.folds.$anonfun.(sep)I
+∂∑?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)C
+ÈÍ9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(d)U
+∂∏Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1718..1720$
+˘¸_root_.org.scalacheck.Gen.7
+•™-_root_.org.typelevel.paiges.Generators.unary.I
+¢£?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)%
+¨≤_root_.scala.Predef.String#*
+ﬂ‚ _root_.org.typelevel.paiges.Doc#*
+ 	Õ	 _root_.org.typelevel.paiges.Doc.$
+û°_root_.org.scalacheck.Gen.$
+˜˙_root_.org.scalacheck.Gen.O
+∫ƒE_root_.scala.Predef.implicitly(Ljava/lang/Object;)Ljava/lang/Object;.R
+ÅÜH_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.*
+ñô _root_.org.typelevel.paiges.Doc#*
+ÉÜ _root_.org.typelevel.paiges.Doc#Z
+ÅäP_root_.org.scalacheck.Gen.frequency(Lscala/collection/Seq;)Lorg/scalacheck/Gen;.*
+…Ã _root_.org.typelevel.paiges.Doc#*
+àã _root_.org.typelevel.paiges.Doc#]
+∏ºS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.O
+éëE_root_.org.scalacheck.Gen#map(Lscala/Function1;)Lorg/scalacheck/Gen;.$
+Å
+Ö
+_root_.scala.package.List#9
+îõ/_root_.org.typelevel.paiges.Generators.doc0Gen.*
+ÁÍ _root_.org.typelevel.paiges.Doc.d
+†°Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.:
+€
+„
+0_root_.org.typelevel.paiges.Generators.maxDepth.L
+∆«B_root_.org.typelevel.paiges.Generators.unary.$anonfun.$anonfun.(d)Ä
+Œ	“	v_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.D
+ô
+õ
+:_root_.org.typelevel.paiges.Generators.folds.$anonfun.(ds)U
+ªøKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1515..1638$
+áä_root_.org.scalacheck.Gen#9
+È/_root_.org.typelevel.paiges.Generators.doc0Gen.O
+ÅÑE_root_.org.scalacheck.Gen#map(Lscala/Function1;)Lorg/scalacheck/Gen;.*
+¬
+≈
+ _root_.org.typelevel.paiges.Doc.N
+ïúD_root_.org.typelevel.paiges.Doc#aligned()Lorg/typelevel/paiges/Doc;.I
+‘’?_root_.org.typelevel.paiges.Generators.asciiString.$anonfun.(n)Ä
+ÓÙv_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.M
+π	ª	C_root_.org.typelevel.paiges.Generators.folds.$anonfun.$anonfun.(ds)$
+ç	ê	_root_.org.scalacheck.Gen.$
+€ﬁ_root_.org.scalacheck.Gen#=
+œ⁄3_root_.org.typelevel.paiges.Generators.combinators.*
+±¥ _root_.org.typelevel.paiges.Doc#*
+≈Œ _root_.org.scalacheck.Arbitrary#F
+óò<_root_.org.typelevel.paiges.Generators.cogenDoc.$anonfun.(d)f
+√»\_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.I
+ûü?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a)C
+ﬂ‡9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(d)=
+À÷3_root_.org.typelevel.paiges.Generators.asciiString.E
+”	÷	;_root_.org.typelevel.paiges.Generators.folds.$anonfun.(sep)O
+πºE_root_.org.scalacheck.Gen#map(Lscala/Function1;)Lorg/scalacheck/Gen;.I
+ÏÌ?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)8
+”Ÿ._root_.org.typelevel.paiges.Generators.genDoc.*
+ÿ€ _root_.org.typelevel.paiges.Doc#?
+ÛÄ5_root_.org.typelevel.paiges.Generators.generalString.*
+§≠ _root_.org.scalacheck.Arbitrary#*
+€ﬁ _root_.org.typelevel.paiges.Doc.*
+·‰ _root_.org.typelevel.paiges.Doc#~
+∆Àt_root_.org.scalacheck.Gen.oneOf(Lorg/scalacheck/Gen;Lorg/scalacheck/Gen;Lscala/collection/Seq;)Lorg/scalacheck/Gen;.î
+âéâ_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.A
+Éä7_root_.org.typelevel.paiges.Generators.genDoc.$anonfun.Ä
+Æ¥v_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.O
+◊⁄E_root_.org.scalacheck.Gen#map(Lscala/Function1;)Lorg/scalacheck/Gen;.$
+Ù¯_root_.scala.package.List#W
+¿«M_root_.org.scalacheck.Gen.listOfN(ILorg/scalacheck/Gen;)Lorg/scalacheck/Gen;.I
+›ﬁ?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)U
+»ÀKpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1687..1690W
+©ÆM_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)P
+ü¶F_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.<
+zÖ3_root_.org.typelevel.paiges.Generators.asciiString.$
+™≠_root_.org.scalacheck.Gen.*
+∑∫ _root_.org.typelevel.paiges.Doc##
+ªº_root_.scala.Int#`-`(I)I.$
+Ò	Ù	_root_.org.scalacheck.Gen.S
+ÜàI_root_.org.typelevel.paiges.Generators.asciiString.$anonfun.$anonfun.(cs)S
+¬ƒI_root_.org.typelevel.paiges.Generators.asciiString.$anonfun.$anonfun.(cs)I
+5>A_root_.org.scalacheck.Arbitrary.;_root_.org.scalacheck.Arbitrary#W
+Ã”M_root_.org.scalacheck.Gen.listOfN(ILorg/scalacheck/Gen;)Lorg/scalacheck/Gen;.:
+≤∫0_root_.org.typelevel.paiges.Generators.maxDepth.
+˛
+Å_root_.scala.Int#I
+… ?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b)M
+ÿ	⁄	C_root_.org.typelevel.paiges.Generators.folds.$anonfun.$anonfun.(ds)Z
+˚ÑP_root_.org.scalacheck.Gen.frequency(Lscala/collection/Seq;)Lorg/scalacheck/Gen;.~
+ë	ñ	t_root_.org.scalacheck.Gen.oneOf(Lorg/scalacheck/Gen;Lorg/scalacheck/Gen;Lscala/collection/Seq;)Lorg/scalacheck/Gen;.*
+é
+ë
+ _root_.org.typelevel.paiges.Doc."f
+B_root_.org.typelevel.paiges.Generators.unary.$anonfun.$anonfun.(d) Ädorg.typelevel.paiges.Doc"b
+3_root_.org.typelevel.paiges.Generators.asciiString.+asciiStringorg.scalacheck.Gen[String]"c
+?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(b) Äborg.typelevel.paiges.Doc"`
+I_root_.org.typelevel.paiges.Generators.asciiString.$anonfun.$anonfun.(cs)Äcs
+List[Char]"`
+M_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.(depth)ÄdepthInt"ä
+-_root_.org.typelevel.paiges.Generators.folds.YfoldsNorg.scalacheck.Gen[List[org.typelevel.paiges.Doc] => org.typelevel.paiges.Doc]"j
+._root_.org.typelevel.paiges.Generators.genDoc.8genDoc,org.scalacheck.Gen[org.typelevel.paiges.Doc]"ß
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1538..1539XÄcP(org.typelevel.paiges.Doc, org.typelevel.paiges.Doc) => org.typelevel.paiges.Doc"]
+9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(d) Ädorg.typelevel.paiges.Doc"v
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1718..1720'ÄdsList[org.typelevel.paiges.Doc]"N
+?_root_.org.typelevel.paiges.Generators.asciiString.$anonfun.(n)ÄnInt"H
+9_root_.org.typelevel.paiges.Generators.unary.$anonfun.(i)ÄiInt"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1469..1470 Ädorg.typelevel.paiges.Doc"r
+._root_.org.typelevel.paiges.Generators.arbDoc.@ÅÄ arbDoc2org.scalacheck.Arbitrary[org.typelevel.paiges.Doc]";
+'_root_.org.typelevel.paiges.Generators.ÄÑ
+Generators"`
+<_root_.org.typelevel.paiges.Generators.cogenDoc.$anonfun.(d) Ädorg.typelevel.paiges.Doc"î
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1667..1671EÄfold:List[org.typelevel.paiges.Doc] => org.typelevel.paiges.Doc"a
+;_root_.org.typelevel.paiges.Generators.folds.$anonfun.(sep)"Äseporg.typelevel.paiges.Doc"è
+F_root_.org.typelevel.paiges.Generators.genTree(I)Lorg/scalacheck/Gen;.EgenTree8(depth: Int)org.scalacheck.Gen[org.typelevel.paiges.Doc]"Ö
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1515..16386cgen,org.scalacheck.Gen[org.typelevel.paiges.Doc]"r
+0_root_.org.typelevel.paiges.Generators.cogenDoc.>ÅÄ cogenDoc.org.scalacheck.Cogen[org.typelevel.paiges.Doc]"f
+5_root_.org.typelevel.paiges.Generators.generalString.-generalStringorg.scalacheck.Gen[String]"\
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1687..1690ÄnumInt"n
+C_root_.org.typelevel.paiges.Generators.folds.$anonfun.$anonfun.(ds)'ÄdsList[org.typelevel.paiges.Doc]"Ö
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1429..15096ugen,org.scalacheck.Gen[org.typelevel.paiges.Doc]"l
+/_root_.org.typelevel.paiges.Generators.doc0Gen.9doc0Gen,org.scalacheck.Gen[org.typelevel.paiges.Doc]"p
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1561..1563!Äd0org.typelevel.paiges.Doc"ã
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1452..1453<Äu4org.typelevel.paiges.Doc => org.typelevel.paiges.Doc"p
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1592..1594!Äd1org.typelevel.paiges.Doc"Ö
+Kpaiges/core/src/test/scala/org/typelevel/paiges/Generators.scala@1644..17906fgen,org.scalacheck.Gen[org.typelevel.paiges.Doc]"Ñ
+-_root_.org.typelevel.paiges.Generators.unary.SunaryHorg.scalacheck.Gen[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]"E
+0_root_.org.typelevel.paiges.Generators.maxDepth.maxDepthInt"c
+?_root_.org.typelevel.paiges.Generators.combinators.$anonfun.(a) Äaorg.typelevel.paiges.Doc"e
+:_root_.org.typelevel.paiges.Generators.folds.$anonfun.(ds)'ÄdsList[org.typelevel.paiges.Doc]"¨
+3_root_.org.typelevel.paiges.Generators.combinators.ucombinatorsdorg.scalacheck.Gen[(org.typelevel.paiges.Doc, org.typelevel.paiges.Doc) => org.typelevel.paiges.Doc]2$
+ëë[org.typelevel.paiges.Doc]2$
+∂∂[org.typelevel.paiges.Doc]2$
+ÑÑ[org.typelevel.paiges.Doc]2$
+ää[org.typelevel.paiges.Doc]2@
+ÀÀ6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2F
+ñ	ñ	<[List[org.typelevel.paiges.Doc] => org.typelevel.paiges.Doc]2%
+∏∏(Gen.this.Choose.chooseInt)2%
+˙˙(Gen.this.Choose.chooseInt)2$
+ÆÆ[org.typelevel.paiges.Doc]2$
+∑∑[org.typelevel.paiges.Doc]2$
+⁄⁄[org.typelevel.paiges.Doc]2$
+±±[org.typelevel.paiges.Doc]2&
+¯¯(Gen.this.Choose.chooseChar)2
+¥¥[Int]2$
+««[org.typelevel.paiges.Doc]2@
+ºº6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2@
+‹‹6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2$
+ÈÈ[org.typelevel.paiges.Doc]2$
+ää[org.typelevel.paiges.Doc]2F
+Æ
+Æ
+<[List[org.typelevel.paiges.Doc] => org.typelevel.paiges.Doc]2@
+®±6scalacheck.this.Gen.const[org.typelevel.paiges.Doc](*)2F
+ß	ß	<[List[org.typelevel.paiges.Doc] => org.typelevel.paiges.Doc]2@
+Áˆ6scalacheck.this.Gen.const[org.typelevel.paiges.Doc](*)2
+˘˘[String]2H
+ÄÄ>(org.scalacheck.Cogen.cogenInt, org.scalacheck.Cogen.cogenInt)2$
+ÇÇ[org.typelevel.paiges.Doc]2$
+––[org.typelevel.paiges.Doc]2@
+îù6scalacheck.this.Gen.const[org.typelevel.paiges.Doc](*)2
+··[Char]2F
+˙	˙	<[List[org.typelevel.paiges.Doc] => org.typelevel.paiges.Doc]2@
+ºƒ6scalacheck.this.Gen.const[org.typelevel.paiges.Doc](*)2$
+íí[org.typelevel.paiges.Doc]2$
+ØØ[org.typelevel.paiges.Doc]2
+±±[Int]2$
+’’[org.typelevel.paiges.Doc]2$
+êê[org.typelevel.paiges.Doc]2
+®®[Int]2@
+œ‹6scalacheck.this.Gen.const[org.typelevel.paiges.Doc](*)2$
+‘‘[org.typelevel.paiges.Doc]2\
+ÇÇR[(org.typelevel.paiges.Doc, org.typelevel.paiges.Doc) => org.typelevel.paiges.Doc]2
+ÙÙ[Int]2$
+¬¬[org.typelevel.paiges.Doc]2.
+◊◊$(org.scalacheck.Arbitrary.arbString)2@
+ÜÜ6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2
+””[Char]2
+ªª[String]2$
+ÑÑ[org.typelevel.paiges.Doc]2$
+‘‘[org.typelevel.paiges.Doc]:Scala212B•package org.typelevel.paiges
+
+import org.scalacheck.{Arbitrary, Cogen, Gen}
+
+object Generators {
+  import Doc.text
+
+  val asciiString: Gen[String] =
+    for {
+      n <- Gen.choose(1, 10)
+      cs <- Gen.listOfN(n, Gen.choose(32.toChar, 126.toChar))
+    } yield cs.mkString
+
+  val generalString: Gen[String] =
+    implicitly[Arbitrary[String]].arbitrary
+
+  val doc0Gen: Gen[Doc] = Gen.frequency(
+    (1, Doc.empty),
+    (1, Doc.space),
+    (1, Doc.line),
+    (1, Doc.lineBreak),
+    (1, Doc.lineOrSpace),
+    (10, asciiString.map(text(_))),
+    (10, generalString.map(text(_))),
+    (3, asciiString.map(Doc.split(_))),
+    (3, generalString.map(Doc.split(_))),
+    (3, generalString.map(Doc.paragraph(_)))
+    )
+
+  val combinators: Gen[(Doc, Doc) => Doc] =
+    Gen.oneOf(
+    { (a: Doc, b: Doc) => a + b },
+    { (a: Doc, b: Doc) => a space b },
+    { (a: Doc, b: Doc) => a / b },
+    { (a: Doc, b: Doc) => a lineOrSpace b })
+
+  val unary: Gen[Doc => Doc] =
+    Gen.oneOf(
+      Gen.const({ d: Doc => d.grouped }),
+      Gen.const({ d: Doc => d.aligned }),
+      Gen.choose(0, 40).map { i => { d: Doc => d.nested(i) } })
+
+  val folds: Gen[(List[Doc] => Doc)] =
+    Gen.oneOf(
+    doc0Gen.map { sep =>
+      { ds: List[Doc] => Doc.fill(sep, ds.take(8)) }
+    },
+    Gen.const({ ds: List[Doc] => Doc.spread(ds) }),
+    Gen.const({ ds: List[Doc] => Doc.stack(ds) }))
+
+  val maxDepth = 7
+
+  def genTree(depth: Int): Gen[Doc] = {
+    val ugen = for {
+      u <- unary
+      d <- genTree(depth - 1)
+    } yield u(d)
+
+    val cgen = for {
+      c <- combinators
+      d0 <- genTree(depth - 1)
+      d1 <- genTree(depth - 1)
+    } yield c(d0, d1)
+
+    val fgen = for {
+      fold <- folds
+      num <- Gen.choose(0, 20)
+      ds <- Gen.listOfN(num, Gen.lzy(genTree(depth - 1)))
+    } yield fold(ds)
+
+    if (depth <= 0) doc0Gen
+    else if (depth >= maxDepth - 1) {
+      Gen.frequency(
+        // bias to simple stuff
+        (6, doc0Gen),
+        (1, ugen),
+        (2, cgen),
+        (1, fgen))
+    } else {
+      // bias to simple stuff
+      Gen.frequency(
+        (6, doc0Gen),
+        (1, ugen),
+        (2, cgen))
+    }
+  }
+
+  val genDoc: Gen[Doc] =
+    Gen.choose(0, 7).flatMap(genTree)
+
+  implicit val arbDoc: Arbitrary[Doc] =
+    Arbitrary(genDoc)
+
+  implicit val cogenDoc: Cogen[Doc] =
+    Cogen[Int].contramap((d: Doc) => d.hashCode)
+}
+J@paiges/core/src/test/scala/org/typelevel/paiges/Generators.scala

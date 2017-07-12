@@ -1,0 +1,157 @@
+
+ _root_.org.typelevel.paiges.Doc.A
+9paiges/core/src/main/scala/org/typelevel/paiges/Doc.scala·}º}"­
+@paiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scalaè
+‰Œ
+ëî
+Ž‘
+ÄÇ
+§ª
+Ÿ¢
+¿Â
+Ô×
+ñô
+’•
+ÆÉ
+ÚÝ
+—š
+©¬
+³¶
+æ#é#
+´*·*
+Ü*ß*
+å*è*
+Ž+‘+
+‡/Š/
+£/¦/
+Û8Þ8
+œ<Ÿ<
+‹DŽD
+§DªD
+°D³D
+¼D¿D
+åGèG
+ŠII
+“I–I
+ŸI¢I
+ÔI×I
+ãIæI
+ŒLL
+›LžL
+¡R¤R
+òVõV
+ÒWÕW
+âWåW
+…XˆX
+ðXóX
+€YƒY
+šYY
+ì\ï\
+û\þ\
+] ]
+^’^
+Ÿ^¢^
+³^¶^
+ü^ÿ^
+¸_»_
+É_Ì_
+Õ_Ø_
+û_þ_
+¢c¥c
+—eše
+„f‡f
+ógög
+«h®h
+ÅhÈh
+„i‡i
+ži¡i
+¸i»i
+Œmm
+Þnán
+˜o›o
+´o·o
+çoêo
+£p¦p
+¼p¿p
+ÕpØp
+÷púp
+žq¡q
+ƒu†u
+ÏuÒu
+ïuòu"¨
+9paiges/core/src/main/scala/org/typelevel/paiges/Doc.scalaê
+îñ
+¬¯
+êí
+úý
+ÆÉ
+Üß
+®±
+º½
+ÉÌ
+Š
+èë
+­°
+ùü
+—š
+ÄÇ
+ü ÿ 
+®!±!
+ØZÛZ
+Ÿ€¢€
+®€±€
+ªª
+­ª°ª
+ñªôª
+ŠÅÅ
+××Ú×
+Ø’Ø
+Ø Ø"w
+;paiges/core/src/main/scala/org/typelevel/paiges/Chunk.scala8
+èë
+—š
+áä
+¥¨
+ãæ
+µ¸
+þ"O
+Cpaiges/core/src/test/scala/org/typelevel/paiges/DocumentTests.scala
+—š"‚
+>paiges/core/src/main/scala/org/typelevel/paiges/Document.scala@
+¼¿
+‹Ž
+³	¶	
+¼	¿	
+È	Ë	
+
+„
+
+˜
+›
+
+ËÎ"¢
+@paiges/core/src/test/scala/org/typelevel/paiges/Generators.scala^
+jm
+”—
+¨«
+¼¿
+ÏÒ
+çê
+ÛÞ
+…ˆ
+¯²
+Ê	Í	
+Ž
+‘
+
+Â
+Å
+"z
+>paiges/core/src/test/scala/org/typelevel/paiges/JsonTest.scala8
+¢¥
+™œ
+©¬
+ÉÌ
+¿Â
+ÿ‚	
+ˆ	‹	

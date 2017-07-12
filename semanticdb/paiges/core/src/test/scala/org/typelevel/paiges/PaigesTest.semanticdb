@@ -1,0 +1,1928 @@
+Z
+¥ΩP_root_.org.scalacheck.Gen.frequency(Lscala/collection/Seq;)Lorg/scalacheck/Gen;.U
+ù5û5Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6813..6819ç
+‚ÊÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.#
+∂'∑'_root_.scala.Int#`>`(I)Z.U
+˜K¸KKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9342..9396*
+¢c•c _root_.org.typelevel.paiges.Doc.W
+µQ∂QMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10355..10361U
+˘L˙LKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9818..9819*
+ûq°q _root_.org.typelevel.paiges.Doc.ç
+ıd˘dÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.U
+õûKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2645..2653(
+€9›9_root_.scala.Boolean#`&&`(Z)Z.*
+õLûL _root_.org.typelevel.paiges.Doc.d
+Õ2Œ2Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.Ö
+ÇMäM{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.]
+“c÷cS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+ºæKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1461..1512P
+õE£EF_root_.scala.collection.immutable.Stream#mkString()Ljava/lang/String;.U
+±K≤KKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9618..9619U
+Ç Ö Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3892..3910W
+·U‚UMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10918..10924U
+π:∫:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7481..7482ç
+Ü#ä#Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.W
+ìbûbM_root_.scala.collection.immutable.StringLike#stripMargin()Ljava/lang/String;.W
+√[ƒ[Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11688..11694W
+‘Q›QMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10252..10301U
+ïñKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3861..3870
+‚Â_root_.scala.Int#*
+öù _root_.org.typelevel.paiges.Doc#U
+—”Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3209..32350
+˙AˇA&_root_.org.typelevel.paiges.Doc.Align.e
+úü[_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#`===`(Lorg/typelevel/paiges/Doc;)Z.(rhs)U
+çéKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2189..2195F
+†&¶&<_root_.scala.collection.Iterator#forall(Lscala/Function1;)Z.U
+‰?Ê?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8164..8166h
+ÏLÚL^_root_.scala.collection.immutable.StringLike#format(Lscala/collection/Seq;)Ljava/lang/String;.U
+Ó8Ô8Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7278..7284ç
+ÇÜÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.\
+ˇ_Ç`R_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.1
+’ﬂ'_root_.org.typelevel.paiges.Generators.N
+ñ	ù	D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.N
+±3∏3D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;./
+Ò9ı9%_root_.org.typelevel.paiges.Doc.Nest.*
+ãDéD _root_.org.typelevel.paiges.Doc.W
+ÉQÜQMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10371..10379d
+π∫Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.Ü
+◊UÿU|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.%
+äê_root_.scala.Predef.String#Ç
+‘L◊Lx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.6
+ºƒ,_root_.org.typelevel.paiges.Doc#maxWidth()I.*
+“W’W _root_.org.typelevel.paiges.Doc.]
+êLîLS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+°¢Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3136..3137U
+ü†Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2335..2341F
+¿∆<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.$
+ÍÌ_root_.org.scalacheck.Gen.d
+ıpˆpZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.*
+˜p˙p _root_.org.typelevel.paiges.Doc.U
+º'Ω'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5012..5018(
+Ù:ˆ:_root_.scala.Boolean#`&&`(Z)Z.N
+Ù2˚2D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.$
+µV∏V_root_.org.scalacheck.Gen.#
+∑Q∏Q_root_.scala.Int#`-`(I)I.W
+÷]ﬁ]Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11918..11968U
+È2Í2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6402..6408(
+È:Î:_root_.scala.Boolean#`&&`(Z)Z.d
+ôöZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+ı˘Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2672..2710,
+Ω=√="_root_.java.lang.String#length()I.U
+ƒI…IKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9342..9396W
+πeªeMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12981..13032P
+Ó[ˆ[F_root_.scala.collection.immutable.Stream#mkString()Ljava/lang/String;.U
+ÅÇKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3585..3586*
+œ$“$ _root_.org.typelevel.paiges.Doc#"
+èCëC_root_.scala.Tuple2#(_2)
+ãí_root_.scala.Boolean#ç
+ÒZıZÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.ç
+‚ÊÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.S
+Ø∑Ipaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@287..3370
+â=é=&_root_.org.typelevel.paiges.Doc.Empty.*
+ÔuÚu _root_.org.typelevel.paiges.Doc.U
+ßC®CKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8615..8621O
+£®E_root_.scala.math.Equiv#equiv(Ljava/lang/Object;Ljava/lang/Object;)Z.U
+õúKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2946..2952e
+¡≈[_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.ç
+ÈÌÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.*
+Ê#È# _root_.org.typelevel.paiges.Doc.]
+ßp´pS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+—“Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2205..2211\
+ûY°YR_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.U
+µ4∫4Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..6448Ü
+ùû|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.*
+Ñfáf _root_.org.typelevel.paiges.Doc.$
+ÁTÍT_root_.org.scalacheck.Gen.U
+…4Œ4Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..6448Ö
+ I”I{_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.U
+’÷Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2005..2011U
+èêKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2319..2325U
+€›Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2717..2747k
+¿¬a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.]
+∑ªS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.0
+¨A±A&_root_.org.typelevel.paiges.Doc.Empty.U
+” ‘ Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4179..4185F
+¨M≤M<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.Ü
+≠3Æ3|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.]
+ÙS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+íKìKKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9618..9619*
+ü^¢^ _root_.org.typelevel.paiges.Doc.$
+∏∫_root_.scala.Int#`==`(I)Z.U
+ÁËKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3861..3870W
+®[©[Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11688..11694N
+©2∞2D_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.U
+∆«Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2335..2341Ä
+∂TºTv_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.F
+ü•<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+∞±Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1695..1828U
+ƒ>≈>Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7983..7984U
+Ë È Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4179..4185F
+ø≈<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.1
+ø
+√
+'_root_.scala.collection.immutable.List.W
+ÆUØUMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10926..109320
+∞@µ@&_root_.org.typelevel.paiges.Doc.Union.]
+˛Ä	S_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.]
+πΩS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+ÉGÜGKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8785..8826h
+§K™K^_root_.scala.collection.immutable.StringLike#format(Lscala/collection/Seq;)Ljava/lang/String;.l
+ ’b_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.W
+¶UßUMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10918..109245
+Ò"¯"+_root_.org.typelevel.paiges.Doc#isEmpty()Z.U
+ÈÍKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1125..1197F
+‘'⁄'<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+’DÿDKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8785..8826Ô
+˝É‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.U
+ø@Õ@Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309/
+È<Ì<%_root_.org.typelevel.paiges.Doc.Line.(
+¡…_root_.org.scalatest.FunSuite#`
+ØbøbV_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.*
+∏iªi _root_.org.typelevel.paiges.Doc.W
+ÍUÎUMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10934..10940æ
+æ"ƒ"≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.d
+œ–Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+Œ@œ@Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8246..8247U
+ÆBØBKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8480..8481
+ó'ö'_root_.scala.Int#U
+°J¢JKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9505..9506d
+≈3∆3Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.ç
+î ò Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.(
+ª'º'_root_.scala.Int#`unary_-`()I.ç
+¯m¸mÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.5
+˛:Ç;+_root_.org.typelevel.paiges.Doc.Union#bDoc.î
+ œâ_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.*
+‡„ _root_.org.typelevel.paiges.Doc#]
+ÍDÏDS_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.#
+Æµ_root_.java.lang.Integer.5
+âCçC+_root_.org.typelevel.paiges.Doc.Union#bDoc.2
+¸#É$(_root_.org.scalatest.Assertions#succeed.U
+€‹Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2335..2341U
+ä2ã2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6410..6416Ç
+ƒM«Mx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.ç
+ÇÜÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.S
+√T TI_root_.org.scalacheck.Gen#flatMap(Lscala/Function1;)Lorg/scalacheck/Gen;.W
+ôU°UMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10840..10871/
+®9¨9%_root_.org.typelevel.paiges.Doc.Line.U
+œB–BKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8527..8528U
+˝˛Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2005..2011]
+ﬂD·DS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.]
+êîS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+∏6ø6D_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.†
+ñúï_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function3;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.2
+ —(_root_.org.scalatest.Assertions#succeed.6
+ÊWÒW,_root_.org.typelevel.paiges.Doc.lineOrSpace.U
+œ2‘2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..6448Ü
+ù^û^|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.W
+Ω[¿[Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11705..11725F
+˘uˇu<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.]
+Ÿp›pS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.W
+êuïuMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14137..14529S
+ÇäIpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@287..3370
+√∆&_root_.scala.collection.immutable.Nil.U
+¸:˝:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7473..7486W
+œ\—\Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11855..11863Ç
+˜_˙_x_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.W
+€[‹[Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11688..11694
+Ω¡_root_.java.U
+„‰Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3872..3881L
+ì^ó^B_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.W
+√ZƒZMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11554..11560U
+∞I≥IKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9266..9337Å
+ä+ç+w_root_.scala.collection.immutable.List#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.U
+«3»3Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6402..6408U
+˛%ˇ%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4716..4734P
+ïoóoF_root_.scala.Predef.ArrowAssoc#`->`(Ljava/lang/Object;)Lscala/Tuple2;.F
+ù£<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.d
+πp∫pZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.Ö
+äí{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.Ô
+¬$»$‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.ç
+Ω;¡;Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.ç
+§G®GÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.ç
+éHíHÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.]
+Ú%ı%S_root_.scala.collection.Iterator#map(Lscala/Function1;)Lscala/collection/Iterator;.K
+˛VˇVA_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.W
+Ωn¬nMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14137..14529W
+∂U∑UMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10934..10940h
+‹M‚M^_root_.scala.collection.immutable.StringLike#format(Lscala/collection/Seq;)Ljava/lang/String;.U
+πªKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3176..3202Ü
+ó/û/|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.\
+èDíDR_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.U
+ÚKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2796..2827W
+êRñRMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10344..10439U
+Ω&¡&Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4741..4763U
+∑∏Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2319..2325^
+‚%‰%T_root_.scala.collection.Iterator#`++`(Lscala/Function0;)Lscala/collection/Iterator;.6
+ÑYèY,_root_.org.typelevel.paiges.Doc.lineOrSpace.W
+ﬂQÁQMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10306..10338U
+æCøCKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8615..8621*
+è^í^ _root_.org.typelevel.paiges.Doc.P
+ìWîWF_root_.scala.collection.immutable.StringLike#`*`(I)Ljava/lang/String;.W
+¶mØmMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13258..135215
+Í Ò +_root_.org.typelevel.paiges.Doc#isEmpty()Z.V
+¶ßL_root_.scala.collection.immutable.StringLike#r()Lscala/util/matching/Regex;.6
+ˆ$˛$,_root_.org.typelevel.paiges.Doc#maxWidth()I.W
+‹T‰TMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10840..10871F
+≤∏<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.N
+∑5æ5D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.U
+´<π<Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309*
+⁄› _root_.org.typelevel.paiges.Doc#d
+˘\˙\Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.
+πUºU_root_.scala.Int#U
+ MÀMKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9930..9931U
+Ç2É2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6402..6408*
+º#ø# _root_.org.typelevel.paiges.Doc#L
+£^ß^B_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.ç
+‹Y‡YÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.U
+ª2ø2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6455..6484U
+¶%Ø%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4770..4804*
+∑7∫7 _root_.org.typelevel.paiges.Doc#Ö
+‘‹{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.]
+ÿI‹IS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+ÿﬁD_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.:
+æ∆0_root_.org.typelevel.paiges.PaigesTest.docEquiv.
+CF_root_.org.U
+µK∂KKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9618..9619}
+Ù˘s_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.*
+©¨ _root_.org.typelevel.paiges.Doc.ç
+…ÕÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.*
+öú _root_.java.lang.Object#`##`()I.Ô
+ª\¡\‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.*
+á/ä/ _root_.org.typelevel.paiges.Doc.N
+Ü	ç	D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;./
+àfåf%_root_.org.typelevel.paiges.Doc.line.U
+˙˚Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2472..2478U
+∑∏Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2005..2011`
+’:ÿ:V_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#`===`(Lorg/typelevel/paiges/Doc;)Z.U
+ïñKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3872..3881/
+û9¢9%_root_.org.typelevel.paiges.Doc.Text.*
+œu“u _root_.org.typelevel.paiges.Doc.U
+‡2Â2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6492..6523U
+Í?¯?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309U
+ª=º=Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7853..7854
+˚Q˛Q_root_.scala.Int#U
+ÛˆKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3892..3910U
+È8Ì8Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561$
+ÿ$‹$_root_.scala.package.List#*
+∞D≥D _root_.org.typelevel.paiges.Doc.W
+ÑUçUMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10786..10835ç
+õ"ü"Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.*
+£¶ _root_.org.typelevel.paiges.Doc#d
+∫DªDZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+î'ï'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5012..5018U
+®©Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2472..2478U
+ÔBBKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8527..8528U
+—”Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2717..2747U
+ê%ë%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4684..4690U
+”*Ÿ*Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5455..5528*
+’_ÿ_ _root_.org.typelevel.paiges.Doc.ç
+•X©XÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.<
+™¨2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.W
+ºQΩQMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10363..10369U
+Ø3∞3Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6402..6408Y
+á!â!O_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.F
+ı˚<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+ÑAÖAKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8324..8330P
+‰oÊoF_root_.scala.Predef.ArrowAssoc#`->`(Ljava/lang/Object;)Lscala/Tuple2;.Ü
+‡#·#|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.U
+Œ#œ#Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4537..4543U
+ıC˙CKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8689..8726U
+÷◊Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2472..2478W
+«f fMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13037..13073W
+ª]Ω]Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11855..11863*
+‘◊ _root_.org.typelevel.paiges.Doc.U
+ÓGÔGKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9162..9171]
+¢i¶iS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.W
+ºmΩmMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14012..14013*
+ÁoÍo _root_.org.typelevel.paiges.Doc.N
+¶	≠	D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.b
+íõX_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+ìIñI _root_.org.typelevel.paiges.Doc.5
+–#◊#+_root_.org.typelevel.paiges.Doc#isEmpty()Z.U
+†B°BKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8480..8481U
+…?Õ?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8095..8099U
+‡"·"Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4424..4430Ä
+éIíIv_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.1
+¢¨'_root_.org.typelevel.paiges.PaigesTest.]
+∑^ª^S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.F
+ü!•!<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.Q
+æøG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.U
+’ÿKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2645..2653
+˛Ö_root_.scala.Boolean#U
+£B§BKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8483..8484U
+Ã7Õ7Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7092..7098U
+≠=Æ=Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7853..7854*
+éë _root_.org.typelevel.paiges.Doc.*
+≈h»h _root_.org.typelevel.paiges.Doc.U
+å'ç'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5004..5010U
+ô6ö6Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6937..6943*
+‹*ﬂ* _root_.org.typelevel.paiges.Doc.ç
+öûÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.W
+ŸU⁄UMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10934..10940]
+ÂcÈcS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+ô;ö;Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7577..7583U
+◊6‹6Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6954..6975Ô
+ôü‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.Y
+ÄDÇDO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.U
+ÄBÅBKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8448..8449.
+ﬁ„$_root_.java.io.PrintWriter#close()V.Y
+øH¡HO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.*
+öYùY _root_.org.typelevel.paiges.Doc.*
+Ò8Ù8 _root_.org.typelevel.paiges.Doc#U
+·A‚AKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8417..8418U
+ÇIáIKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9342..9396e
+÷⁄[_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.W
+∑]π]Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11845..11853W
+èUóUMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10840..10871S
+≠P¥PI_root_.org.scalacheck.Gen#flatMap(Lscala/Function1;)Lorg/scalacheck/Gen;.U
+ü2§2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..6448W
+€V‹VMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11099..11100U
+ﬁAﬂAKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8414..8415ã
+˝KãLÄ_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.*
+åLèL _root_.org.typelevel.paiges.Doc.]
+ÀeœeS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.F
+Ê'Ï'<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.*
+€8ﬁ8 _root_.org.typelevel.paiges.Doc.
+±]∂]_root_.scala.Array.U
+¿¡Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3136..3137W
+¡Y≈YMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11340..11363U
+∑∏Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2189..2195æ
+™7∞7≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.U
+ÿ=Ÿ=Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7896..7897ç
+”◊Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.*
+ø¬ _root_.org.typelevel.paiges.Doc./
+æA¬A%_root_.org.typelevel.paiges.Doc.Line.p
+áuèuf_root_.org.typelevel.paiges.Doc.tabulate(Lscala/collection/immutable/List;)Lorg/typelevel/paiges/Doc;.*
+¥*∑* _root_.org.typelevel.paiges.Doc.N
+ﬂÂD_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.K
+„U‰UA_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.$
+üQ°Q_root_.scala.Int#`<=`(I)Z.U
+ˆ9˜9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7414..7415ç
+…RÕRÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.U
+∞;±;Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7577..7583]
+ÈÎS_root_.org.typelevel.paiges.Doc#`&:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+ß™ _root_.org.typelevel.paiges.Doc.Y
+œb—bO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.]
+—H’HS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.J
+ñ!ú!@_root_.scala.collection.IterableLike#forall(Lscala/Function1;)Z.U
+Õ9Œ9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7373..7374U
+ˇ9É:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561(
+±B≥B_root_.scala.Boolean#`&&`(Z)Z.U
+óAòAKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8324..8330]
+ÀZ◊ZS_root_.org.typelevel.paiges.Doc#renderStream(I)Lscala/collection/immutable/Stream;.ç
+ﬂ„Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.ç
+ìgógÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.K
+∆ÕA_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.W
+êPôPMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10252..10301U
+œ%‘%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4811..4876U
+Ø>∞>Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7983..7984*
+ˇÅ _root_.java.lang.Object#`##`()I.$
+úPüP_root_.org.scalacheck.Gen.W
+≈Q∆QMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10363..10369^
+˙ÇT_root_.java.io.ByteArrayOutputStream#toString(Ljava/lang/String;)Ljava/lang/String;.U
+∂6∑6Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6937..6943ç
+„ÁÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.
+r|_root_.org.scalacheck.]
+¢q¶qS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.V
+Ë%%L_root_.scala.collection.LinearSeqLike#iterator()Lscala/collection/Iterator;.W
+‘U’UMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10926..10932*
+˝Ä _root_.org.typelevel.paiges.Doc#æ
+ùC£C≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.Ä
+´DØDv_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.ç
+ıb˘bÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.0
+…BŒB&_root_.org.typelevel.paiges.Doc.Union.ç
+˚UˇUÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.U
+‘$÷$Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4692..4705Ö
+÷bﬁb{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.N
+ÎpÒpD_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.U
+$Ò$Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4716..4734U
+Ñ:Ö:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7417..74181
+◊u€u'_root_.scala.collection.immutable.List.*
+Ö2à2 _root_.org.typelevel.paiges.Doc#W
+ÀT“TMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10827..10834N
+ÚD˘DD_root_.org.typelevel.paiges.Doc#aligned()Lorg/typelevel/paiges/Doc;.*
+ú;ü; _root_.org.typelevel.paiges.Doc#]
+˜g˚gS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+¬≈Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2645..2653Ä
+´±v_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.U
+Œ”Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1331..1408U
+ÕŒKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2197..2203Ö
+±EπE{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.W
+˙[˚[Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11688..11694*
+≥∂ _root_.org.typelevel.paiges.Doc.
+±U¥U_root_.scala.Int#F
+∂º<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.*
+óeöe _root_.org.typelevel.paiges.Doc.*
+ºpøp _root_.org.typelevel.paiges.Doc.W
+Ñ]Ü]Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11855..11863*
+ÉuÜu _root_.org.typelevel.paiges.Doc.W
+øQ¬QMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10371..10379Ç
+åKèKx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.U
+©'≠'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5029..5060U
+˘9˙9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7417..7418§
+˝TÉUô_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lorg/scalacheck/Gen;Lorg/scalacheck/Gen;Lorg/scalacheck/Gen;Lscala/collection/Seq;Lscala/Function3;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Shrink;Lorg/scalacheck/Shrink;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.P
+€Z„ZF_root_.scala.collection.immutable.Stream#mkString()Ljava/lang/String;.W
+ÕcœcMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12745..12810
+àç_root_.scala.U
+’=÷=Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7893..7894W
+˚P¸PMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10363..103690
+ñ9õ9&_root_.org.typelevel.paiges.Doc.Empty.W
+–U—UMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10918..10924ç
+∫/æ/Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.*
+ºDøD _root_.org.typelevel.paiges.Doc.*
+äIçI _root_.org.typelevel.paiges.Doc.U
+„9‰9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7373..7374]
+∞≤S_root_.org.typelevel.paiges.Doc#`/:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.W
+ûf°fMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13037..13073/
+®=¨=%_root_.org.typelevel.paiges.Doc.Text.
+GP_root_.org.scalatest.e
+Ûˆ[_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#`===`(Lorg/typelevel/paiges/Doc;)Z.(rhs)]
+ºi¿iS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.F
+ÊÏ<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.N
+‰_Î_D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.]
+¡√S_root_.org.typelevel.paiges.Doc#`:&`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.æ
+è6ï6≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.U
+Ò:Ú:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7481..7482b
+∏*¡*X_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+´4≤4D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.U
+ò:ô:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7448..7449%
+òû_root_.scala.Predef.String#*
+À"Œ" _root_.org.typelevel.paiges.Doc#d
+∂_∑_Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.ç
+ê$î$Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.U
+¥7µ7Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7092..7098*
+àQãQ _root_.org.typelevel.paiges.Doc#æ
+û[§[≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.W
+ﬁVﬂVMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11102..11103U
+ÆØKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3719..3728U
+ø3ƒ3Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..6448W
+∫ZªZMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11546..11552U
+ÏÓKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3176..3202]
+ÈGÌGS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+¶4™4Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6455..6484]
+ÎoÔoS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.]
+æe¬eS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.P
+¿b»bF_root_.scala.collection.immutable.Stream#mkString()Ljava/lang/String;.U
+∑!∏!Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4179..4185U
+œ—Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3147..3169*
+∏_ª_ _root_.org.typelevel.paiges.Doc.U
+ÑâKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1331..1408W
+ÁmÔmMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13527..13951U
+π?∫?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8070..8071U
+ºΩKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3730..3739U
+óòKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2327..2333*
+™C≠C _root_.org.typelevel.paiges.Doc#Ä
+ÓÙv_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.*
+„IÊI _root_.org.typelevel.paiges.Doc.-
+©!∞!#_root_.java.lang.String#isEmpty()Z.]
+ˆV˙VS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.
+Õ<–<_root_.scala.Int#F
+áGçG<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.e
+Òcıc[_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.W
+öZõZMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11546..11552Q
+ÛLÙLG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.U
+ÀÃKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2946..2952U
+ﬂ‡Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3136..3137k
+ÿ⁄a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.0
+√»&_root_.org.typelevel.paiges.Doc.empty.U
+Æ6≥6Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6954..6975S
+ﬁÈIpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@346..395Ö
+…J—J{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.]
+ÔÛS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.a
+¢™W_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;)Ljava/lang/String;.Ô
+¯1˛1‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.ç
+Ö8â8Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.Ç
+∆H…Hx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.B
+€ﬁ8_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#(lhs)*
+XÛX _root_.org.typelevel.paiges.Doc.W
+•Q®QMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10371..10379:
+àê0_root_.org.typelevel.paiges.PaigesTest.docEquiv.Ç
+ñYôYx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.Y
+îJñJO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.*
+´Æ _root_.org.typelevel.paiges.Doc#d
+éèZ_root_.org.typelevel.paiges.Doc#`&`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+ÌMÓMKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9930..9931d
+Ö`Ü`Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+µ5∂5Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6813..6819l
+¸áb_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.]
+ÁIÎIS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+Õ5‘5D_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.*
+ç2ê2 _root_.org.typelevel.paiges.Doc#1
+≈n…n'_root_.scala.collection.immutable.List.U
+ÑÖKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3588..3589R
+‹·H_root_.org.scalacheck.Gen.const(Ljava/lang/Object;)Lorg/scalacheck/Gen;.0
+ﬁ„&_root_.org.typelevel.paiges.Doc.space.F
+å(í(<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.W
+…Z ZMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11546..11552U
+áàKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3719..3728U
+¯%˘%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4856..4857d
+ùIûIZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+ÏÌKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3374..3380*
+¡√ _root_.java.lang.Object#`##`()I.W
+ïWñWMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11102..11103*
+íï _root_.org.typelevel.paiges.Doc.ç
+“&÷&Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.V
+◊ÿL_root_.scala.collection.immutable.StringLike#r()Lscala/util/matching/Regex;.M
+Í7Û7C_root_.scala.Option#getOrElse(Lscala/Function0;)Ljava/lang/Object;.Ü
+≥4¥4|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.d
+”p‘pZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+πªKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1461..1512*
+¥o∑o _root_.org.typelevel.paiges.Doc.F
+¸[Ç\<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.E
+πV√V;_root_.org.scalacheck.Gen.identifier()Lorg/scalacheck/Gen;.U
+⁄7€7Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7092..7098W
+µPºPMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10293..10300U
+HÒHKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9292..9293]
+àiåiS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.^
+›‚T_root_.org.typelevel.paiges.Doc#space(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.Ô
+À—‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.U
+µLπLKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9708..9769*
+üI¢I _root_.org.typelevel.paiges.Doc.]
+‚nÊnS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.d
+˚¸Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.=
+œ⁄3_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#U
+¶©Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3892..3910U
+π	∫	Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1125..1197U
+Ì2Ú2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..64481
+˝á'_root_.org.typelevel.paiges.PaigesTest.Ç
+õJûJx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.U
+√ƒKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3585..3586
+nq_root_.org.Å
+ÎuÓuw_root_.scala.collection.immutable.List#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.0
+©>Æ>&_root_.org.typelevel.paiges.Doc.Align.F
+í%ò%<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+≠ÆKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2013..2019U
+ÜBäBKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8315..8599W
+ªO–OMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10167..10247N
+ëóD_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.U
+≤≥Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3585..3586˘
+©ØÓ_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lorg/scalacheck/Gen;Lorg/scalacheck/Gen;Lscala/collection/Seq;Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Shrink;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.d
+úiùiZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.*
+ÚVıV _root_.org.typelevel.paiges.Doc.U
+Ÿ:⁄:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7473..7486U
+®©Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2005..2011U
+ıˆKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2005..2011F
+˜˝<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.N
+›6‰6D_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.*
+≥^∂^ _root_.org.typelevel.paiges.Doc.Ä
+ÇÉv_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(y)2
+á"é"(_root_.org.scalatest.Assertions#succeed.*
+ﬁn·n _root_.org.typelevel.paiges.Doc.W
+Œg◊gMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13258..13521U
+°¢Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3585..3586Y
+™E¨EO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.6
+£IÆI,_root_.org.typelevel.paiges.Doc.lineOrSpace.Ü
+… |_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.d
+≤o≥oZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.S
+£´Ipaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@287..337
+…\Õ\_root_.scala.Char#U
+ÏÌKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2464..2470F
+Ÿmﬂm<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+°£Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2717..2747
+˜8˛8_root_.scala.Boolean#U
+üD§DKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8731..8780U
+€'ﬂ'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5029..5060U
+‘’Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3730..3739Ü
+Õ6“6|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;./
+–=‘=%_root_.org.typelevel.paiges.Doc.Nest.Ü
+Œ]—]|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.U
+á@â@Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8160..8162R
+§•H_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.P
+†p¢pF_root_.scala.Predef.ArrowAssoc#`->`(Ljava/lang/Object;)Lscala/Tuple2;.]
+Øh≥hS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+£§Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3363..3372
+_root_.org.F
+†`¶`<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.h
+„HÈH^_root_.scala.collection.immutable.StringLike#format(Lscala/collection/Seq;)Ljava/lang/String;.k
+ÈÎa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.U
+ÇÉKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2946..2952U
+â?ä?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8073..80740
+™]∞]&_root_.java.lang.String#`<init>`([C)V.U
+¢@§@Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8091..8093]
+≠±S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.Y
+⁄X‹XO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.M
+∂–C_root_.org.scalatest.prop.Configuration#PropertyCheckConfiguration.,
+»?…?"_root_.scala.Boolean#`unary_!`()Z.1
+Vd)_root_.org.scalatest.prop.PropertyChecks.S
+õ°Ipaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@404..512W
+”m‘mMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14015..14016*
+ßD™D _root_.org.typelevel.paiges.Doc.U
+†(§(Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5029..5060*
+Â*Ë* _root_.org.typelevel.paiges.Doc.U
+ü?£?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8095..8099Ä
+’P€Pv_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.*
+°R§R _root_.org.typelevel.paiges.Doc./
+ŸA›A%_root_.org.typelevel.paiges.Doc.Nest.W
+º%ƒ%M_root_.scala.collection.IndexedSeqLike#iterator()Lscala/collection/Iterator;.Ä
+©™v_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(x)U
+Ã$Õ$Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4684..4690Q
+ÕŒG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.
+)2_root_.org.scalatest.W
+˚V¸VMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11099..11100æ
+¿G∆G≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.*
+ÔQÚQ _root_.org.typelevel.paiges.Doc#*
+¢• _root_.org.typelevel.paiges.Doc#U
+ã@ç@Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8164..8166*
+áAäA _root_.org.typelevel.paiges.Doc#U
+ﬁ9‚9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561†
+Öãï_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function3;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.W
+óRúRMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10484..10494U
+êëKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2013..2019*
+…_Ã_ _root_.org.typelevel.paiges.Doc.*
+Ω<¿< _root_.org.typelevel.paiges.Doc#U
+¥B∏BKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8315..85996
+ã/ñ/,_root_.org.typelevel.paiges.Doc.lineOrSpace.*
+åmèm _root_.org.typelevel.paiges.Doc.Y
+ΩMøMO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.k
+’e◊ea_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.*
+´[Æ[ _root_.org.typelevel.paiges.Doc#V
+˜'Ö(L_root_.org.typelevel.paiges.Doc#representation(Z)Lorg/typelevel/paiges/Doc;.U
+ﬂ‡Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2655..2661]
+¨_∞_S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+ 9À9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7370..7371]
+…hÕhS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.0
+¸eÅf&_root_.org.typelevel.paiges.Doc.comma.1
+⁄gﬁg'_root_.scala.collection.immutable.List.Œ
+†¶√_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lorg/scalacheck/Gen;Lscala/collection/Seq;Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.U
+¶ßKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2655..2661U
+ïGõGKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8911..90796
+‚"Í",_root_.org.typelevel.paiges.Doc#nonEmpty()Z.W
+ÙlˇlM_root_.scala.collection.immutable.StringLike#stripMargin()Ljava/lang/String;.ç
+ñ\ö\Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.\
+âXåXR_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.
+ƒ<À<_root_.scala.Boolean#*
+’pÿp _root_.org.typelevel.paiges.Doc.%
+ÕG”G_root_.scala.Predef.String#*
+Œ— _root_.org.typelevel.paiges.Doc#Ü
+æø|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.Ä
+˙˚v_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(x)6
+ß/≤/,_root_.org.typelevel.paiges.Doc.lineOrSpace.]
+ñöS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+†£ _root_.org.typelevel.paiges.Doc#Ç
+áDäDx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.U
+çèKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3209..3235W
+øm¿mMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14015..14016*
+êì _root_.org.typelevel.paiges.Doc#F
+óuùu<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.F
+∞&∂&<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+æøKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2327..2333U
+ÒÚKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3872..3881U
+»"…"Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4424..4430*
+†5£5 _root_.org.typelevel.paiges.Doc#W
+∆PŒPMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10306..10338W
+í]ö]Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11918..11968U
+†°Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3872..3881ç
+§®Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.*
+˚\˛\ _root_.org.typelevel.paiges.Doc.U
+Ù$ı$Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4684..4690U
+‰DÈDKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8731..8780á
+º_«_}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.U
+∏ªKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3892..3910U
+∑
+º
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1331..1408U
+–—Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3363..3372H
+‹7È7>_root_.org.typelevel.paiges.Doc#flattenOption()Lscala/Option;.W
+Ê\È\Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11874..11911F
+«Õ<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.á
+÷W·W}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;./
+˙Å%_root_.scala.util.Random#nextInt(I)I.Ç
+ÅXÑXx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;./
+¥A∏A%_root_.org.typelevel.paiges.Doc.Text.1
+Æ∏'_root_.org.typelevel.paiges.PaigesTest#U
+ÿ9Ÿ9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7370..7371U
+ÕŒKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2319..2325]
+í+ñ+S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.]
+Ûu˜uS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.F
+ÉWâW<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.F
+Àf—f<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.0
+•R™R&_root_.org.typelevel.paiges.Doc.empty.6
+èXóX,_root_.org.typelevel.paiges.Doc#maxWidth()I.æ
+è;ï;≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.W
+±R≤RMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10476..10482U
+∑&∏&Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4905..4906ç
+ÌÒÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.P
+€n›nF_root_.scala.Predef.ArrowAssoc#`->`(Ljava/lang/Object;)Lscala/Tuple2;.W
+ûRüRMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10476..10482ç
+Ú6ˆ6Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.$
+√∆_root_.org.scalacheck.Gen.U
+∂@∑@Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8246..8247@
+›‚6_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#]
+ÏS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.W
+≈\«\Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11845..11853U
+πCΩCKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8315..8599U
+˘?˙?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8073..8074=
+ìô3_root_.scala.util.Random.;_root_.scala.util.Random#W
+¢Z£ZMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11554..11560*
+¯˚ _root_.org.typelevel.paiges.Doc#F
+ÒG˜G<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+”EŸEKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8911..9079W
+–m—mMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14012..14013U
+“”Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2946..2952U
+Å9Ç9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7278..7284M
+ÔSâTC_root_.org.scalatest.prop.Configuration#PropertyCheckConfiguration.]
+§e®eS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.W
+—SÊSMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10701..10781U
+ä!ã!Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4179..4185d
+«4»4Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+ƒ≈Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3872..3881S
+€ÊIpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@346..3950
+í:ó:&_root_.org.typelevel.paiges.Doc.Align.Y
+_Ú_O_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.U
+ı'ˆ'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5004..5010W
+•u≠uMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14535..14967%
+¶¨_root_.scala.Predef.String#*
+âå _root_.org.typelevel.paiges.Doc.U
+†°Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2464..2470U
+˜:˚:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561W
+ÙQ˘QMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10484..10494U
+∫<ª<Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7738..7744$
+ÿ€_root_.org.scalacheck.Gen.]
+ÕœS_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.0
+£®&_root_.org.typelevel.paiges.Doc.empty.]
+úo†oS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+∂∫Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2672..2710Ä
+ÎTÒTv_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.*
+òõ _root_.org.typelevel.paiges.Doc#ç
+Õ—Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.Ç
+ÚMıMx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.U
+•?¶?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8101..8102`
+§Y¥YV_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.]
+ı˘S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.%
+»Õ_root_.scala.package.Equiv#U
+àâKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2480..2486U
+ãBåBKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8448..8449/
+¿DƒD%_root_.org.typelevel.paiges.Doc.line.U
+ˇ@ÉAKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8315..8599*
+£/¶/ _root_.org.typelevel.paiges.Doc.U
+‡?‚?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8160..8162W
+ÏQÌQMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10476..10482W
+µR∫RMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10484..10494m
+çöc_root_.org.typelevel.paiges.Doc.equivAtWidths(Lscala/collection/immutable/List;)Lscala/math/Equiv;.
+Ì_root_.scala.Int#Å
+∞m≥mw_root_.scala.collection.immutable.List#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.*
+ùZ†Z _root_.org.typelevel.paiges.Doc#V
+π!«!L_root_.org.typelevel.paiges.Doc#representation(Z)Lorg/typelevel/paiges/Doc;.N
+ 3—3D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.*
+∆… _root_.org.typelevel.paiges.Doc.*
+Ñiái _root_.org.typelevel.paiges.Doc.*
+˚_˛_ _root_.org.typelevel.paiges.Doc.6
+≈[Õ[,_root_.org.typelevel.paiges.Doc#maxWidth()I.U
+“'”'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5004..5010W
+ú`ü`Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12194..12304W
+´bÆbMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12194..12304á
+ÙXˇX}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.U
+‰'Â'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5004..5010e
+œ”[_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+û:¢:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561B
+óö8_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#(lhs)*
+ÎÓ _root_.org.typelevel.paiges.Doc.W
+éfêfMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12981..13032
+_root_.org.typelevel.U
+∆DÀDKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8689..8726*
+„Ê _root_.org.typelevel.paiges.Doc#
+¬ƒ_root_.java.io.]
+ÙS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+Ú-¯-Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5455..5528F
+ÙJ˙J<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.*
+Ï\Ô\ _root_.org.typelevel.paiges.Doc.4
+Ÿ_‚_*_root_.org.typelevel.paiges.Doc.lineBreak.*
+‡„ _root_.org.typelevel.paiges.Doc#U
+ÙHıHKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9292..9293Ô
+Ç'à'‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.*
+ÄYÉY _root_.org.typelevel.paiges.Doc.]
+˚pˇpS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.F
+Œ!‘!<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+â&ä&Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4716..4734/
+»Ã%_root_.org.typelevel.paiges.Doc.line.U
+”9◊9Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561N
+≈2Ã2D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.]
+˛ÇS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+˛GˇGKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9162..9171Y
+ÕLœLO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.Ç
+∫KΩKx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.0
+¥DπD&_root_.org.typelevel.paiges.Doc.comma.U
+ÈMÍMKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9930..9931U
+Ê	Á	Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1125..1197Ä
+…VœVv_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.Ä
+∆«v_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(y)U
+™?∏?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309U
+¨*±*Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5416..5450U
+«B»BKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8519..8532]
+’ŸS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.L
+ŒmœmB_root_.java.lang.String#`+`(Ljava/lang/Object;)Ljava/lang/String;.U
+ΩæKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3588..3589,
+Ó"Ô""_root_.scala.Boolean#`unary_!`()Z.U
+í3ó3Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6492..6523F
+Ûf˘f<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.R
+ëWíWH_root_.scala.Predef.augmentString(Ljava/lang/String;)Ljava/lang/String;.U
+⁄L€LKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9818..98190
+≥:∏:&_root_.org.typelevel.paiges.Doc.Union.]
+∏oºoS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+›ﬁKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2013..2019Ö
+»K–K{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.W
+ÔfÚfMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13037..130730
+ùe¢e&_root_.org.typelevel.paiges.Doc.comma.k
+˙¸a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.U
+©B≠BKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8315..8599U
+ÙˆKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1461..1512Ä
+∫ªv_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(x)W
+ÆQ¥QMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10344..10439*
+πª _root_.java.lang.Object#`##`()I.Ü
+ø5∆5|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.U
+√'ƒ'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5012..5018]
+°]•]S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+õ?ù?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8091..8103ç
+À^œ^Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.d
+¡¬Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+ïñKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2197..2203W
+ÄWÅWMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11102..11103d
+√QƒQZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.$
+ß™_root_.org.scalacheck.Gen.U
+ñòKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2834..2856U
+⁄€Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3861..3870U
+˝L˛LKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9818..9819*
+é+ë+ _root_.org.typelevel.paiges.Doc.d
+ ÀZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.Ä
+˜e˚ev_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.U
+ßM´MKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9708..9769P
+ü†F_root_.scala.collection.immutable.StringLike#`*`(I)Ljava/lang/String;.U
+»…Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2189..2195F
+™∞<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.˘
+ÕQ”QÓ_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lorg/scalacheck/Gen;Lorg/scalacheck/Gen;Lscala/collection/Seq;Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Shrink;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.
+éí_root_.scala.util.k
+‚e‰ea_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.W
+€i„iMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13527..13951d
+‚c„cZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+π#∫#Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4537..4543U
+ÚÛKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3363..3372U
+æI¡IKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9402..9457l
+Ÿ‰b_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.*
+¸^ˇ^ _root_.org.typelevel.paiges.Doc.*
+ûi°i _root_.org.typelevel.paiges.Doc.U
+Ü?á?Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8070..8071U
+JÛJKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9402..9457U
+ŒœKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2655..2661ç
+ÀCœCÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.W
+Ït˜tM_root_.scala.collection.immutable.StringLike#stripMargin()Ljava/lang/String;.U
+ÂÊKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2480..2486U
+Ï::Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561W
+ÊUÁUMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10926..10932*
+éQëQ _root_.org.typelevel.paiges.Doc#*
+ÒÙ _root_.org.typelevel.paiges.Doc.U
+±:≤:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7473..7486L
+\Ù\B_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.*
+´hÆh _root_.org.typelevel.paiges.Doc.W
+Àq”qMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14535..14967U
+ùûKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2205..2211U
+ÆØKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3374..3380U
+ê@ë@Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8101..8102
+%(_root_.org.<
+∫&º&2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.U
+»…Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2464..2470]
+õüS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.]
+á`ã`S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+ú<ü< _root_.org.typelevel.paiges.Doc.E
+«—;_root_.org.scalacheck.Gen.identifier()Lorg/scalacheck/Gen;.*
+ü¢ _root_.org.typelevel.paiges.Doc.F
+¢f®f<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.Ö
+ÄNàN{_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;.U
+ö&ü&Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4811..48760
+ÂeËe&_root_.scala.collection.immutable.Nil.U
+KÙKKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9708..9769M
+ŸOÛOC_root_.org.scalatest.prop.Configuration#PropertyCheckConfiguration.$
+≈V»V_root_.org.scalacheck.Gen.U
+ô%ö%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4716..4734*
+÷ Ÿ  _root_.org.typelevel.paiges.Doc#W
+¶TØTMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10786..10835Ä
+‡*‰*v_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.U
+Ì=Ó=Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7896..7897"
+QU_root_.org.scalatest.prop.U
+æ¿Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1413..1456U
+‘◊Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3892..3910Q
+ÍHÎHG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.P
+õqùqF_root_.scala.Predef.ArrowAssoc#`->`(Ljava/lang/Object;)Lscala/Tuple2;.Q
+„M‰MG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.Ü
+ Ã|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.U
+ø¿Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2013..2019*
+íî _root_.java.lang.Object#`##`()I.d
+”_‘_Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.a
+∆YŒYW_root_.scala.collection.TraversableOnce#mkString(Ljava/lang/String;)Ljava/lang/String;.K
+≥R¥RA_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.F
+ÂÎ<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.0
+˝Ä&_root_.scala.collection.immutable.Nil.Y
+ˆW¯WO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.N
+–4◊4D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.Ü
+Œ7’7|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.U
+ÃHÕHKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9292..9293U
+â%ç%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4741..4763K
+ˇÄA_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.
+›$‡$_root_.scala.Int#U
+√2ƒ2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6402..6408U
+À5Ã5Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6813..6819Q
+∫JªJG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.U
+ GÀGKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9162..9171e
+”u÷u[_root_.org.typelevel.paiges.Doc.cat(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.Ä
+¨≠v_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(y)Q
+≥!¥!G_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.æ
+… œ ≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.6
+»–,_root_.org.typelevel.paiges.Doc#maxWidth()I.0
+Í#Ô#&_root_.org.typelevel.paiges.Doc.empty.W
+ódôdMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12745..12810U
+À:Ã:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7481..7482U
+Ô""Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4424..4430S
+Ï˜Ipaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@346..3950
+óIúI&_root_.org.typelevel.paiges.Doc.comma.Ü
+Õ:‘:|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.>
+}Ä5_root_.org.scalacheck.Gen.;_root_.org.scalacheck.Gen#6
+å!î!,_root_.org.typelevel.paiges.Doc#maxWidth()I.*
+ÖXàX _root_.org.typelevel.paiges.Doc.]
+ˆc˙cS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+˝IÄJKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9402..9457$
+_root_.org.typelevel.paiges.W
+ı\˜\Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11845..11853`
+äEöEV_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.F
+öd†d<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.G
+™µ=_root_.java.io.PrintWriter#`<init>`(Ljava/io/OutputStream;)V.*
+‘I◊I _root_.org.typelevel.paiges.Doc."
+ÚBÙB_root_.scala.Tuple2#(_2)Ü
+Ë-Ì-|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.d
+∂i∑iZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+òôKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2013..2019%
+ïõ_root_.scala.Predef.String#U
+íìKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3730..3739U
+ÆØKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2946..2952]
+û	†	S_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+ß3¨3Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..6448#
+ËUÈU_root_.scala.Int#`*`(I)I.*
+˛PÅQ _root_.org.typelevel.paiges.Doc#æ
+Ø#µ#≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.W
+ÿZŸZMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11554..11560Ü
+â3ç3|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.Ô
+êZñZ‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.Q
+´K¨KG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.W
+ÒeÙeMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13037..13073ç
+å
+ê
+Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.æ
+ì5ô5≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.U
+∂∏Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2796..2827L
+˚M¸MB_root_.java.lang.String#`+`(Ljava/lang/Object;)Ljava/lang/String;.Ä
+™eÆev_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.*
+òoõo _root_.org.typelevel.paiges.Doc.U
+Ù¯Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2672..2710Ä
+†P¶Pv_root_.org.scalacheck.Gen.choose(Ljava/lang/Object;Ljava/lang/Object;Lorg/scalacheck/Gen/Choose;)Lorg/scalacheck/Gen;.æ
+¯˛≥_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function1;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.,
+∂π"_root_.java.lang.Integer.max(II)I.S
+òûIpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@404..512
+çAîA_root_.scala.Boolean#G
+öØ=_root_.org.typelevel.paiges.PaigesTest#generatorDrivenConfig.W
+–X‘XMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11340..11363U
+¯BÜCKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309W
+ùQûQMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10355..10361
+”\◊\_root_.scala.Char#ç
+¶N™NÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.*
+‚WÂW _root_.org.typelevel.paiges.Doc.î
+õ†â_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;./
+Ö&à&%_root_.scala.runtime.RichInt#max(I)I.*
+Öà _root_.org.typelevel.paiges.Doc##
+é@è@_root_.scala.Int#`+`(I)I.F
+ôü<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.˘
+ÆV¥VÓ_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lorg/scalacheck/Gen;Lorg/scalacheck/Gen;Lscala/collection/Seq;Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Shrink;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.L
+ˇ\É]B_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.
+•Z®Z_root_.scala.Int#e
+πΩ[_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+ªºKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2197..2203L
+√KƒKB_root_.java.lang.String#`+`(Ljava/lang/Object;)Ljava/lang/String;.l
+Ó˘b_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+‘<’<Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7738..7744$
+∞≥_root_.org.scalacheck.Gen.U
+ãåKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3861..3870*
+ÿ€ _root_.org.typelevel.paiges.Doc#U
+µ>√>Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309U
+ÏAÌAKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8417..8418N
+ÉdädD_root_.org.typelevel.paiges.Doc#aligned()Lorg/typelevel/paiges/Doc;.*
+ú6ü6 _root_.org.typelevel.paiges.Doc#U
+ù!û!Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4179..4185*
+è'í' _root_.org.typelevel.paiges.Doc#U
+ÁAÎAKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8315..8599U
+ÜEâEKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8785..8826ç
+Â4È4Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.W
+·dÏdM_root_.scala.collection.immutable.StringLike#stripMargin()Ljava/lang/String;.6
+È*Ù*,_root_.org.typelevel.paiges.Doc.lineOrSpace./
+ˇî%_root_.java.io.ByteArrayOutputStream#d
+√hƒhZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.†
+Éâï_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function3;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.U
+æøKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3861..3870*
+≥∂ _root_.org.typelevel.paiges.Doc#]
+¿pƒpS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.ç
+‚5Ê5Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.F
+ÅJáJ<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.Y
+µ%∑%O_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.U
+ÿ%·%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4770..4804*
+©U¨U _root_.org.typelevel.paiges.Doc#W
+ÛPÙPMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10355..10361ç
+ª(ø(Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.ç
+ÂÈÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.#
+Û˘_root_.scala.util.Random.1
+ôBüB'_root_.org.typelevel.paiges.Doc.Concat.ç
+∂u∫uÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.]
+é	ê	S_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.Y
+ÖKáKO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.d
+ÇfÉfZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.U
+Æ&Ø&Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4684..4690*
+íï _root_.org.typelevel.paiges.Doc#K
+“U”UA_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.U
+∞±Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2480..24861
+√9…9'_root_.org.typelevel.paiges.Doc.Concat.*
+£p¶p _root_.org.typelevel.paiges.Doc.*
+⁄› _root_.org.typelevel.paiges.Doc.U
+©&™&Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4905..4906U
+´;Ø;Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561U
+£§Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1695..1828*
+˜˘ _root_.java.lang.Object#`##`()I.`
+›[Ì[V_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.1
+ˆ*˙*'_root_.scala.collection.immutable.List.F
+Ë	Ó	<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+‘’Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2327..2333U
+Â%Á%Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4692..4705U
+ºæKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2834..2856]
+ÿe‹eS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.O
+ëñE_root_.scala.math.Equiv#equiv(Ljava/lang/Object;Ljava/lang/Object;)Z.U
+Ù7ı7Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7092..7098*
+óö _root_.org.typelevel.paiges.Doc.U
+∂HπHKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9266..93371
+ˇ>Ö?'_root_.org.typelevel.paiges.Doc.Concat.W
+ëYïYMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11340..11363U
+ß2®2Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6410..6416Ô
+ãë‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.h
+≥JπJ^_root_.scala.collection.immutable.StringLike#format(Lscala/collection/Seq;)Ljava/lang/String;.b
+´¥X_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+‡BÓBKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309]
+ãèS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+¿¡Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2205..2211U
+Ç&É&Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4856..4857ç
+Œ“Ç_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.U
+–—Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3719..3728k
+»e ea_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.$
+—P‘P_root_.org.scalacheck.Gen.*
+ù]†] _root_.org.typelevel.paiges.Doc.*
+ƒ« _root_.org.typelevel.paiges.Doc.U
+ﬁ=Ï=Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309%
+£©_root_.scala.Predef.String#U
+¡4∆4Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6492..6523]
+ÜäS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+πB∫BKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8483..8484F
+∫L¿L<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.U
+ƒJ≈JKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9505..9506U
+âãKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1413..1456U
+£:§:Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7448..7449Q
+Ò'Ú'G_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.U
+¡¬Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3861..3870U
+áCàCKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8519..85325
+€:ﬂ:+_root_.org.typelevel.paiges.Doc.Union#bDoc.0
+Õ_“_&_root_.org.typelevel.paiges.Doc.comma.*
+Öà _root_.org.typelevel.paiges.Doc#Ô
+À—‰_root_.org.scalatest.prop.GeneratorDrivenPropertyChecks#forAll(Lscala/Function2;Lorg/scalatest/prop/Configuration/PropertyCheckConfigurable;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalacheck/Arbitrary;Lorg/scalacheck/Shrink;Lorg/scalatest/enablers/CheckerAsserting;Lorg/scalactic/Prettifier;Lorg/scalactic/source/Position;)Ljava/lang/Object;.*
+Ûgˆg _root_.org.typelevel.paiges.Doc.`
+ÔÚV_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#`===`(Lorg/typelevel/paiges/Doc;)Z.Ü
+≤¥|_root_.org.typelevel.paiges.PaigesTest.EquivSyntax(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/PaigesTest/EquivSyntax;.&
+3;_root_.org.scalatest.FunSuite#U
+¿J¡JKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9505..9506$
+≤TµT_root_.org.scalacheck.Gen.F
+ª	¡	<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.W
+¶_©_Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12194..12304d
+Î2Ï2Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.*
+ÂGËG _root_.org.typelevel.paiges.Doc.U
+¥'µ'Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5012..5018W
+É\Ü\Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11705..11725W
+ÏPÚPMpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10344..10439P
+µYΩYF_root_.scala.collection.immutable.Stream#mkString()Ljava/lang/String;.
+ˆP˘P_root_.scala.Int#
+±¥_root_.scala.Int#N
+‡:Á:D_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.]
+üL£LS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.U
+ƒ≈Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3872..3881ç
+¶W™WÇ_root_.org.scalatest.FunSuiteLike#test(Ljava/lang/String;Lscala/collection/Seq;Lscala/Function0;Lorg/scalactic/source/Position;)V.W
+ÏF˜FM_root_.scala.collection.immutable.StringLike#stripMargin()Ljava/lang/String;.F
+ºZ¬Z<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.}
+êmòms_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.U
+ú°Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1331..1408$
+ıB˜B_root_.scala.Int#`>=`(I)Z.U
+ÅÇKpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3136..3137;
+Ä&Å&1_root_.scala.LowPriorityImplicits#intWrapper(I)I."π
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10344..10439hsimple\(n: Int, d: org.typelevel.paiges.Doc, acc: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"â
+V_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#`===`(Lorg/typelevel/paiges/Doc;)Z./===&(rhs: org.typelevel.paiges.Doc)Boolean"q
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10918..10924 Ädorg.typelevel.paiges.Doc"`
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8095..8099doneBoolean"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8324..8330 Ädorg.typelevel.paiges.Doc"Y
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7893..7894
+jInt"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2464..2470 Äaorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4537..4543 Ädorg.typelevel.paiges.Doc"k
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4770..4804	justAfterIterator[Int]"r
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6954..6975#aflatorg.typelevel.paiges.Doc"Ö
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11340..113634nums*scala.collection.immutable.Range.Inclusive"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4856..4857ÄwInt"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7373..7374borg.typelevel.paiges.Doc"\
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10355..10361ÄnInt"^
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14012..14013sString"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1413..1456 d1org.typelevel.paiges.Doc"r
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6427..6448#flatCorg.typelevel.paiges.Doc"^
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3892..3910resString"å
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10252..10301;	smallTree,org.scalacheck.Gen[org.typelevel.paiges.Doc]"Y
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8101..8102
+lInt"p
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8785..8826!aryorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3176..3202 tnorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3147..3169 snorg.typelevel.paiges.Doc"√
+s_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.LequivA(x: org.typelevel.paiges.Doc, y: org.typelevel.paiges.Doc)Boolean";
+'_root_.org.typelevel.paiges.PaigesTest.ÄÑ
+PaigesTest":
+'_root_.org.typelevel.paiges.PaigesTest#Ä 
+PaigesTest"q
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9708..9769"map2org.typelevel.paiges.Doc"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4905..4906ÄwInt"ô
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8689..8726Jitems?scala.collection.immutable.IndexedSeq[org.typelevel.paiges.Doc]"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3588..3589ÄwInt"a
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4692..4705Äws	List[Int]"}
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7269..7561.okay$(d: org.typelevel.paiges.Doc)Boolean"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3861..3870ÄaString"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8417..8418dorg.typelevel.paiges.Doc"v
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10840..10871%smallIntorg.scalacheck.Gen[Int]"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2013..2019 Äborg.typelevel.paiges.Doc"^
+8_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#(lhs)"Älhsorg.typelevel.paiges.Doc"}
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8315..8599.okay$(d: org.typelevel.paiges.Doc)Boolean"_
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4741..4763maxRString"r
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5416..5450#firstorg.typelevel.paiges.Doc"ö
+=_root_.org.typelevel.paiges.PaigesTest#generatorDrivenConfig.YÅÄ generatorDrivenConfig<org.scalatest.prop.PropertyChecks.PropertyCheckConfiguration"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9292..9293ÄiInt"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2480..2486 Äcorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2319..2325 Äaorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4684..4690 Ädorg.typelevel.paiges.Doc"p
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9402..9457!maporg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3209..3235 unorg.typelevel.paiges.Doc"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9930..9931ÄiInt"™
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10701..10781YÅÄ generatorDrivenConfig<org.scalatest.prop.PropertyChecks.PropertyCheckConfiguration"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8070..8071aorg.typelevel.paiges.Doc"q
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11546..11552 Ädorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8615..8621 Äaorg.typelevel.paiges.Doc"r
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12194..12304!resorg.typelevel.paiges.Doc"b
+Ipaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@404..512widths	List[Int]"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6410..6416 Äcorg.typelevel.paiges.Doc"d
+3_root_.org.typelevel.paiges.PaigesTest#`<init>`()V.-<init>!()org.typelevel.paiges.PaigesTest"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9818..9819ÄiInt"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8483..8484borg.typelevel.paiges.Doc"j
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2717..2747pwjava.io.PrintWriter"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7983..7984dorg.typelevel.paiges.Doc"å
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10786..10835;	smallTree,org.scalacheck.Gen[org.typelevel.paiges.Doc]"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8480..8481aorg.typelevel.paiges.Doc"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5012..5018ÄwInt"Ñ
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14137..145293pairs(List[(String, org.typelevel.paiges.Doc)]"r
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13037..13073!docorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4424..4430 Ädorg.typelevel.paiges.Doc"^
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8160..8162d2Boolean"\
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10926..10932ÄaInt"c
+0_root_.org.typelevel.paiges.PaigesTest.docEquiv./ÅÄ docEquivEquiv[org.typelevel.paiges.Doc]"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2946..2952 Äaorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6402..6408 Äborg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2189..2195 Äaorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2197..2203 Äborg.typelevel.paiges.Doc"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2655..2661ÄwInt"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7092..7098 Äaorg.typelevel.paiges.Doc"s
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10371..10379"Äaccorg.typelevel.paiges.Doc"≥
+Y_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#`<init>`(Lorg/typelevel/paiges/Doc;)V.V<init>J(lhs: org.typelevel.paiges.Doc)org.typelevel.paiges.PaigesTest.EquivSyntax"_
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11099..11100ÄsString"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3719..3728ÄaString"q
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11688..11694 Ädorg.typelevel.paiges.Doc"^
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11845..11853Äc1Char"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3136..3137ÄnInt"Y
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4716..4734
+mInt"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7370..7371aorg.typelevel.paiges.Doc"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3363..3372ÄsString"g
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4811..4876goodWIterator[Int]"q
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10363..10369 Ädorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7577..7583 Äaorg.typelevel.paiges.Doc"\
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5029..5060wNegInt"q
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10476..10482 Ädorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6813..6819 Äaorg.typelevel.paiges.Doc"^
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11855..11863Äc2Char"r
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8731..8780#partsorg.typelevel.paiges.Doc"w
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11918..11968&expectedorg.typelevel.paiges.Doc"ó
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9266..9337Hkvs?scala.collection.immutable.IndexedSeq[org.typelevel.paiges.Doc]"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@4179..4185 Ädorg.typelevel.paiges.Doc"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3872..3881ÄbString"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7417..7418dorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2327..2333 Äborg.typelevel.paiges.Doc"e
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8091..8103r1(Boolean, Int)"w
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12981..13032&dsList[org.typelevel.paiges.Doc]"e
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14535..14967expectedString"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2796..2827s1String"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7481..7482aorg.typelevel.paiges.Doc"t
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7473..7486%uorg.typelevel.paiges.Doc.Union"q
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@12745..12810 d1org.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2205..2211 Äcorg.typelevel.paiges.Doc"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9618..9619ÄiInt"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9162..9171ÄsString"v
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2672..2710'baosjava.io.ByteArrayOutputStream"ö
+v_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(x) Äxorg.typelevel.paiges.Doc"c
+Ipaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@346..395randomWidth()Int"^
+Ipaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@287..337maxWidthInt"p
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@14015..14016dorg.typelevel.paiges.Doc"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3374..3380ÄwInt"Å
+[_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#`===`(Lorg/typelevel/paiges/Doc;)Z.(rhs)"Ärhsorg.typelevel.paiges.Doc"r
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9342..9396#partsorg.typelevel.paiges.Doc"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@9505..9506ÄiInt"t
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8519..8532%uorg.typelevel.paiges.Doc.Union"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7278..7284 Ädorg.typelevel.paiges.Doc"\
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11554..11560ÄwInt"\
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10934..10940ÄbInt"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2472..2478 Äborg.typelevel.paiges.Doc"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1125..1197gorg.typelevel.paiges.Doc"à
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13258..135217	caseMatch(List[(String, org.typelevel.paiges.Doc)]"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8527..8528aorg.typelevel.paiges.Doc"r
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6492..6523#rightorg.typelevel.paiges.Doc"v
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10306..10338%smallIntorg.scalacheck.Gen[Int]"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1695..1828porg.typelevel.paiges.Doc"™
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10167..10247YÅÄ generatorDrivenConfig<org.scalatest.prop.PropertyChecks.PropertyCheckConfiguration"]
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11705..11725maxInt"q
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2645..2653"Ädocorg.typelevel.paiges.Doc"f
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1331..1408wordsList[String]"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2005..2011 Äaorg.typelevel.paiges.Doc"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8073..8074borg.typelevel.paiges.Doc"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2834..2856s2String"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6937..6943 Äaorg.typelevel.paiges.Doc"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3585..3586ÄsString"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5004..5010 Äaorg.typelevel.paiges.Doc"s
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@5455..5528$secondorg.typelevel.paiges.Doc"H
+3_root_.org.typelevel.paiges.PaigesTest.EquivSyntax#Ä† EquivSyntax"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8246..8247aorg.typelevel.paiges.Doc"Y
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7414..7415
+jInt"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7896..7897dorg.typelevel.paiges.Doc"\
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11102..11103ÄnInt"ö
+v_root_.org.typelevel.paiges.PaigesTest.docEquiv.$anon#equiv(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)Z.(y) Äyorg.typelevel.paiges.Doc"\
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7853..7854sString"Y
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8414..8415
+jInt"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@2335..2341 Äcorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7738..7744 Ädorg.typelevel.paiges.Doc"r
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@11874..11911!gotorg.typelevel.paiges.Doc"e
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@13527..13951expectedString"]
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@3730..3739ÄbString"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7448..7449dorg.typelevel.paiges.Doc"o
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@1461..1512 d2org.typelevel.paiges.Doc"q
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@6455..6484"leftorg.typelevel.paiges.Doc"a
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8911..9079expectString"n
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8448..8449dorg.typelevel.paiges.Doc"é
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@7719..8309?nextLineLength+(d: org.typelevel.paiges.Doc)(Boolean, Int)"`
+Mpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@10484..10494ÄsmallInt"Z
+Kpaiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala@8164..8166l2Int2ª
+ûWûW∞(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Shrink.shrinkString, org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 370))2=
+ƒ"ƒ"3[org.typelevel.paiges.Doc, org.scalatest.Assertion]2
+ÙÙ[Int]2ò
+µ;µ;ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 274))2.
+…n…n$[(String, org.typelevel.paiges.Doc)]2ò
+â$â$ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 177))2í
+ÜHÜHá(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Arbitrary.arbString, org.scalacheck.Shrink.shrinkString, org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 320))2Ω
+¢W¢W≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 369))2º
+ﬂﬂ±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 86))2$
+Ó_Ô_scala.Predef.intWrapper(*)2%
+˜T˜T(Gen.this.Choose.chooseInt)2q
+úúg[org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.scalatest.Assertion]2Ω
+ç$ç$≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 176))2Ω
+ÿYÿY≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 379))2G
+ÉUÉU=[org.typelevel.paiges.Doc, Int, Int, org.scalatest.Assertion]2
+˙*˙*[String]2$
+óoóo[org.typelevel.paiges.Doc]2º
+€€±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 78))2Ü
+≥(≥(˚(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalacheck.Arbitrary.arbInt, org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 193))2Ω
+ÚbÚb≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 407))2Ü
+ÍZÍZ˚(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalacheck.Arbitrary.arbInt, org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 385))2H
+˙_˙_>[org.typelevel.paiges.Doc, Iterable[org.typelevel.paiges.Doc]]2ª
+ÀÀ∞(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Shrink.shrinkString, org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 142))2+
+∆G∆G![String, org.scalatest.Assertion]2e
+…H…H[[org.typelevel.paiges.Doc, scala.collection.immutable.IndexedSeq[org.typelevel.paiges.Doc]]2ò
+ˇ"ˇ"ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 172))2$
+ËeËe[org.typelevel.paiges.Doc]2=
+§[§[3[org.typelevel.paiges.Doc, org.scalatest.Assertion]2X
+É`É`N(scala.collection.immutable.IndexedSeq.canBuildFrom[org.typelevel.paiges.Doc])2=
+˛˛3[org.typelevel.paiges.Doc, org.scalatest.Assertion]2
+√
+√
+[String]2º
+ÈÈ±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 92))2=
+ï6ï63[org.typelevel.paiges.Doc, org.scalatest.Assertion]2(
+¶¶[Int, org.scalatest.Assertion]2º
+≈≈±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 38))23
+ÉÉ)[String, String, org.scalatest.Assertion]2$
+ùqùq[org.typelevel.paiges.Doc]2,
+ñpüp"scala.Predef.ArrowAssoc[String](*)2Ω
+‚4‚4≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 226))2Ω
+É#É#≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 171))2ò
+î"î"ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 164))2$
+›n›n[org.typelevel.paiges.Doc]2X
+˘H˘HN(scala.collection.immutable.IndexedSeq.canBuildFrom[org.typelevel.paiges.Doc])2Ω
+äHäH≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 319))2Ω
+ê ê ≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 153))2Ü
+≈≈˚(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalacheck.Arbitrary.arbInt, org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 106))2
+ı%ı%[Int]2$
+¢p¢p[org.typelevel.paiges.Doc]2'
+ÊiÛlscala.Predef.augmentString(*)2
+íDíD[Int]2¨
+Â]Â]°(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Arbitrary.arbChar, org.scalacheck.Shrink.shrinkIntegral[Char](scala.math.Numeric.CharIsIntegral), org.scalacheck.Arbitrary.arbChar, org.scalacheck.Shrink.shrinkIntegral[Char](scala.math.Numeric.CharIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 397))2
+ΩΩ[String]2=
+ï;ï;3[org.typelevel.paiges.Doc, org.scalatest.Assertion]2=
+œ œ 3[org.typelevel.paiges.Doc, org.scalatest.Assertion]2º
+˝˝±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 55))2⁄
+››œ(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Arbitrary.arbString, org.scalacheck.Shrink.shrinkString, org.scalacheck.Arbitrary.arbString, org.scalacheck.Shrink.shrinkString, org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 148))20
+ØØ&[String, Int, org.scalatest.Assertion]2Ω
+«C«C≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 277))2ó
+⁄⁄å(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 125))2
+±±[Int]2è
+ÙUÙUÑ(generatorDrivenConfig, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 365))2≥
+€€®(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 87))2Ω
+∆R∆R≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 338))2º
+  ±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 34))20
+üü&[String, Int, org.scalatest.Assertion]2Ω
+ﬂ5ﬂ5≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 246))2B
+ñZñZ8[org.typelevel.paiges.Doc, Int, org.scalatest.Assertion]2Ω
+≤u≤u≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 454))2q
+ââg[org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.scalatest.Assertion]2ò
+Î6Î6ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 252))2
+ºTºT[Int]2
+€P€P[Int]2,
+èqöq"scala.Predef.ArrowAssoc[String](*)2'
+÷qÎtscala.Predef.augmentString(*)2Ω
+……≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 104))2=
+∞7∞73[org.typelevel.paiges.Doc, org.scalatest.Assertion]2Ω
+··≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 147))2$
+¥P¥P[org.typelevel.paiges.Doc]2'
+÷H‚Hscala.Predef.augmentString(*)2.
+ﬁgﬁg$[(String, org.typelevel.paiges.Doc)]2Ω
+ÙmÙm≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 438))2Ω
+ÒdÒd≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 419))2$
+ΩHæHscala.Predef.intWrapper(*)2Ω
+Œ&Œ&≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 182))2%
+¸¸(Gen.this.Choose.chooseInt)2W
+——M[org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.scalatest.Assertion]2e
+äDäD[[org.typelevel.paiges.Doc, scala.collection.immutable.IndexedSeq[org.typelevel.paiges.Doc]]2
+ÄÄ[Int]2ò
+€5€5ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 247))2Ω
+ègèg≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 428))2%
+¬T¬T(Gen.this.Choose.chooseInt)2B
+”Q”Q8[org.typelevel.paiges.Doc, Int, org.scalatest.Assertion]23
+ëë)[String, String, org.scalatest.Assertion]2Ä
+˙˙ı(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Arbitrary.arbString, org.scalacheck.Shrink.shrinkString, org.scalacheck.Arbitrary.arbInt, org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 136))2'
+õûscala.Predef.augmentString(*)2ò
+˝7˝7ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 258))2º
+à
+à
+±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 45))2
+∆∆[Int]2Ω
+í\í\≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 389))2$
+≥%¥%scala.Predef.intWrapper(*)2/
+¡\¡\%[Char, Char, org.scalatest.Assertion]2
+··[String]2
+‰%‰%[Int]2W
+˛1˛1M[org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.scalatest.Assertion]2Ê
+ﬁ4ﬁ4€(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 236))2H
+»$»$>[org.typelevel.paiges.Doc, List[Int], org.scalatest.Assertion]2,
+åoîo"scala.Predef.ArrowAssoc[String](*)2'
+‹EÎFscala.Predef.augmentString(*)2Ω
+˛˛≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 135))2º
+ññ±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 98))2=
+£C£C3[org.typelevel.paiges.Doc, org.scalatest.Assertion]2⁄
+å å œ(PaigesTest.this.generatorDrivenConfig, org.scalacheck.Arbitrary.arbString, org.scalacheck.Shrink.shrinkString, org.scalacheck.Arbitrary.arbString, org.scalacheck.Shrink.shrinkString, org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 154))2ò
+⁄⁄ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 118))2Ω
+ÓZÓZ≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 384))2$
+ÿXŸXscala.Predef.intWrapper(*)2
+Á?Á?[Boolean, Int]2%
+‚P‚P(Gen.this.Choose.chooseInt)2Ω
+œœ≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 141))2ò
+é\é\ç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 390))2%
+ºº(Gen.this.Choose.chooseInt)2Ω
+ﬁﬁ≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 124))2$
+˛%É&scala.Predef.intWrapper(*)2B
+——8[org.typelevel.paiges.Doc, Int, org.scalatest.Assertion]2Â
+◊◊⁄(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 79))2%
+÷V÷V(Gen.this.Choose.chooseInt)2¬
+¬R¬R∑(generatorDrivenConfig, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 351))2Ω
+Å8Å8≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 257))2Ω
+°X°X≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 375))2%
+¨P¨P(Gen.this.Choose.chooseInt)2,
+—n⁄n"scala.Predef.ArrowAssoc[String](*)2Ω
+Ô6Ô6≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 251))2#
+À:‘:PaigesTest.EquivSyntax(*)2
+¶P¶P[Int]2≥
+ÂÂ®(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 93))2Ω
+∑(∑(≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 192))2R
+ó+ó+H(scala.collection.immutable.List.canBuildFrom[org.typelevel.paiges.Doc])2Ω
+¢N¢N≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 325))2Ω
+ò"ò"≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 163))2≥
+íí®(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 99))2B
+à'à'8[org.typelevel.paiges.Doc, Int, org.scalatest.Assertion]2q
+ããg[org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.typelevel.paiges.Doc, org.scalatest.Assertion]2
+œVœV[Int]2H
+ç+ç+>[org.typelevel.paiges.Doc, Iterable[org.typelevel.paiges.Doc]]2X
+ñDñDN(scala.collection.immutable.IndexedSeq.canBuildFrom[org.typelevel.paiges.Doc])2Ω
+∑/∑/≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 199))2Ω
+ëvëv≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 476))20
+¥V¥V&[String, Int, org.scalatest.Assertion]2=
+ô5ô53[org.typelevel.paiges.Doc, org.scalatest.Assertion]2º
+††±(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 64))2$
+˛CˇCscala.Predef.intWrapper(*)2
+Ç`Ç`[Any]2Ω
+¯U¯U≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 355))2ò
+√C√Cç(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 304))2Ω
+π;π;≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 263))2Ω
+†G†G≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 307))2,
+⁄o„o"scala.Predef.ArrowAssoc[String](*)2Ω
+ﬁﬁ≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 117))2$
+ T T[org.typelevel.paiges.Doc]2Ï
+ & &·(PaigesTest.this.generatorDrivenConfig, Generators.arbDoc, org.scalacheck.Shrink.shrinkAny[org.typelevel.paiges.Doc], org.scalacheck.Arbitrary.arbContainer[List, Int](org.scalacheck.Arbitrary.arbInt, org.scalacheck.util.Buildable.buildableCanBuildFrom[Int, scala.collection.immutable.List.Coll, List[Int]](scala.collection.immutable.List.canBuildFrom[Int]), scala.Predef.$conforms[List[Int]]), org.scalacheck.Shrink.shrinkContainer[List, Int](scala.Predef.$conforms[List[Int]], org.scalacheck.Shrink.shrinkIntegral[Int](scala.math.Numeric.IntIsIntegral), org.scalacheck.util.Buildable.buildableCanBuildFrom[Int, scala.collection.immutable.List.Coll, List[Int]](scala.collection.immutable.List.canBuildFrom[Int])), org.scalatest.enablers.CheckerAsserting.assertingNatureOfAssertion, org.scalactic.Prettifier.default, org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 183))2Ω
+«^«^≤(org.scalactic.source.Position.apply("PaigesTest.scala", "Please set the environment variable SCALACTIC_FILL_FILE_PATHNAMES to yes at compile time to enable this feature.", 396))2
+ÒTÒT[Int]2=
+µ#µ#3[org.typelevel.paiges.Doc, org.scalatest.Assertion]2$
+ÊoÊo[org.typelevel.paiges.Doc]2(
+ß?ß?[(Boolean, Int), Boolean, Int]:Scala212Bîvpackage org.typelevel.paiges
+
+import org.scalatest.FunSuite
+import org.scalatest.prop.PropertyChecks._
+import org.scalacheck.Gen
+import scala.util.Random
+
+object PaigesTest {
+  implicit val docEquiv: Equiv[Doc] =
+    new Equiv[Doc] {
+      def equiv(x: Doc, y: Doc): Boolean = {
+        val maxWidth = Integer.max(x.maxWidth, y.maxWidth)
+        def randomWidth(): Int = Random.nextInt(maxWidth)
+        val widths =
+          if (maxWidth == 0) 0 :: Nil
+          else 0 :: randomWidth() :: randomWidth() :: Nil
+        Doc.equivAtWidths(widths).equiv(x, y)
+      }
+    }
+
+  implicit class EquivSyntax(lhs: Doc) {
+    def ===(rhs: Doc): Boolean = docEquiv.equiv(lhs, rhs)
+  }
+}
+
+class PaigesTest extends FunSuite {
+  import Generators._
+  import Doc.text
+  import PaigesTest._
+
+  implicit val generatorDrivenConfig =
+    PropertyCheckConfiguration(minSuccessful = 500)
+
+  test("basic test") {
+     assert((text("hello") + text("world")).render(100) == "helloworld")
+  }
+
+  test("nested test") {
+    assert((text("yo") + (text("yo\nho\nho").nested(2))).render(100) ==
+"""yoyo
+  ho
+  ho""")
+  }
+
+  test("paper example") {
+    val g = (((text("hello") :/ "a").grouped :/ "b").grouped :/ "c").grouped
+    assert(g.render(5) ==
+"""hello
+a
+b
+c""")
+    assert(g.render(11) == "hello a b c")
+  }
+
+  test("nesteding with paragraph") {
+    val words = List("this", "is", "a", "test", "of", "a", "block", "of", "text")
+    val d1 = Doc.paragraph(words.mkString(" "))
+    val d2 = d1 + (Doc.line :+ "love, Oscar").nested(2)
+    assert(d2.render(0) == words.mkString("", "\n", "\n  love, Oscar"))
+    assert(d2.render(100) == words.mkString("", " ", "\n  love, Oscar"))
+  }
+
+
+  test("test paragraph") {
+    val p = Doc.paragraph("This  is      some crazy\n text that should       loook super normal\n\n after we get rid of      the spaces")
+    assert(p.render(10) == """This is
+some crazy
+text that
+should
+loook
+super
+normal
+after we
+get rid of
+the spaces""")
+  }
+
+  test("(x = y) -> (x.## = y.##)") {
+    forAll { (a: Doc, b: Doc) =>
+      assert(a.## == a.##)
+      assert(b.## == b.##)
+      if (a == b) assert(a.## == b.##) else succeed
+    }
+  }
+
+  test("concat is associative") {
+    forAll { (a: Doc, b: Doc, c: Doc) =>
+      assert(((a + b) + c) === (a + (b + c)))
+    }
+  }
+
+  test("line is associative") {
+    forAll { (a: Doc, b: Doc, c: Doc) =>
+      assert(a.line(b).line(c) === a.line(b.line(c)))
+    }
+  }
+
+  test("lineOrSpace is associative") {
+    forAll { (a: Doc, b: Doc, c: Doc) =>
+      assert(a.lineOrSpace(b).lineOrSpace(c) === a.lineOrSpace(b.lineOrSpace(c)))
+    }
+  }
+
+  test("writeTo works") {
+    import java.io._
+    forAll { (doc: Doc, w: Int) =>
+      val baos = new ByteArrayOutputStream()
+      val pw = new PrintWriter(baos)
+      doc.writeTo(w, pw)
+      pw.close()
+      val s1 = baos.toString("UTF-8")
+      val s2 = doc.render(w)
+      assert(s1 == s2)
+    }
+  }
+
+  test("empty does not change things") {
+    forAll { (a: Doc) =>
+      assert((a + Doc.empty) === a)
+      assert((Doc.empty + a) === a)
+    }
+  }
+
+  test("spaces(n) == text(\" \") * n == text(\" \" * n)") {
+    forAll(Gen.choose(-10, 1000)) { n =>
+      val sn = Doc.spaces(n)
+      val tn = Doc.text(" ") * n
+      val un = Doc.text(" " * n)
+
+      assert(sn === tn)
+      assert(tn === un)
+    }
+  }
+
+  test("Doc.split(s, \" \", space).render(w) = s") {
+    forAll { (s: String, w: Int) =>
+      assert(Doc.split(s, " ".r, Doc.space).render(w) == s)
+    }
+  }
+
+  test("splitting x on x gives x") {
+    forAll(Gen.frequency((10, Gen.identifier), (1, Gen.const(" "))), Gen.choose(0, 100)) { (s, w) =>
+      assert(Doc.split(s, s.r, Doc.text(s)).render(w) == s)
+    }
+  }
+
+  test("(a /: b)  works as expected") {
+    forAll { (a: String, b: String) =>
+      assert((a /: Doc.text(b)).render(0) == s"$a\n$b")
+    }
+  }
+
+  test("space works as expected") {
+    forAll { (a: String, b: String) =>
+      val res = s"$a $b"
+      assert((text(a) space b).render(0) == res)
+      assert((text(a) & text(b)).render(0) == res)
+      assert((text(a) :& b).render(0) == res)
+      assert((a &: text(b)).render(0) == res)
+    }
+  }
+
+  test("isEmpty == render(w).isEmpty for all w") {
+    forAll { (d: Doc) =>
+      if (d.isEmpty) {
+        assert((0 to d.maxWidth).forall(d.render(_).isEmpty), s"${d.representation(true).render(50)} has nonEmpty renderings")
+      }
+      else succeed
+    }
+  }
+  test("nonEmpty == !isEmpty") {
+    forAll { (d: Doc) =>
+      assert(d.nonEmpty == !d.isEmpty)
+    }
+  }
+  test("isEmpty compare empty == 0") {
+    forAll { (d: Doc) =>
+      if (d.isEmpty) assert(d === Doc.empty)
+      else succeed
+    }
+  }
+  test("renders are constant after maxWidth") {
+    forAll { (d: Doc, ws: List[Int]) =>
+      val m = d.maxWidth
+      val maxR = d.render(m)
+      val justAfter = (1 to 20).iterator
+      val goodW = (justAfter ++ ws.iterator).map { w => (m + w) max m }
+      assert(goodW.forall { w => d.render(w) == maxR })
+    }
+  }
+
+  test("render(w) == render(0) for w <= 0") {
+    forAll { (a: Doc, w: Int) =>
+      val wNeg = if (w > 0) -w else w
+      assert(a.render(wNeg) == a.render(0), s"${a.representation(true).render(40)}.render($wNeg) fails")
+    }
+  }
+
+  test("hard union cases") {
+    /**
+     * if s == space, and n == line
+     * we know that:
+     * a * (s|n) * b * (s|n) * c =
+     *
+     * (a * s * ((b * s * c) | (b * n * c)) |
+     *   (a * n * (b * s * c) | (b * n * c))
+     */
+    val first = Doc.paragraph("a b c")
+    val second = Doc.fill(Doc.lineOrSpace, List("a", "b", "c").map(Doc.text))
+    /*
+     * I think this fails perhaps because of the way fill constructs
+     * Unions. It violates a stronger invariant that Union(a, b)
+     * means a == flatten(b). It has the property that flatten(a) == flatten(b)
+     * but that is weaker. Our current comparison algorithm seems
+     * to leverage this fact
+     */
+    assert(first === second)
+
+    /**
+     * lineOrSpace == (s | n)
+     * flatten(lineOrSpace) = s
+     * group(lineOrSpace) = (s | (s|n)) == (s | n)
+     */
+    assert(Doc.lineOrSpace.grouped === Doc.lineOrSpace)
+  }
+  test("group law") {
+    /**
+     * group(x) = (x' | x) where x' is flatten(x)
+     *
+     * (a | b)*c == (a*c | b*c) so, if flatten(c) == c we have:
+     * c * (a | b) == (a*c | b*c)
+     *
+     * b.grouped + flatten(c) == (b + flatten(c)).grouped
+     * flatten(c) + b.grouped == (flatten(c) + b).grouped
+     */
+    forAll { (b: Doc, c: Doc) =>
+      val flatC = c.flatten
+      val left = (b.grouped + flatC)
+      val right = (b + flatC).grouped
+      assert(left === right)
+      assert((flatC + b.grouped) === (flatC + b).grouped)
+      // since left == right, we could have used those instead of b:
+      assert((left.grouped + flatC) === (right + flatC).grouped)
+    }
+  }
+  test("flatten(group(a)) == flatten(a)") {
+    forAll { (a: Doc) =>
+      assert(a.grouped.flatten === a.flatten)
+    }
+  }
+  test("a.flatten == a.flatten.flatten") {
+    forAll { (a: Doc) =>
+      val aflat = a.flatten
+      assert(aflat === aflat.flatten)
+    }
+  }
+  test("a.flatten == a.flattenOption.getOrElse(a)") {
+    forAll { (a: Doc) =>
+      assert(a.flatten === a.flattenOption.getOrElse(a))
+    }
+  }
+
+  test("the left and right side of a union are the same after flattening") {
+    import Doc._
+    def okay(d: Doc): Boolean = d match {
+      case Empty | Text(_) | Line(_) => true
+      case Concat(a, b) => okay(a) && okay(b)
+      case Nest(j, d) => okay(d)
+      case Align(d) => okay(d)
+      case u@Union(a, _) =>
+        (a.flatten === u.bDoc.flatten) && okay(a) && okay(u.bDoc)
+    }
+
+    forAll { (a: Doc) => assert(okay(a)) }
+  }
+
+  test("the left side of a union has a next line as long or longer than the right") {
+    import Doc._
+
+    def nextLineLength(d: Doc): (Boolean, Int) = d match {
+      case Line(_) => (true, 0)
+      case Empty => (false, 0)
+      case Text(s) => (false, s.length)
+      case Nest(j, d) => nextLineLength(d) // nesteding only matters AFTER the next line
+      case Align(d) => nextLineLength(d) // aligning only matters AFTER the next line
+      case Concat(a, b) =>
+        val r1@(done, l) = nextLineLength(a)
+        if (!done) {
+          val (d2, l2) = nextLineLength(b)
+          (d2, l2 + l)
+        } else r1
+      case Union(a, _) => nextLineLength(a) // assume the property is true
+    }
+
+    def okay(d: Doc): Boolean = d match {
+      case Empty | Text(_) | Line(_) => true
+      case Nest(j, d) => okay(d)
+      case Align(d) => okay(d)
+      case Concat(a, b) => okay(a) && okay(b)
+      case u@Union(a, _) =>
+        nextLineLength(a)._2 >= nextLineLength(u.bDoc)._2
+    }
+
+    forAll { (a: Doc) => assert(okay(a)) }
+  }
+
+  test("test json array example") {
+    val items = (0 to 20).map(Doc.str(_))
+    val parts = Doc.fill(Doc.comma + Doc.line, items)
+    val ary = "[" +: ((parts :+ "]").aligned)
+    assert(ary.renderWideStream.mkString == (0 to 20).mkString("[", ", ", "]"))
+    val expect = """[0, 1, 2, 3, 4, 5,
+                   | 6, 7, 8, 9, 10, 11,
+                   | 12, 13, 14, 15, 16,
+                   | 17, 18, 19, 20]""".stripMargin
+    assert(ary.render(20) == expect)
+  }
+
+  test("test Doc.text") {
+    forAll { (s: String) =>
+      assert(Doc.text(s).render(0) == s)
+    }
+  }
+
+  test("test json map example") {
+    val kvs = (0 to 20).map { i => text("\"%s\": %s".format(s"key$i", i)) }
+    val parts = Doc.fill(Doc.comma + Doc.lineOrSpace, kvs)
+
+    val map = parts.bracketBy(Doc.text("{"), Doc.text("}"))
+    assert(map.render(1000) == (0 to 20).map { i => "\"%s\": %s".format(s"key$i", i) }.mkString("{ ", ", ", " }"))
+    assert(map.render(20) == (0 to 20).map { i => "\"%s\": %s".format(s"key$i", i) }.map("  " + _).mkString("{\n", ",\n", "\n}"))
+
+    val map2 = parts.tightBracketBy(Doc.text("{"), Doc.text("}"))
+    assert(map2.render(1000) == (0 to 20).map { i => "\"%s\": %s".format(s"key$i", i) }.mkString("{", ", ", "}"))
+    assert(map2.render(20) == (0 to 20).map { i => "\"%s\": %s".format(s"key$i", i) }.map("  " + _).mkString("{\n", ",\n", "\n}"))
+  }
+
+  test("Doc.repeat matches naive implementation") {
+    /**
+     * comparing large equal documents can be very slow
+     * :(
+     */
+    implicit val generatorDrivenConfig =
+      PropertyCheckConfiguration(minSuccessful = 30)
+    val smallTree = Gen.choose(0, 3).flatMap(genTree)
+    val smallInt = Gen.choose(0, 10)
+
+    def simple(n: Int, d: Doc, acc: Doc): Doc =
+      if(n <= 0) acc else simple(n - 1, d, acc + d)
+
+    forAll(smallTree, smallInt) { (d: Doc, small: Int) =>
+      assert(simple(small, d, Doc.empty) === (d * small))
+    }
+  }
+  test("(d * a) * b == d * (a * b)") {
+    /**
+     * comparing large equal documents can be very slow
+     * :(
+     */
+    implicit val generatorDrivenConfig =
+      PropertyCheckConfiguration(minSuccessful = 30)
+    val smallTree = Gen.choose(0, 3).flatMap(genTree)
+    val smallInt = Gen.choose(0, 3)
+
+    forAll(smallTree, smallInt, smallInt) { (d: Doc, a: Int, b: Int) =>
+      assert(((d * a) * b) === (d * (a * b)))
+    }
+  }
+  test("text(s) * n == s * n for identifiers") {
+    forAll(Gen.identifier, Gen.choose(0, 20)) { (s, n) =>
+      assert((Doc.text(s) * n).render(0) == (s * n))
+    }
+  }
+
+  test("maxWidth is stack safe") {
+    assert(Doc.intercalate(Doc.lineOrSpace, (1 to 100000).map(Doc.str)).maxWidth >= 0)
+  }
+
+  test("renderWide is stack safe") {
+    val nums = (1 to 100000)
+    assert(Doc.intercalate(Doc.lineOrSpace, nums.map(Doc.str)).renderWideStream.mkString == nums.mkString(" "))
+  }
+
+  test("render(w) == renderStream(w).mkString") {
+    forAll { (d: Doc, w: Int) =>
+      assert(d.render(w) == d.renderStream(w).mkString)
+    }
+  }
+  test("renderWide == render(maxWidth)") {
+    forAll { (d: Doc) =>
+      val max = d.maxWidth
+      assert(d.renderWideStream.mkString == d.render(max))
+    }
+  }
+
+  test("character concat works") {
+    forAll { (c1: Char, c2: Char) =>
+      val got = Doc.char(c1) + Doc.char(c2)
+      val expected = Doc.text(new String(Array(c1, c2)))
+      assert(got === expected)
+    }
+
+    // here is a hard case:
+    assert((Doc.char('a') + Doc.char('\n')) === Doc.text("a\n"))
+  }
+
+  test("lineBreak works as expected") {
+    import Doc._
+    // render a tight list:
+    val res = text("(") + Doc.intercalate((Doc.comma + Doc.lineBreak).grouped, (1 to 20).map(Doc.str)) + text(")")
+    assert(res.render(10) == """(1,2,3,4,
+                                |5,6,7,8,9,
+                                |10,11,12,
+                                |13,14,15,
+                                |16,17,18,
+                                |19,20)""".stripMargin)
+    assert(res.renderWideStream.mkString == (1 to 20).mkString("(", ",", ")"))
+  }
+  test("align works as expected") {
+    import Doc._
+    // render with alignment
+    val d1 = text("fooooo ") + (text("bar") line text("baz")).aligned
+
+    assert(d1.render(0) == """fooooo bar
+                             |       baz""".stripMargin)
+  }
+
+  test("fill example") {
+    import Doc.{ comma, text, fill }
+    val ds = text("1") :: text("2") :: text("3") :: Nil
+    val doc = fill(comma + Doc.line, ds)
+
+    assert(doc.render(0) == "1,\n2,\n3")
+    assert(doc.render(6) == "1, 2,\n3")
+    assert(doc.render(10) == "1, 2, 3")
+  }
+
+  test("Doc.tabulate works in some example cases") {
+    val caseMatch = List(
+      ("Item1(x)", Doc.text("callItem(x)")),
+      ("ItemXandItemY(x, y)", Doc.text("callItem(x)") / Doc.text("callItem(y)")),
+      ("ItemXandItemYandZ(x, y, z)", Doc.text("callItem(x)") / Doc.text("callItem(y)") / Doc.text("callItem(z)")))
+
+    val expected = """case Item1(x)                   => callItem(x)
+                     |case ItemXandItemY(x, y)        => callItem(x)
+                     |                                   callItem(y)
+                     |case ItemXandItemYandZ(x, y, z) => callItem(x)
+                     |                                   callItem(y)
+                     |                                   callItem(z)""".stripMargin
+
+    assert(Doc.tabulate(' ', " => ", caseMatch.map { case (s, d) => ("case " + s, d) }).render(20) == expected)
+  }
+
+  test("abbreviated Doc.tabulate works in an example case") {
+
+    val pairs = List(
+      "alpha: " -> Doc.text("the first item in the list"),
+      "beta: " -> Doc.text("another item;") / Doc.text("this one is longer"),
+      "gamma: " -> Doc.text("a third, uninteresting case"),
+      "delta: " -> Doc.text("a fourth,") / (Doc.text("multiline,") / Doc.text("indented")).nested(2) / Doc.text("case"),
+      "epsilon: " -> Doc.text("the ultimate case")
+    )
+
+    val expected = """alpha:   the first item in the list
+                     |beta:    another item;
+                     |         this one is longer
+                     |gamma:   a third, uninteresting case
+                     |delta:   a fourth,
+                     |         multiline,
+                     |           indented
+                     |         case
+                     |epsilon: the ultimate case""".stripMargin
+    assert(Doc.tabulate(pairs).render(40) == expected)
+  }
+
+  test("cat") {
+    assert(Doc.cat(List("1", "2", "3") map Doc.text).render(80) == "123")
+  }
+}
+J@paiges/core/src/test/scala/org/typelevel/paiges/PaigesTest.scala

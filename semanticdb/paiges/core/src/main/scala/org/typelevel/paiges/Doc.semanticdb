@@ -1,0 +1,2946 @@
+k
+ÔyÒya_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.*
+…Ã _root_.org.typelevel.paiges.Doc#0
+†a£a&_root_.scala.collection.immutable.Nil.R
+ñªõªFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23133..23138$
+¿XƒX_root_.scala.package.Left.P
+ÛQ˜QFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579O
+ FÃFE_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.(pw)
+¬H≈H_root_.scala.Int#N
+ó6ò6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6900..6901
+›.‡._root_.scala.Int#P
+ŸkﬁkFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..13699|
+‘7◊7r_root_.scala.collection.immutable.Stream.ConsWrapper#`#::`(Ljava/lang/Object;)Lscala/collection/immutable/Stream;.,
+¿°√° _root_.org.typelevel.paiges.Doc#/
+ã@è@%_root_.org.typelevel.paiges.Doc.Nest.N
+º#≈#Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4540..4549P
+¶pßpFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682,
+‚÷Â÷ _root_.org.typelevel.paiges.Doc#N
+Ø9≥9Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..72876
+ˇ_Ü`,_root_.scala.annotation.tailrec#`<init>`()V.P
+‚_„_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12258..122593
+œπ’π'_root_.org.typelevel.paiges.Doc.Concat.P
+Ωl¬lFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716R
+ﬂø‡øFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24543..24549R
+à¿â¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24543..24549P
+ºcΩcFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12732..12733N
+¬;∆;Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7614..78711
+∂ì∫ì%_root_.org.typelevel.paiges.Doc.Line.k
+‹6ﬁ6a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;./
+ﬂl„l%_root_.org.typelevel.paiges.Doc.Line.
+¨ÑØÑ_root_.scala.Int#*
+∑∫ _root_.org.typelevel.paiges.Doc#N
+ë*í*Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5314..5315R
+éµìµFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23182..23187P
+Œa–aFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12494..12496$
+¶Q®Q_root_.scala.package.`::`.,
+˛ñÅó _root_.org.typelevel.paiges.Doc#*
+¢• _root_.org.typelevel.paiges.Doc#R
+∫¢ª¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647R
+ãèåèFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@18240..18265N
+≠+±+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..5579$
+§X®X_root_.scala.package.Left.â
+ÊÀÒÀ}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.P
+¸|ˇ|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439P
+»_Õ_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12201..12217/
+ìzóz%_root_.org.typelevel.paiges.Doc.Nest.P
+÷i€iFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13526..13541P
+¸y˝yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15577..15578R
+Øª¥ªFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22502..22525*
+ÏÔ _root_.org.typelevel.paiges.Doc#$
+úR†R_root_.scala.package.Left.V
+˙ÉÄK_root_.org.typelevel.paiges.Doc.Line#asFlatDoc()Lorg/typelevel/paiges/Doc;.P
+©_Æ_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12201..12217é
+ÿÃ⁄ÃÅ_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)%
+“°”°_root_.scala.Int#`<`(I)Z.R
+Æô¥ôF_root_.scala.collection.LinearSeqOptimized#forall(Lscala/Function1;)Z.f
+è´ê´Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.k
+µU∑Ua_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.P
+ÇtÉtFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14850..14851-
+âßéß!_root_.scala.util.matching.Regex#/
+æ*¬*%_root_.org.typelevel.paiges.Doc.Line.P
+ƒz«zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439P
+ßS®SFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10663..10664N
+‹H›HDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9268..9277-
+ì(ö(#_root_.java.lang.String#isEmpty()Z.$
+Ù;ˆ;_root_.scala.Int#`>>`(I)I.0
+Ü5ã5&_root_.org.typelevel.paiges.Doc.Empty.(
+√j≈j_root_.scala.Boolean#`||`(Z)Z.R
+¥Ò¥Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22590..22591R
+›¥‚¥Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23133..23138*
+âå _root_.org.typelevel.paiges.Doc#P
+‘aÿaFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..129570
+Û7¯7&_root_.org.typelevel.paiges.Doc.Union.N
+ˆ.˙.Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6002..6030"
+óhôh_root_.scala.Tuple2#(_2)P
+Ãi–iFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13516..13524R
+ô∑ù∑Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..22599P
+¸T˝TFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10842..10843P
+Û|Ù|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15897..15898#
+áIàI_root_.scala.Int#`+`(I)I.3
+Å∑á∑'_root_.org.typelevel.paiges.Doc.Concat.R
+ﬂπ‰πFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23703..237132
+ß•¨•&_root_.org.typelevel.paiges.Doc.Empty.P
+ú{ù{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15772..15773R
+Ê°È°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20661..20669P
+ÌjÓjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682P
+ìsîsFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14739..14740c
+ÒıY_root_.org.typelevel.paiges.Doc#`:&`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)k
+™W¨Wa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.%
+Û3˘3_root_.scala.Predef.String#P
+âØêØD_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.R
+∆¡ ¡Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24755..24759:
+Îé¯é._root_.org.typelevel.paiges.Doc.maxSpaceTable.4
+Ä!â!*_root_.org.typelevel.paiges.Doc.lineBreak.)
+Å/é/_root_.java.lang.StringBuilder#V
+¬@»@L_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.(amount)/
+˛Ç	%_root_.org.typelevel.paiges.Doc.line.1
+øú√ú%_root_.org.typelevel.paiges.Doc.line.P
+∞V∂VFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359,
+ûπ°π _root_.org.typelevel.paiges.Doc#H
+Àô—ô<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.%
+®¢©¢_root_.scala.Int#`-`(I)I.D
+◊F€F:_root_.scala.collection.Iterator#next()Ljava/lang/Object;.N
+û*¢*Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..55796
+ëxòx,_root_.scala.annotation.tailrec#`<init>`()V.0
+æ√&_root_.org.typelevel.paiges.Doc.space.c
+ÒıY_root_.org.typelevel.paiges.Doc#`&:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)N
+ÿ7›7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7292..7357%
+πÿ∫ÿ_root_.scala.Int#`-`(I)I.,
+ä≈ç≈ _root_.org.typelevel.paiges.Doc.R
+∫ôªôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19586..19592R
+‡EÂEH_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.(width)*
+— ‘  _root_.org.typelevel.paiges.Doc#b
+µ∏X_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)6
+Ñ4ã4,_root_.scala.annotation.tailrec#`<init>`()V.N
+π<∫<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7656..7672Q
+ôúöúE_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.(c)
+“x’x_root_.scala.Int#1
+ı ˚ '_root_.org.typelevel.paiges.Doc.Concat.*
+µ∏ _root_.org.typelevel.paiges.Doc#%
+ÒçÚç_root_.scala.Int#`-`(I)I.P
+≠p≤pFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..13699
+ü,¶,_root_.scala.Boolean#N
+ß%¨%Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791d
+•©Z_root_.org.typelevel.paiges.Doc#space(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that),
+√è∆è _root_.org.typelevel.paiges.Doc#3
+èΩïΩ'_root_.org.typelevel.paiges.Doc.Concat.i
+¨–±–]_root_.org.typelevel.paiges.Doc.stack(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.â
+‡◊Ë◊}_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rightSep)
+§°ß°_root_.scala.Int#%
+ñ•ó•_root_.scala.Int#`-`(I)I.P
+≠Z≥ZFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359R
+ ¢Õ¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20661..20669N
+¬)√)Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5314..5315`
+ ¶À¶T_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.T#m
+≤–¥–a_root_.org.typelevel.paiges.Doc.stack(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)R
+û∆ü∆Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25275..25300R
+◊°Ÿ°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20404..20488*
+∂–æ–_root_.scala.package.Iterable#N
+Ÿ6⁄6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6973..6974/
+ƒk»k%_root_.org.typelevel.paiges.Doc.Text.
+û4°4_root_.scala.Int#,
+µ{ª{"_root_.java.lang.String#length()I.P
+˛{Å|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406 
+fp_root_.scala.annotation.>
+è£ë£2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.s
+ÌIıIi_root_.scala.collection.immutable.Stream#foldLeft(Ljava/lang/Object;Lscala/Function2;)Ljava/lang/Object;.U
+»=Õ=K_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.(count)P
+ˆb˜bFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12651..12652P
+î`ï`Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12308..12314N
+î4ò4Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..7287N
+ôJûJDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9250..9362$
+£l•l_root_.scala.package.`::`.S
+®é©éG_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.(n),
+ÍƒÌƒ _root_.org.typelevel.paiges.Doc#R
+Ù◊¸◊Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27632..27725P
+≈X∆XFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11229..11230P
+¥y∑yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439f
+√»\_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.W
+Ù˘M_root_.org.typelevel.paiges.Doc.Align.;_root_.org.typelevel.paiges.Doc.Align#2
+µŒ∫Œ&_root_.org.typelevel.paiges.Doc.empty.%
+Ì≈Ó≈_root_.scala.Int#`-`(I)I.P
+ﬁX‚XFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413$
+ç5è5_root_.scala.package.`::`.P
+‡a·aFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12512..12513&
+Ä∆Ç∆_root_.scala.Int#`>=`(I)Z.k
+˝zˇza_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.b
+∑∫X_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)R
+ª¡¬¡Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615]
+≤∂S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.R
+˛øÜ¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22421..22447
+ﬁg‰g_root_.scala.Option#N
+¢#©#D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.*
+ù† _root_.org.typelevel.paiges.Doc#P
+≈y∆yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15557..15558N
+„=Á=Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7614..7871á
+ÃÆœÆ{_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)P
+ô|ö|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15897..15898N
+ø/¡/Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6035..6067R
+¸òÅôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19576..19749#
+⁄H€H_root_.scala.Int#`<`(I)Z.P
+◊VÿVFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11095..11096]
+≠VØVS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+¡`ƒ` _root_.org.typelevel.paiges.Doc#K
+›ﬁA_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.P
+ìhñhFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13298..13322P
+ìTóTFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579*
+´#Æ# _root_.org.typelevel.paiges.Doc#1
+Æ§≤§%_root_.org.typelevel.paiges.Doc.line.N
+«;»;Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7623..7629u
+Œ_÷_k_root_.scala.collection.LinearSeqOptimized#foldLeft(Ljava/lang/Object;Lscala/Function2;)Ljava/lang/Object;.1
+¶¨'_root_.org.typelevel.paiges.Doc.Concat.'
+•§ß§_root_.scala.Char#`==`(C)Z.õ
+Ä™É™é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(pat).
+∏◊æ◊"_root_.java.lang.String#length()I.f
+»¢…¢Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.P
+øt√tFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..14906R
+ùæ§æFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615&
+∞¡≤¡_root_.scala.package.`::`.1
+Õú—ú%_root_.org.typelevel.paiges.Doc.Text.N
+£(§(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5056..50570
+€+ﬁ+&_root_.scala.collection.immutable.Nil.R
+ë¿ñ¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22502..22525R
+ô◊û◊Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27541..27587Ñ
+ÎÿÓÿx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.*
+úü _root_.org.typelevel.paiges.Doc#P
+≈P…PFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579N
+ÿHŸHDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9279..9285/
+“T÷T%_root_.org.typelevel.paiges.Doc.Nest.>
+ˇôÅö2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z.*
+¸ ˇ  _root_.org.typelevel.paiges.Doc.,
+êÃìÃ _root_.org.typelevel.paiges.Doc#P
+ïyñyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15509..15510N
+°ÿ•ÿB_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.P
+‡{·{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15840..15841N
+ (Œ(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..5579õ
+‰™Á™é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(str)Ö
+÷Ù÷y_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rows)8
+è°ñ°,_root_.scala.annotation.tailrec#`<init>`()V.R
+Ó∂Ù∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23402..23456'
+Û£ı£_root_.scala.Char#`<=`(C)Z.1
+ôü'_root_.org.typelevel.paiges.Doc.Concat.P
+ÔzÚzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406*
+Ó	Ò	 _root_.org.typelevel.paiges.Doc#,
+—Ø‘Ø _root_.org.typelevel.paiges.Doc#á
+ñΩôΩ{_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)N
+∫:¿:D_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.,
+∂ÑπÑ _root_.org.typelevel.paiges.Doc#,
+¿Ç√Ç _root_.org.typelevel.paiges.Doc#R
+ƒé≈éFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@18240..18265P
+ÏPÚPFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359%
+ŸQﬁQ_root_.scala.package.Right.å
+√«Å_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(left)#
+ó<ò<_root_.scala.Int#`>`(I)Z.6
+±º,_root_.org.typelevel.paiges.Doc.lineOrSpace.!
+ìôöô_root_.scala.Boolean#1
+¯s˛s'_root_.org.typelevel.paiges.Doc.Concat.%
+ÀX–X_root_.scala.package.Right.
+»HÀH_root_.scala.Int#*
+ËÎ _root_.org.typelevel.paiges.Doc#0
+µ&∏&&_root_.scala.collection.immutable.Nil.
+æü¡ü_root_.scala.Int#'
+à§ç§_root_.scala.Char#toInt()I.,
+‡Ø„Ø _root_.org.typelevel.paiges.Doc#R
+ªÿºÿFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27645..27654,
+÷òŸò _root_.org.typelevel.paiges.Doc#*
+±¥ _root_.org.typelevel.paiges.Doc#P
+ˆy˜yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15570..155711
+æ§¬§%_root_.org.typelevel.paiges.Doc.Text.R
+âŸäŸFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27767..277680
+ºk¡k&_root_.org.typelevel.paiges.Doc.Empty.j
+Éá`_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)*
+§ß _root_.org.typelevel.paiges.Doc#0
+úZüZ&_root_.scala.collection.immutable.Nil."
+§k¶k_root_.scala.Tuple2#(_1),
+ôóúó _root_.org.typelevel.paiges.Doc#N
+ÏHHDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9166..9235S
+∂ç∑çG_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.(n)R
+ﬂ≈‡≈Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25307..25328P
+ªjΩjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13593..13595Ö
+ÊÿÍÿy_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rows)*
+˙P˝P _root_.org.typelevel.paiges.Doc#N
+¥HµHDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9268..9277Q
+˝õ˛õE_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.(c),
+ç™ê™ _root_.org.typelevel.paiges.Doc.P
+∆j»jFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13607..13609,
+›ƒ‡ƒ _root_.org.typelevel.paiges.Doc#P
+®{¨{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006*
+ÊÈ _root_.org.typelevel.paiges.Doc#P
+ÿx€xFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15408..15429N
+“(”(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5202..5203R
+Ö•ä•Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20631..20865/
+Ω)¡)%_root_.org.typelevel.paiges.Doc.Text.'
+¯©˛©_root_.scala.Predef.String#]
+¶T®TS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+ÍÌ _root_.org.typelevel.paiges.Doc.,
+¡7∆7"_root_.org.typelevel.paiges.Chunk.P
+≈UÀUFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359á
+ÖØàØ{_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)d
+ë2ñ2Z_root_.org.typelevel.paiges.Doc#renderStream(I)Lscala/collection/immutable/Stream;.(width)%
+–÷_root_.scala.Predef.String#%
+°ú¢ú_root_.scala.Int#`-`(I)I.P
+¨t±tFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..137163
+ƒ∂ ∂'_root_.org.typelevel.paiges.Doc.Concat.*
+ÙP˜P _root_.org.typelevel.paiges.Doc#n
+œœ—œb_root_.org.typelevel.paiges.Doc.spread(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)0
+„%Ë%&_root_.org.typelevel.paiges.Doc.Empty.R
+‹ü›üFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20411..20417m
+é¿ê¿a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+ÇIÉIDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9268..9277^
+¸¿Ç¡R_root_.scala.collection.TraversableOnce#toList()Lscala/collection/immutable/List;./
+¢S¶S%_root_.org.typelevel.paiges.Doc.Line.-
+ì*ö*#_root_.java.lang.String#isEmpty()Z./
+Ω@¡@%_root_.org.typelevel.paiges.Doc.Nest.M
+÷.€.C_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.(width)P
+≠{∞{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406k
+‘(÷(a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.d
+öüùüX_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)é
+⁄‡É_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(indent)/
+«nÀn%_root_.org.typelevel.paiges.Doc.Nest.R
+üF§FH_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.(width)ì
+ø ≈ à_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(indent)1
+∫(¿('_root_.org.typelevel.paiges.Doc.Concat.N
+‘F÷FDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8971..9003_
+ÿ¶‹¶S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.P
+üX£XFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579R
+Ì∑Û∑Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23402..23456P
+†h£hFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13298..13322]
+ëìS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+£4¶4Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6691..67126
+å%ì%,_root_.scala.annotation.tailrec#`<init>`()V.Q
+›õﬁõE_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.(c)m
+‚–‰–a_root_.org.typelevel.paiges.Doc.stack(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)%
+ –_root_.scala.Predef.String#%
+ôü_root_.scala.Predef.String#&
+ﬁü‡ü_root_.scala.Int#`==`(I)Z.N
+˛(ˇ(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5235..5236N
+ò$°$Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4540..4549&
+“ç‘ç_root_.scala.Int#`<=`(I)Z.P
+πmæmFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..13699'
+∂ú∏ú_root_.scala.Char#`==`(C)Z.P
+Ÿy⁄yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15577..15578%
+E˚E_root_.java.io.PrintWriter#2
+…èŒè&_root_.org.typelevel.paiges.Doc.Empty.]
+ÿ/ﬁ/S_root_.java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;.N
+˘7˙7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7161..7162P
+ñnónFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14086..14087*
+⁄;›; _root_.org.typelevel.paiges.Doc#0
+≤eµe&_root_.scala.collection.immutable.Nil.P
+»bÕbFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..12332,
+‚øÂø _root_.org.typelevel.paiges.Doc#P
+Ÿa⁄aFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12489..12490P
+¶d´dFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350P
+ÇjÜjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13516..13524H
+œg‹g>_root_.org.typelevel.paiges.Doc#flattenOption()Lscala/Option;.,
+´œÆœ _root_.org.typelevel.paiges.Doc#N
+—7“7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7085..7086*
+ÏÔ _root_.org.typelevel.paiges.Doc#,
+ﬁH‰H"_root_.java.lang.String#length()I.R
+Ü§á§Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20930..20951Å
+˛ƒÄ≈u_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.(ds)P
+ìWîWFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11092..11093N
+…6Õ6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..7287N
+èFëFDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8971..9003ç
+Œ”Ç_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(right)N
+∂F∏FDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8971..9003R
+˝™˛™Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@21885..21886ç
+Œ”Ç_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(right)$
+üy°y_root_.scala.package.`::`.:
+¢ãØã._root_.org.typelevel.paiges.Doc.maxSpaceTable."
+®p™p_root_.scala.Tuple2#(_2)
+«   _root_.scala.Int#/
+ˆS˙S%_root_.org.typelevel.paiges.Doc.Text.$
+_root_.org.typelevel.paiges.R
+ﬂÃ‡ÃFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@26207..262081
+Ú§ˆ§%_root_.org.typelevel.paiges.Doc.Text.P
+∏lπlFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13880..13881,
+ùÿ†ÿ _root_.org.typelevel.paiges.Doc.6
+öH°H,_root_.scala.annotation.tailrec#`<init>`()V.N
+”/◊/Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6002..6030N
+øH¿HDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9279..9285*
+„Ê _root_.org.typelevel.paiges.Doc#P
+êzëzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15632..15633,
+ø™¬™ _root_.org.typelevel.paiges.Doc#
+_root_.org.#
+í7ì7_root_.scala.Int#`+`(I)I.,
+˘Ø¸Ø _root_.org.typelevel.paiges.Doc#P
+ˇsÄtFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14847..14848N
+¯#Å$Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4540..4549N
+–+‘+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..5579_
+ﬁ™„™S_root_.java.util.regex.Pattern#split(Ljava/lang/CharSequence;I)[Ljava/lang/String;.3
+ÈøÔø'_root_.org.typelevel.paiges.Doc.Concat.
+„?Ê?_root_.scala.Int#ë
+® ¨ Ü_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(left)/
+Ò6ı6%_root_.org.typelevel.paiges.Doc.Text.P
+◊TÿTFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10839..10840R
+ªüºüFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20411..20417R
+Ü´á´Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@21885..21886P
+‹aﬁaFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12494..12496]
+˝ÅS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.,
+Öôàô _root_.org.typelevel.paiges.Doc#1
+ˆ¸'_root_.org.typelevel.paiges.Doc.Concat.P
+ÎXÒXFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359d
+ŒœZ_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.c
+ƒ»Y_root_.org.typelevel.paiges.Doc#`:&`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)P
+≈Y…YFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413P
+òTúTFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413*
+èí _root_.org.typelevel.paiges.Doc#$
+∞_¥__root_.scala.package.List#N
+ù%†%Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4765..4773P
+êŸóŸD_root_.org.typelevel.paiges.Doc#aligned()Lorg/typelevel/paiges/Doc;.'
+ÄÿÜÿ_root_.scala.Predef.String#P
+©X™XFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11232..11233N
+ﬂ5‡5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6843..6844P
+ÒbıbFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..12957d
+“÷Z_root_.org.typelevel.paiges.Doc#space(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)9
+§Ñ™Ñ-_root_.org.typelevel.paiges.Doc.Nest#(indent)P
+°l¢lFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13857..13858,
+ÍÆÌÆ _root_.org.typelevel.paiges.Doc#
+ØH≤H_root_.scala.Int#f
+∆À\_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.P
+ÈyÍyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15557..15558,
+œî“î _root_.org.typelevel.paiges.Doc#v
+∫“º“j_root_.org.typelevel.paiges.Doc.tabulate(Lscala/collection/immutable/List;)Lorg/typelevel/paiges/Doc;.(kv)R
+Á¿Ë¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24634..24640N
+˘˙D_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.(n)F
+˜/ˇ/<_root_.java.lang.StringBuilder#toString()Ljava/lang/String;.,
+Œ¶—¶ _root_.org.typelevel.paiges.Doc#N
+ö5ù5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..66892
+ºè¡è&_root_.org.typelevel.paiges.Doc.empty.0
+‰`È`&_root_.org.typelevel.paiges.Doc.Empty.d
+»”Z_root_.org.typelevel.paiges.Doc#lineOrSpace(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+Ü6á6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6918..69193
+∏ÃæÃ'_root_.org.typelevel.paiges.Doc.Concat.R
+ê∆ë∆Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25275..25300Ö
+¶ÿ™ÿy_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(fill)P
+›lﬁlFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13917..13926P
+pÒpFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14448..14449P
+Ú_ı_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12253..12256:
+ﬂ¶Á¶._root_.scala.Any#toString()Ljava/lang/String;.?
+-87_root_.java.io.PrintWriter.;_root_.java.io.PrintWriter#P
+àeçeFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..12332N
+“G÷GDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9166..9235N
+°)•)Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..55792
+ù∞†∞&_root_.scala.collection.immutable.Nil.R
+Ï∫Ú∫Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23797..23839]
+÷SÿSS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.P
+Í{Î{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15825..15826P
+¶x©xFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406é
+Æ¥É_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(indent)P
+ënïnFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..14906
+ã9é9_root_.scala.Int#P
+’z÷zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15701..15702R
+˚ÆÇØFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22391..22416P
+ÚTˆTFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579'
+é“î“_root_.scala.Predef.String#P
+±l≤lFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13857..13858P
+ö_†_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12182..12280P
+≈iÀiFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13505..13649P
+«x xFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439P
+œb‘bFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350P
+∏UºUFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413N
+Û(Ù(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5235..5236â
+©Œ¥Œ}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.1
+Ω√'_root_.org.typelevel.paiges.Doc.Concat.C
+ÉåÑå7_root_.org.typelevel.paiges.Doc.spaceArray.$anonfun.(i),
+¡ÅƒÅ _root_.org.typelevel.paiges.Doc#P
+ßn¨nFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716P
+¬c∆cFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..12957P
+äVãVFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10984..10985N
+Ü9â9Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7302..7310R
+£§§§Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20930..20951,
+Ω¿¿¿ _root_.org.typelevel.paiges.Doc#,
+Ÿä‹ä _root_.org.typelevel.paiges.Doc#P
+ør√rFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..14906*
+»÷–÷_root_.scala.package.Iterable#P
+£VßVFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413#
+˝G˛G_root_.scala.Int#`*`(I)I.*
+ÒBÙB _root_.org.typelevel.paiges.Doc#k
+ˆ|¯|a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.7
+´ÖÆÖ+_root_.org.typelevel.paiges.Doc.Align#(doc)f
+åŸçŸZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.P
+†b§bFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12572..12594f
+µ¢∂¢Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.,
+®ü´ü _root_.org.typelevel.paiges.Doc#%
+ÌKÛK_root_.scala.Predef.String#)
+Ê≈Ï≈_root_.scala.Array#length()I.6
+πP¿P,_root_.scala.annotation.tailrec#`<init>`()V.N
+õ6ú6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6908..6909,
+‚ƒÂƒ _root_.org.typelevel.paiges.Doc#%
+ôWûW_root_.scala.package.Right.R
+∆£«£Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20930..20951N
+¥9∑9Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7302..7310$
+˙6¸6_root_.scala.package.`::`.2
+÷ú‹ú&_root_.java.lang.String#`<init>`([C)V.â
+––€–}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.,
+Ã¿œ¿ _root_.org.typelevel.paiges.Doc#P
+ÄcÖcFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350P
+ômümFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13973..13998,
+îFôF"_root_.org.typelevel.paiges.Chunk.R
+Ç†É†Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20411..20417^
+¿¶√¶R_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.,
+ÊäÈä _root_.org.typelevel.paiges.Doc#/
+˘°ˇ°#_root_.java.lang.String#charAt(I)C.R
+ßΩ´ΩFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..22599N
+Ú/ˆ/Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6002..6030P
+∫W¿WFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359P
+ônõnFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14091..14093
+≠h±h_root_.scala.None.6
+¸£Ö§*_root_.org.typelevel.paiges.Doc.charTable.*
+§_ß_ _root_.org.typelevel.paiges.Doc#T
+‹ñÎñH_root_.org.typelevel.paiges.Doc.orderingAtWidth(I)Lscala/math/Ordering;.I
+˚hâi?_root_.org.typelevel.paiges.Doc#flattenBoolean()Lscala/Tuple2;.0
+çsís&_root_.org.typelevel.paiges.Doc.Union.Ö
+π¬{_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.&
+¥£∂£_root_.scala.Int#`==`(I)Z.á
+à∑ã∑{_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)P
+›_‡_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12253..12256P
+àtåtFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..14906P
+ÄkÇkFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499P
+⁄T€TFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10842..10843R
+Æ∂≥∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23338..233872
+⁄∑ﬂ∑&_root_.org.typelevel.paiges.Doc.Union.N
+∂<∑<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7623..7629,
+ƒÛƒ _root_.org.typelevel.paiges.Doc#R
+˙ÿ˚ÿFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27770..27771?
+ÀŸ5_root_.org.typelevel.paiges.Doc.Line#(flattenToSpace)'
+“÷ÿ÷_root_.scala.Predef.String#P
+£mßmFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13940..13962%
+⁄‡_root_.scala.Predef.String#2
+»œÕœ&_root_.org.typelevel.paiges.Doc.space.R
+˛ÃˇÃFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@26210..26211P
+©T™TFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10793..10794P
+ßb®bFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12549..12558R
+∆≈»≈Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25249..25268I
+“#‡#?_root_.org.typelevel.paiges.Doc#flattenBoolean()Lscala/Tuple2;.N
+ﬂ6‡6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6980..6981K
+«7–7A_root_.org.typelevel.paiges.Chunk.lineToStr(I)Ljava/lang/String;.R
+àΩçΩFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23182..23187P
+¿ZƒZFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579N
+»'…'Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5064..5065%
+é§è§_root_.scala.Int#`-`(I)I.'
+˙õ¸õ_root_.scala.Char#`<=`(C)Z.1
+€ · '_root_.org.typelevel.paiges.Doc.Concat.
+∫%¡%_root_.scala.Boolean#*
+åièi _root_.org.typelevel.paiges.Doc#
+Ãxœx_root_.scala.Int#R
+ïµùµFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23189..23197P
+ÉRâRFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359$
+É6Ö6_root_.scala.package.`::`.Q
+ SÀSG_root_.scala.StringContext#s(Lscala/collection/Seq;)Ljava/lang/String;.
+{Ù{_root_.scala.math.R
+©°Æ°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20649..20659N
+‘?⁄?D_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.N
+«#Œ#Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4551..4558N
+◊G€GDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9175..9184N
+∂ù∫ùB_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.d
+¨≠Z_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.R
+ò∫ù∫Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23703..23713å
+˝ÅÅ_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(left)l
+êîb_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)P
+¥l∂lFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13862..13864R
+…ô ôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19594..19600R
+ñºõºFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24086..240961
+Ë_Ó_'_root_.org.typelevel.paiges.Doc.Concat.P
+ÉeÑeFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12931..12932
+¢ç•ç_root_.scala.Int#N
+π9º9Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7312..7333P
+Ω{æ{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15779..15780
+ÏGÔG_root_.scala.Int#%
+ éÀé_root_.scala.Int#`%`(I)I.1
+êÙê%_root_.org.typelevel.paiges.Doc.Line.&
+¿∞¬∞_root_.scala.package.`::`.3
+˜∂˝∂'_root_.org.typelevel.paiges.Doc.Concat.%
+˜˝_root_.scala.Predef.String#U
+¡:∆:K_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.(count)2
+˛÷É◊&_root_.org.typelevel.paiges.Doc.empty.$
+ú=û=_root_.scala.Int#`==`(I)Z.
+ÂGÈG_root_.scala.Char#0
+ì|ò|&_root_.org.typelevel.paiges.Doc.Union.,
+û“°“ _root_.org.typelevel.paiges.Doc#Ö
+°◊•◊y_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rows)'
+±Å∑Å_root_.scala.Predef.String#R
+ùª°ªFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..22599]
+ÓS_root_.org.typelevel.paiges.Doc#`&:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.g
+íóîó[_root_.scala.math.Ordering.by(Lscala/Function1;Lscala/math/Ordering;)Lscala/math/Ordering;.K
+Ú¥Äµ?_root_.org.typelevel.paiges.Doc#flattenBoolean()Lscala/Tuple2;.h
+≠≈¥≈\_root_.scala.collection.TraversableOnce#toArray(Lscala/reflect/ClassTag;)Ljava/lang/Object;.a
+¿◊√◊U_root_.scala.collection.TraversableOnce#max(Lscala/math/Ordering;)Ljava/lang/Object;.&
+ä~ê~_root_.org.typelevel.paiges.N
+œ;“;Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7631..76392
+ù¡¢¡&_root_.org.typelevel.paiges.Doc.Empty.k
+ˇ	É
+a_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)N
+Œ6—6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..6689R
+÷π›πFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22391..22416P
+Í|Ì|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406W
+¶◊Æ◊K_root_.scala.collection.IterableLike#iterator()Lscala/collection/Iterator;.N
+ã6è6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..7287,
+ˇäÇã _root_.org.typelevel.paiges.Doc#,
+“ö’ö _root_.org.typelevel.paiges.Doc#b
+ÀŒX_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)6
+¡ö ö*_root_.org.typelevel.paiges.Doc.charTable.N
+¶(´(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791,
+ÆÄ±Ä _root_.org.typelevel.paiges.Doc.$
+›i·i_root_.scala.package.List#R
+À∂“∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22391..22416,
+“ƒ’ƒ _root_.org.typelevel.paiges.Doc#N
+¨H≠HDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9260..9266%
+¶U´U_root_.scala.package.Right.,
+âÿåÿ _root_.org.typelevel.paiges.Doc#R
+√üƒüFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20419..20425â
+ºœ«œ}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.U
+©b≤bK_root_.org.typelevel.paiges.Doc.Line#asFlatDoc()Lorg/typelevel/paiges/Doc;.*
+¨PØP _root_.org.typelevel.paiges.Doc#*
+ÄÃàÃ_root_.scala.package.Iterable#R
+’º‹ºFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22391..22416d
+‰1È1Z_root_.org.typelevel.paiges.Doc#renderStream(I)Lscala/collection/immutable/Stream;.(width)R
+–ø’øFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23133..23138R
+ÄŸàŸFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27632..27725*
+Æ± _root_.org.typelevel.paiges.Doc.,
+≥Ç∂Ç _root_.org.typelevel.paiges.Doc#*
+ÂgËg _root_.org.typelevel.paiges.Doc#è
+ûÃ°ÃÇ_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)P
+ªzºzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15643..15644_
+ı™˘™S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.*
+≥4∂4 _root_.org.typelevel.paiges.Doc#R
+˛∂ˇ∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22478..22484d
+©™Z_root_.org.typelevel.paiges.Doc#`&`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.6
+èúòú*_root_.org.typelevel.paiges.Doc.charTable.1
+‹–‡–%_root_.org.typelevel.paiges.Doc.line.8
+ôU°U._root_.scala.Any#toString()Ljava/lang/String;.j
+‡‰`_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)N
+Ú¯D_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.N
+û@ü@Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8208..8209]
+ÓÚS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.%
+™é´é_root_.scala.Int#`/`(I)I.$
+µ◊∑◊_root_.scala.Tuple2#(_1)N
+Ω+¬+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791
+@D_root_.java.d
+˝	˛	Z_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.h
+òåüå\_root_.scala.collection.TraversableOnce#toArray(Lscala/reflect/ClassTag;)Ljava/lang/Object;.P
+∑z∏zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15640..156418
+∂ØΩØ,_root_.scala.annotation.tailrec#`<init>`()V.S
+üç†çG_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.(n)P
+Ô__Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12258..12259,
+ÎòÓò _root_.org.typelevel.paiges.Doc#R
+§ª®ªFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23972..23976/
+„bÁb%_root_.org.typelevel.paiges.Doc.Nest.P
+ßz´zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006P
+µTªTFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359R
+ÔÃÃFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@26207..26208P
+¿{√{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439N
+ì=ñ=Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7631..7639,
+∞ù≥ù _root_.org.typelevel.paiges.Doc#N
+ˇ5Ä6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6911..69121
+âè'_root_.org.typelevel.paiges.Doc.Concat.N
+‚G„GDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9186..9193N
+Ï;Ì;Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7656..7672
+õhüh_root_.scala.Some.0
+ÍpÔp&_root_.org.typelevel.paiges.Doc.Align.,
+∫°Ω° _root_.org.typelevel.paiges.Doc#$
+µ`π`_root_.scala.package.List#j
+Ñ	à	`_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that),
+≤œµœ _root_.org.typelevel.paiges.Doc#N
+Æ=Ø=Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7623..7629N
+Õ<œ<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7720..7739%
+îö_root_.scala.Predef.String#P
+ëkìkFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499,
+„ÆÊÆ _root_.org.typelevel.paiges.Doc#P
+∞x≥xFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15408..15429]
+¬UƒUS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.P
+“i‘iFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499R
+ôØ°ØFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22421..22447,
+ΩÖ¿Ö _root_.org.typelevel.paiges.Doc#]
+éíS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+Ç7É7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7042..7043R
+„ô‰ôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19586..19592*
+ÄÉ _root_.org.typelevel.paiges.Doc#*
+óö _root_.org.typelevel.paiges.Doc.R
+„≈Â≈Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25249..25268$
+å&é&_root_.scala.package.`::`.1
+¶¨'_root_.org.typelevel.paiges.Doc.Concat.*
+Ì£Ô£_root_.scala.Boolean#`&&`(Z)Z.R
+◊ø€øFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..22599
+™÷Æ÷_root_.scala.Char#'
+∫÷¿÷_root_.scala.Predef.String#H
+ºô¬ô<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.k
+¬YƒYa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.2
+≤Ä∑Ä&_root_.org.typelevel.paiges.Doc.empty.,
+üÄ¢Ä _root_.org.typelevel.paiges.Doc.N
+¬5√5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6850..6851R
+•æ™æFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23133..23138R
+“ô”ôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19637..19638
+õ9û9_root_.scala.Int#
+´xÆx_root_.scala.Int#N
+ó/ô/Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6035..6067/
+ô@ù@%_root_.org.typelevel.paiges.Doc.Nest.f
+äè\_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.1
+ÊÏ'_root_.org.typelevel.paiges.Doc.Concat.R
+¨æ∞æFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..22599N
+«5À5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..7287P
+‡W·WFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11232..11233$
+Œ=–=_root_.scala.Int#`<=`(I)Z.P
+ÄVÑVFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579P
+øS√SFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579}
+œÃ◊Ãq_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.P
+¯l¸lFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13940..13962R
+ı¢¯¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20661..20669P
+ˇyÇzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439R
+æ∆ø∆Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25275..25300*
+∫ Ω  _root_.org.typelevel.paiges.Doc#6
+˙wÇx,_root_.org.typelevel.paiges.Doc#maxWidth()I.N
+÷›D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.*
+¿x√x _root_.org.typelevel.paiges.Doc#k
+»X Xa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.P
+õzúzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15643..15644R
+¯º˛ºFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24180..24238^
+ü§T_root_.org.typelevel.paiges.Doc#space(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+É8Ñ8Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7171..7172m
+¨ªÆªa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.R
+°°¢°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647P
+ÖñåñD_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.#
+ó=ò=_root_.scala.Int#`&`(I)I.0
+ÿz›z&_root_.org.typelevel.paiges.Doc.Align.R
+©∞™∞Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22478..22484R
+•∏©∏Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23589..23593P
+⁄î·îD_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.1
+‹ã‡ã%_root_.org.typelevel.paiges.Doc.Text#*
+¨Ø _root_.org.typelevel.paiges.Doc.R
+≥ÿ∏ÿFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27541..275877
+‡éÍé+_root_.org.typelevel.paiges.Doc.spaceArray._
+€◊ﬂ◊S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.R
+íπñπFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23694..23937P
+ÏyÌyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15567..155680
+ÿt€t&_root_.scala.collection.immutable.Nil.N
+ÙHıHDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9268..9277R
+¨∞±∞Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22502..22525N
+ï<ñ<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7656..7672N
+“5”5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6830..6831W
+ú°M_root_.org.typelevel.paiges.Doc.Union.;_root_.org.typelevel.paiges.Doc.Union#%
+êVïV_root_.scala.package.Right.1
+’îŸî%_root_.org.typelevel.paiges.Doc.line.Å
+ÿƒ⁄ƒu_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.(fn)2
+õè†è&_root_.org.typelevel.paiges.Doc.space.R
+ÊØÎØFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22502..22525_
+ïüôüS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.Å
+≈ƒ«ƒu_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.(ds)(
+õ(ù(_root_.scala.Boolean#`&&`(Z)Z.R
+ïöùöF_root_.scala.collection.immutable.Stream#mkString()Ljava/lang/String;.1
+ÕV”V'_root_.org.typelevel.paiges.Doc.Concat.f
+à´â´Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.R
+Œ◊‘◊Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27594..276250
+‹Z·Z&_root_.org.typelevel.paiges.Doc.empty.6
+÷™›™*_root_.scala.util.matching.Regex#(pattern)P
+ú`°`Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..12332/
+√'«'%_root_.org.typelevel.paiges.Doc.Text.'
+õú†ú_root_.scala.Char#toInt()I.a
+›¶ﬁ¶U_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(t)6
+ï,ù,,_root_.org.typelevel.paiges.Doc#nonEmpty()Z.#
+µz∂z_root_.scala.Int#`+`(I)I.P
+å}ê}Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006b
+ÛˆX_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)é
+¥Ã∂ÃÅ_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)%
+È¢Í¢_root_.scala.Int#`-`(I)I.
+öP°P_root_.scala.Boolean#,
+ÍêÌê _root_.org.typelevel.paiges.Doc#0
+¯<˝<&_root_.org.typelevel.paiges.Doc.Empty.N
+7Ò7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7152..7153P
+òçûçD_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.R
+õ°†°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20631..20865N
+˘(˝(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..5579P
+ëtítFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682
+Üä_root_.scala.util.R
+Í¿Ì¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24642..24656P
+ÔVÛVFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579,
+∆–…– _root_.org.typelevel.paiges.Doc#R
+–°—°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647R
+ææ√æFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22502..22525
+Ñxáx_root_.scala.Int#5
+™,±,+_root_.org.typelevel.paiges.Doc#isEmpty()Z.,
+üŒ¢Œ _root_.org.typelevel.paiges.Doc#P
+˘b˛bFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..12332R
+ŒØœØFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22478..22484j
+–‘`_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)
+›G‡G_root_.scala.Int#P
+£j•jFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13603..13605R
+Ä¢Å¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647N
+¶H´HDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9250..9362P
+ÜlálFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682N
+õ)ú)Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5275..5276&
+Ï3Ú3_root_.scala.package.Stream#3
+å∫í∫'_root_.org.typelevel.paiges.Doc.Concat.N
+ﬁ7ﬂ7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7085..7086ñ
+Ü ã â_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.F
+œ.’.<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.'
+Û…˘…_root_.scala.Predef.String#P
+˘{¸{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439P
+údùdFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12814..12815P
+útùtFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682*
+âóëó_root_.scala.package.Ordering.]
+ëïS_root_.org.typelevel.paiges.Doc#line(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.f
+‰°Â°Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.&
+ÌØÒØ_root_.scala.package.List#]
+‘Y÷YS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.
+∞°≥°_root_.scala.Int#R
+â∫ä∫Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22478..22484P
+¿j¬jFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13597..13599K
+£µ±µ?_root_.org.typelevel.paiges.Doc#flattenBoolean()Lscala/Tuple2;.
+Î1Ó1_root_.scala.Int#Ç
+«ÆÀÆv_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.3
+¡π«π'_root_.org.typelevel.paiges.Doc.Concat.*
+Œ:—: _root_.org.typelevel.paiges.Doc#ì
+ò!û!à_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(indent)R
+√ôƒôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19637..196381
+Û˘'_root_.org.typelevel.paiges.Doc.Concat.]
+ÏS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.P
+ËjÏjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..14906
+‘;◊;_root_.scala.Int#R
+û∏¢∏Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..225996
+∞Ç±Ç*_root_.org.typelevel.paiges.Doc.Concat#(b)N
+ê9ì9Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7312..7333N
+√9«9Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..72873
+ËÃÓÃ'_root_.org.typelevel.paiges.Doc.Concat.k
+£U•Ua_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+Ω6æ6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6973..6974N
+Ù5ı5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6900..6901-
+Ö™ä™!_root_.scala.util.matching.Regex#%
+–≈—≈_root_.scala.Int#`-`(I)I.P
+ÙR¯RFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413R
+†¢•¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20631..20865R
+è∏ñ∏Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615N
+ÖIÜIDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9279..9285%
+¨≤_root_.scala.Predef.String#0
+ÔxÚx&_root_.scala.collection.immutable.Nil.*
+ƒ« _root_.org.typelevel.paiges.Doc.R
+éŸèŸFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27770..27771"
+ût†t_root_.scala.Tuple2#(_2)*
+›P‡P _root_.org.typelevel.paiges.Doc#3
+Ç∫à∫'_root_.org.typelevel.paiges.Doc.Concat.â
+‘ÿﬂÿ}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.P
+ús†sFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..149067
+˘ä˝ä+_root_.org.typelevel.paiges.Doc.Union#bDoc.v
+Ñ“Ü“j_root_.org.typelevel.paiges.Doc.tabulate(Lscala/collection/immutable/List;)Lorg/typelevel/paiges/Doc;.(kv)U
+ÅmämK_root_.org.typelevel.paiges.Doc.Line#asFlatDoc()Lorg/typelevel/paiges/Doc;.2
+¬ä«ä&_root_.org.typelevel.paiges.Doc.Union#P
+Â{È{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006
+›ú‚ú_root_.scala.Array.'
+Á£È£_root_.scala.Char#`<=`(C)Z.U
+éíK_root_.org.typelevel.paiges.Doc.Nest.;_root_.org.typelevel.paiges.Doc.Nest#1
+‰êËê%_root_.org.typelevel.paiges.Doc.line.$
+üz°z_root_.scala.package.`::`.'
+–ò’ò_root_.scala.package.Equiv#N
+©=¨=Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7679..7815N
+à7ç7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7292..7357P
+°_¢_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12193..12199*
+ÄúÇú_root_.scala.Boolean#`&&`(Z)Z.d
+ £Õ£X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)P
+üd§dFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..123327
+®è≤è+_root_.org.typelevel.paiges.Doc.spaceArray.0
+àdçd&_root_.org.typelevel.paiges.Doc.Union.N
+ê@ë@Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8208..8209R
+∆µŒµFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23140..23148k
+çVèVa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.R
+òÿôÿFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27645..27654]
+åéS_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.R
+µô∂ôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19637..19638*
+Ë	Î	 _root_.org.typelevel.paiges.Doc#%
+ÇUáU_root_.scala.package.Right.P
+¢z£zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15650..15651
+»œ_root_.scala.Product#]
+≥µS_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.$
+†{¢{_root_.scala.package.`::`.N
+ÊHÎHDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9250..9362N
+¨<Æ<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7720..7739P
+ÖSãSFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359P
+ıdˆdFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12917..12918
+€‚_root_.scala.Boolean#N
+·7‚7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7100..7101'
+˚öÅõ_root_.scala.Int#toChar()C.e
+›	·	[_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.R
+√¡ƒ¡Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24750..24751P
+ÆaØaFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12308..12314Q
+¥úµúE_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.(c)W
+ÏñÌñK_root_.org.typelevel.paiges.Doc.orderingAtWidth(I)Lscala/math/Ordering;.(w)N
+ìJîJDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9491..94925
+Ú$˘$+_root_.org.typelevel.paiges.Doc#isEmpty()Z."
+ìtït_root_.scala.Tuple2#(_2)I
+¸gäh?_root_.org.typelevel.paiges.Doc#flattenBoolean()Lscala/Tuple2;.P
+˙z˚zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15710..15711N
+ì@î@Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8211..8212
+‚Â_root_.scala.Int#$
+ànän_root_.scala.package.`::`.*
+¢%•% _root_.org.typelevel.paiges.Doc#%
+≤Y∑Y_root_.scala.package.Right.P
+è`ì`Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..12957:
+ÃéŸé._root_.org.typelevel.paiges.Doc.maxSpaceTable.2
+é≈ì≈&_root_.org.typelevel.paiges.Doc.empty.R
+˜ÿ¯ÿFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27767..27768P
+◊_ÿ_Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12193..12199N
+ü6†6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6911..6912N
+˝6˛6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7037..7038P
+ÅaÜaFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..12332P
+ÔRÛRFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579P
+Ä{Å{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15717..15718A
+èÄùÄ5_root_.org.typelevel.paiges.Doc.Line#(flattenToSpace)P
+±y≤yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15522..15523*
+®`´` _root_.org.typelevel.paiges.Doc#d
+Ùü˜üX_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)*
+Æ!±! _root_.org.typelevel.paiges.Doc.<
+ë™†™0_root_.org.typelevel.paiges.Doc.splitWhitespace.P
+•t™tFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..13699/
+ó{õ{%_root_.org.typelevel.paiges.Doc.Text.d
+ﬁﬂZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(
+îÅöÅ_root_.org.typelevel.paiges.R
+≥æ∑æFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24371..24375*
+ÓÒ _root_.org.typelevel.paiges.Doc.
+˛EÇF_root_.scala.Unit#
+ÁEÍE_root_.scala.Int#2
+‰üÈü&_root_.org.typelevel.paiges.Doc.Empty.R
+∞∏µ∏Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22502..22525j
+´Ø`_root_.org.typelevel.paiges.Doc#`&`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that),
+Ãüœü _root_.org.typelevel.paiges.Doc#k
+‚	Ê	a_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)P
+∑jπjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13603..13605õ
+¢™•™é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(sep)$
+ÖVâV_root_.scala.package.Left.N
+Â5Ê5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6850..6851P
+˘|˙|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15907..15908R
+äôãôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19594..19600R
+ö∆õ∆Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25307..25328b
+ß™X_root_.org.typelevel.paiges.Doc#`/:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)k
+æz¿za_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.1
+ß!≠!'_root_.org.typelevel.paiges.Doc.Concat.é
+¸À˛ÀÅ_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)N
+™*Ø*Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..47917
+ ã‘ã+_root_.org.typelevel.paiges.Doc.spaceArray.R
+»øœøFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615N
+ë(í(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5064..5065N
+Å)Ü)Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791%
+º¢Ω¢_root_.scala.Int#`+`(I)I.#
+±{≤{_root_.scala.Int#`+`(I)I.,
+©,™,"_root_.scala.Boolean#`unary_!`()Z.0
+òyùy&_root_.org.typelevel.paiges.Doc.Empty.$
+¡6√6_root_.scala.package.`::`.N
+†&§&Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4879..48830
+ﬂ§Ê§$_root_.java.lang.String#indexOf(I)I.N
+¶)ß)Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5275..5276*
+≠∞ _root_.org.typelevel.paiges.Doc.
+õ÷£÷s_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;._
+ìÿóÿS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.R
+√≈≈≈Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25249..25268P
+ cœcFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..12332
+Æ4±4_root_.scala.Int#P
+étètFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14847..14848g
+å ç [_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(s)P
+«c»cFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12732..12733,
+èÿíÿ _root_.org.typelevel.paiges.Doc.Ö
+§÷®÷y_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(fill)N
+ëIíIDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9260..9266P
+¢k£kFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682d
+Ê…Ô…X_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.,
+⁄÷›÷ _root_.org.typelevel.paiges.Doc#,
+∞ì≥ì _root_.org.typelevel.paiges.Doc#<
+Å≈à≈0_root_.scala.collection.IterableLike#isEmpty()Z.R
+»πÕπFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23182..23187,
+®ç´ç _root_.org.typelevel.paiges.Doc#3
+ØG∑G)_root_.org.typelevel.paiges.Doc#hashCode.R
+Ó¢Û¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20649..20659á
+§ØßØ{_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)R
+Í£Î£Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20930..20951P
+jÚjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499è
+˘Ã¸ÃÇ_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)á
+ì∫ñ∫{_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)/
+Ï``%_root_.org.typelevel.paiges.Doc.Text.P
+¬b∆bFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12572..125941
+Ó Ù '_root_.org.typelevel.paiges.Doc.Concat.,
+∞Ö≥Ö _root_.org.typelevel.paiges.Doc#P
+…a aFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12489..12490&
+«¿À¿_root_.scala.package.List#`
+ƒ¶≈¶T_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.T#P
+ôtötFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14850..14851*
+÷ôÿô_root_.scala.Boolean#`&&`(Z)Z.P
+›WﬁWFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11229..11230:
+’ç‚ç._root_.org.typelevel.paiges.Doc.maxSpaceTable.*
+È?Ï? _root_.org.typelevel.paiges.Doc#R
+ÄèÅèFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@18208..18233N
+•6¶6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6918..6919k
+€X›Xa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.,
+Ü2ã2"_root_.org.typelevel.paiges.Chunk.R
+∏ü∫üFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20404..20488i
+öFûF__root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.*
+∆… _root_.org.typelevel.paiges.Doc.4
+≤!ª!*_root_.org.typelevel.paiges.Doc.lineBreak.%
+éHìH_root_.scala.Char#toInt()I.R
+¶¢ß¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647$
+Æ%≤%_root_.scala.package.List#$
+ø5¡5_root_.scala.package.`::`.N
+Ä9Ö9Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7292..7357N
+â&ã&Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4873..4875-
+˚x˛x#_root_.scala.math.package.max(II)I.P
+ËbÈbFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12648..12649u
+˘iÅjk_root_.scala.collection.LinearSeqOptimized#foldLeft(Ljava/lang/Object;Lscala/Function2;)Ljava/lang/Object;.r
+æ¬h_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)c
+ìóY_root_.org.typelevel.paiges.Doc#`&:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that),
+ñ“ô“ _root_.org.typelevel.paiges.Doc#*
+¨~Ø~ _root_.org.typelevel.paiges.Doc#'
+Üúàú_root_.scala.Char#`<=`(C)Z.P
+¨zØzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406è
+ÚÀıÀÇ_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)N
+Ô88Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7171..7172R
+‚Ã„ÃFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@26210..26211%
+´∆≠∆_root_.scala.Int#`-`(I)I.U
+ÇÜK_root_.org.typelevel.paiges.Doc.Text.;_root_.org.typelevel.paiges.Doc.Text#,
+≠™∞™ _root_.org.typelevel.paiges.Doc.R
+ç∑ï∑Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24621..24691R
+ñ∑ó∑Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22590..22591d
+€§ﬁ§X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)N
+ƒ(≈(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5188..5189
+*,_root_.java.io.R
+å∂ë∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23308..23318R
+∑¢π¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20404..20488R
+Ò£Ú£Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20930..20951N
+ƒ6≈6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6980..6981P
+¢y£yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15522..15523
+Ãö—ö_root_.scala.Array#3
+ÚÃ¯Ã'_root_.org.typelevel.paiges.Doc.Concat.N
+ê5ë5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6800..6801*
+ËÎ _root_.org.typelevel.paiges.Doc.P
+Ùj˘jFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..13699*
+¢œ™œ_root_.scala.package.Iterable#N
+ˆ6˜6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7030..7031<
+ı÷¸÷0_root_.scala.collection.IterableLike#isEmpty()Z.8
+±™º™,_root_.org.typelevel.paiges.Doc.lineOrSpace./
+∆ %_root_.org.typelevel.paiges.Doc.Line#b
+èíX_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)-
+ı{¯{#_root_.scala.math.package.max(II)I.0
+≠e∞e&_root_.scala.collection.immutable.Nil.õ
+ã´é´é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(sep)R
+ˆô˛ôF_root_.scala.collection.immutable.Stream#mkString()Ljava/lang/String;.1
+ÎdÒd'_root_.org.typelevel.paiges.Doc.Concat.2
+•Ö™Ö&_root_.org.typelevel.paiges.Doc.Align#1
+¢=®='_root_.org.typelevel.paiges.Doc.Concat.#
+†@°@_root_.scala.Int#`+`(I)I.3
+Œº‘º'_root_.org.typelevel.paiges.Doc.Concat.R
+ﬂ∫‰∫Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23733..23782.
+ü•••"_root_.java.lang.String#length()I.,
+˜À˙À _root_.org.typelevel.paiges.Doc#k
+’9◊9a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.2
+Ÿ∫ﬁ∫&_root_.org.typelevel.paiges.Doc.Union.P
+¨yØyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406U
+Ó=Û=K_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.(count),
+çôêô _root_.org.typelevel.paiges.Doc#6
+ÿjﬂj,_root_.scala.annotation.tailrec#`<init>`()V./
+‘{ÿ{%_root_.org.typelevel.paiges.Doc.Line.R
+Ä´Å´Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@21888..21889C
+ìåîå7_root_.org.typelevel.paiges.Doc.spaceArray.$anonfun.(i)]
+Õ—S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.k
+ΩXøXa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.R
+∏ºΩºFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24116..24165#
+äHãH_root_.scala.Int#`+`(I)I.,
+ì∂ñ∂ _root_.org.typelevel.paiges.Doc#]
+» S_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.0
+‹*·*&_root_.org.typelevel.paiges.Doc.Union.k
+Öeáea_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.6
+πF¿F,_root_.scala.collection.Iterator#hasNext()Z.*
+˘¸ _root_.org.typelevel.paiges.Doc.R
+ºµƒµFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23189..23197N
+ÒHÚHDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9260..9266R
+§Ω•ΩFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22590..22591P
+≥z¥zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15632..15633R
+›°‚°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20649..20659N
+Ó6Ô6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7022..7023P
+ÑèäèD_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.S
+»é…éG_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.(n)r
+˚—É“f_root_.org.typelevel.paiges.Doc.tabulate(Lscala/collection/immutable/List;)Lorg/typelevel/paiges/Doc;.S
+ÔççG_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.(n)
+‡õ‰õ_root_.scala.Char#5
+»ä…ä)_root_.org.typelevel.paiges.Doc.Union#(a)f
+ôû\_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.w
+ºò¬òk_root_.org.typelevel.paiges.Doc.equivAtWidths(Lscala/collection/immutable/List;)Lscala/math/Equiv;.(widths)N
+È8Í8Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7161..7162P
+ßy´yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006P
+£|§|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15907..15908*
+ıñ˝ñ_root_.scala.package.Ordering#P
+¯Q¸QFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413R
+§é•éFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@18208..18233*
+ ;Õ; _root_.org.typelevel.paiges.Doc#.
+è•ï•"_root_.java.lang.String#length()I.P
+©Q≠QFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413R
+Æ¡Ø¡Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24750..24751R
+˚ΩÅæFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24180..24238b
+œ“X_root_.org.typelevel.paiges.Doc#`/:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)0
+‘=Ÿ=&_root_.org.typelevel.paiges.Doc.Empty.]
+∑WπWS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.%
+´±_root_.scala.Predef.String#`
+⁄3Í3V_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.c
+¸WáXY_root_.org.typelevel.paiges.Doc#representation(Z)Lorg/typelevel/paiges/Doc;.(forceUnions)$
+éWíW_root_.scala.package.Left.P
+ˇxÇyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439k
+éUêUa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.
+˚$Ç%_root_.scala.Boolean#
+ÔñÚñ_root_.scala.Int#
+…òÃò_root_.scala.Int#P
+°Q•QFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10401..10405N
+ﬂ/·/Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6035..6067`
+‹IÏIV_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.3
+°ÇßÇ'_root_.org.typelevel.paiges.Doc.Concat#P
+ËUÈUFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10984..10985P
+®i™iFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499,
+ıï¯ï _root_.org.typelevel.paiges.Doc#3
+∂∂º∂'_root_.org.typelevel.paiges.Doc.Concat.k
+ºŒæŒ__root_.org.typelevel.paiges.Doc.cat(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)k
+ñWòWa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.P
+œr‘rFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..136990
+ÿ9€9&_root_.scala.collection.immutable.Nil.2
+Ã¡œ¡&_root_.scala.collection.immutable.Nil.N
+‘6◊6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..6689Ü
+÷ÆÿÆz_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)P
+ÑyáyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406b
+îóX_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)P
+‘V’VFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11092..11093R
+óπúπFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23703..23713N
+ËBÔBD_root_.org.typelevel.paiges.Doc#aligned()Lorg/typelevel/paiges/Doc;.
+÷ã€ã_root_.scala.Array#R
+∆ØÕØFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615,
+—Æ‘Æ _root_.org.typelevel.paiges.Doc#)
+…≈œ≈_root_.scala.Array#length()I.
+_root_.org.typelevel.,
+ÖÄàÄ _root_.org.typelevel.paiges.Doc#}
+ºƒƒƒq_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.R
+·ü‚üFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20419..204250
+£*®*&_root_.org.typelevel.paiges.Doc.Empty.R
+√∞«∞Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..22599|
+Ñ7á7r_root_.scala.collection.immutable.Stream.ConsWrapper#`#::`(Ljava/lang/Object;)Lscala/collection/immutable/Stream;.õ
+Û©ˆ©é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(str)d
+©£¨£X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)M
+îôC_root_.scala.util.matching.Regex.;_root_.scala.util.matching.Regex#U
+àåK_root_.org.typelevel.paiges.Doc.Line.;_root_.org.typelevel.paiges.Doc.Line#õ
+“™’™é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(pat)1
+ø≈'_root_.org.typelevel.paiges.Doc.Concat.N
+é7ë7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..6689N
+¿'¡'Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5056..5057
+ÄÖ_root_.scala.k
+ØY±Ya_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.3
+¿º∆º'_root_.org.typelevel.paiges.Doc.Concat.P
+—{“{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15825..15826P
+¢Y¶YFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579*
+äç _root_.org.typelevel.paiges.Doc.0
+∂cªc&_root_.org.typelevel.paiges.Doc.Align.5
+–ä—ä)_root_.org.typelevel.paiges.Doc.Union#(b)P
+ÖkäkFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716]
+´T≠TS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.P
+µR∂RFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10529..10530Ñ
+ÈöÏöx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.R
+ﬁº„ºFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24086..24096í
+Ω!¬!á_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(right)6
+¬/…/,_root_.scala.collection.Iterator#hasNext()Z.
+ëiòi_root_.scala.Boolean#
+‚Â_root_.scala.Int#P
+ PœPFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10314..10346,
+âÃåÃ _root_.org.typelevel.paiges.Doc#$
+›{ﬂ{_root_.scala.package.`::`.*
+”÷ _root_.org.typelevel.paiges.Doc#O
+ÏEÓEE_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.(pw)K
+ÿEﬂEA_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.*
+∫Ω _root_.org.typelevel.paiges.Doc.N
+≈!Ã!D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.P
+ÎbÏbFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12651..12652N
+û7ü7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7037..7038n
+ûœ†œb_root_.org.typelevel.paiges.Doc.spread(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)0
+„4Ê4&_root_.scala.collection.immutable.Nil.2
+ñ£õ£&_root_.org.typelevel.paiges.Doc.Empty.0
+◊W‹W&_root_.org.typelevel.paiges.Doc.Union.R
+‡∑Â∑Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23338..23387j
+‘ÿ`_root_.org.typelevel.paiges.Doc#lineOrSpace(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)0
+”Z÷Z&_root_.scala.collection.immutable.Nil.N
+€8ﬂ8Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..7287P
+±a∂aFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350H
+£ó©ó<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.N
+ê6ì6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..6689R
+‰¥Ï¥Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23140..23148*
+Æi±i _root_.org.typelevel.paiges.Doc#&
+à“å“_root_.scala.package.List#R
+Ö†Ü†Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20419..20425*
+º_ø_ _root_.org.typelevel.paiges.Doc#*
+¥∑ _root_.org.typelevel.paiges.Doc#R
+·¢Ê¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20631..20865P
+ßa≠aFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12182..12280l
+≈…b_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)1
+üÑ£Ñ%_root_.org.typelevel.paiges.Doc.Nest#N
+ß≠D_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.'
+üü•ü_root_.scala.Predef.String#$
+£`ß`_root_.scala.package.List#1
+∆<Ã<'_root_.org.typelevel.paiges.Doc.Concat.]
+§¶S_root_.org.typelevel.paiges.Doc#`/:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.R
+∫¿ª¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24634..24640%
+¯1˛1_root_.scala.Predef.String#0
+”t÷t&_root_.scala.collection.immutable.Nil./
+˜5˚5%_root_.org.typelevel.paiges.Doc.Nest.R
+øıøFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23182..23187*
+˙˝ _root_.org.typelevel.paiges.Doc.&
+€ØﬂØ_root_.scala.package.List#j
+óœùœ^_root_.org.typelevel.paiges.Doc.spread(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.,
+”¿÷¿ _root_.org.typelevel.paiges.Doc#R
+µ°∏°Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20661..20669$
+ÙV¯V_root_.scala.package.Left.b
+∂πX_root_.org.typelevel.paiges.Doc#line(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)N
+ %Õ%Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4765..4773N
+≤+ª+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5474..5483P
+ókôkFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499B
+Ôöö6_root_.org.typelevel.paiges.Doc.charTable.$anonfun.(i),
+ÁõÍõ _root_.org.typelevel.paiges.Doc#R
+ÇôÉôFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19586..19592,
+òŒõŒ _root_.org.typelevel.paiges.Doc#P
+óUòUFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10839..108402
+Ô¿Ú¿&_root_.scala.collection.immutable.Nil.5
+ÖãÜã)_root_.org.typelevel.paiges.Doc.Union#(b)N
+ó&õ&Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..5579Å
+î∆ñ∆u_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.(fn)i
+å2ê2__root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.N
+˝H˛HDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9279..92851
+ÔüÛü%_root_.org.typelevel.paiges.Doc.Text.,
+ñ7ú7"_root_.java.lang.String#length()I.P
+¢s£sFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14739..14740P
+£{§{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15779..15780P
+ôjõjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13593..13595N
+©)Æ)Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791Ö
+¬÷∆÷y_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rows)R
+Á¢Ë¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647*
+ÿZ€Z _root_.org.typelevel.paiges.Doc.8
+¬îÕî,_root_.org.typelevel.paiges.Doc.lineOrSpace.N
+º7Ω7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7100..7101
+%)_root_.java.P
+ódõdFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..12957k
+†V¢Va_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.,
+√Ñ∆Ñ _root_.org.typelevel.paiges.Doc#%
+¬4»4_root_.scala.Predef.String#R
+Ü∞â∞Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22486..22500P
+ÂaÍaFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350R
+«ºÃºFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23182..23187P
+ﬂQ‡QFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10463..104640
+‘RŸR&_root_.org.typelevel.paiges.Doc.Empty.N
+¥6µ6Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6964..6965k
+Ï8Ó8a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.k
+∫lºla_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+ë!ó!D_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.%
+õ°_root_.scala.Predef.String#6
+˚ïÑñ*_root_.org.typelevel.paiges.Doc.lineBreak.*
+…Ã _root_.org.typelevel.paiges.Doc.P
+Æ`≥`Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350[
+ÕF”FQ_root_.java.io.PrintWriter#append(Ljava/lang/CharSequence;)Ljava/io/PrintWriter;.P
+ˇkÖlFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13505..13649b
+ÂôıôV_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.d
+õ•û•X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)*
+«GÕG _root_.scala.inline#`<init>`()V.P
+≈r∆rFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14448..14449,
+¢è•è _root_.org.typelevel.paiges.Doc#
+ªxæx_root_.scala.Int#b
+ÑöîöV_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.P
+ÍzÓzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006R
+ππæπFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23733..23782(
+Øäµä_root_.org.typelevel.paiges.N
+’5÷5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6840..6841R
+ó∏ú∏Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23133..23138R
+≥¡∑¡Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24755..24759P
+—c÷cFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350R
+‘∂Ÿ∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23308..23318N
+±<µ<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7614..7871]
+◊1„1S_root_.org.typelevel.paiges.Doc#renderStream(I)Lscala/collection/immutable/Stream;.N
+œ(–(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5185..5186R
+•≈ß≈Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25249..25268R
+ÇöÉöFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19594..19600$
+†|¢|_root_.scala.package.`::`.*
+Æ ±  _root_.org.typelevel.paiges.Doc#N
+ﬂ‡D_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.(n)&
+÷P‹P_root_.scala.package.Either#<
+¯¶áß0_root_.org.typelevel.paiges.Doc.splitWhitespace.3
+˜ø˝ø'_root_.org.typelevel.paiges.Doc.Concat.í
+≥ ∏ á_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(right)R
+õΩ£ΩFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24621..24691P
+˘V˙VFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11095..11096:
+Óã˚ã._root_.org.typelevel.paiges.Doc.maxSpaceTable.N
+É<Ü<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7679..7815/
+»Ã%_root_.org.typelevel.paiges.Doc.line.R
+÷ØŸØFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22486..22500k
+˘y˚ya_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+È##Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4551..4558$
+÷yÿy_root_.scala.package.`::`.N
+ú&û&Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4873..4875N
+ÿõ‹õB_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.P
+Ûi¯iFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13526..13541P
+ƒS»SFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413W
+™ó´óK_root_.org.typelevel.paiges.Doc.orderingAtWidth(I)Lscala/math/Ordering;.(w),
+Ä∞É∞ _root_.org.typelevel.paiges.Doc#P
+˚S¸SFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10747..10748P
+÷r€rFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716f
+õÿúÿZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.P
+¡z¬zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15650..15651R
+¬¿≈¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24642..246566
+®Ç©Ç*_root_.org.typelevel.paiges.Doc.Concat#(a)P
+ﬂmÂmFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13505..13649N
+ô4ú4Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..6689.
+Ωÿ√ÿ"_root_.java.lang.String#length()I.P
+ãnçnFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14091..14093P
+≥s∏sFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716}
+…™—™q_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.]
+ÄRÇRS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.P
+“y”yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15570..15571k
+ÆX∞Xa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+‹5›5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6830..6831*
+⁄Æ‚Æ_root_.scala.package.Iterable#P
+°x•xFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006:
+¨éπé._root_.org.typelevel.paiges.Doc.maxSpaceTable.N
+Æ5Ø5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6830..6831$
+ÀaÕa_root_.scala.package.`::`.1
+»yŒy'_root_.org.typelevel.paiges.Doc.Concat.o
+Æòªòc_root_.org.typelevel.paiges.Doc.equivAtWidths(Lscala/collection/immutable/List;)Lscala/math/Equiv;./
+Œ£‘£#_root_.java.lang.String#charAt(I)C.f
+≈ÿ∆ÿZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.P
+Ì{Ó{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15840..15841P
+ùjüjFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13597..13599P
+ÜQãQFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10314..10346M
+˛éˇéA_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.:
+Çõäõ._root_.scala.Any#toString()Ljava/lang/String;.i
+¢/¶/__root_.org.typelevel.paiges.Chunk.best(ILorg/typelevel/paiges/Doc;)Lscala/collection/Iterator;.$
+˚jˇj_root_.scala.package.List#/
+∞7¥7%_root_.org.typelevel.paiges.Doc.Line.k
+¢t§ta_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+‚\È\D_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.N
+∏5π5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6840..6841$
+π7ª7_root_.scala.package.`::`.P
+£p§pFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14159..14160*
+…ƒ—ƒ_root_.scala.package.Iterable#1
+ÿ&ﬁ&'_root_.org.typelevel.paiges.Doc.Concat.D
+‚/Ê/:_root_.scala.collection.Iterator#next()Ljava/lang/Object;.N
+Ê8Á8Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7152..7153N
+î7ï7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7030..7031m
+ªæΩæa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.(
+õ*ù*_root_.scala.Boolean#`&&`(Z)Z.Ñ
+˝ãÄåx_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.N
+¯G¸GDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9175..9184*
+’ÿ _root_.org.typelevel.paiges.Doc#m
+≠∏Ø∏a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.P
+ÃnÕnFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14156..14157P
+ﬁzﬂzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15710..15711N
+(Ò(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5232..5233D
+¯üÅ†8_root_.java.lang.String#substring(II)Ljava/lang/String;.N
+É5Ñ5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6787..6788P
+˛QˇQFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10494..10495P
+¢e¶eFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..12957(
+qx _root_.scala.annotation.tailrec#d
+ËÈZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.0
+∑6º6&_root_.org.typelevel.paiges.Doc.Align.j
+ÇÜ`_root_.org.typelevel.paiges.Doc#lineOrSpace(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)/
+‡‰%_root_.org.typelevel.paiges.Doc.line.k
+ÿ5⁄5a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.(
+åÑíÑ_root_.org.typelevel.paiges.]
+¡√S_root_.org.typelevel.paiges.Doc#`:&`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.Ü
+˘¿˚¿z_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)P
+¥pπpFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716*
+∑}∫} _root_.org.typelevel.paiges.Doc.N
+¢J£JDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9491..9492k
+ˇTÅUa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.(
+íÖòÖ_root_.org.typelevel.paiges.%
+±X∂X_root_.scala.package.Right.*
+‹ﬂ _root_.org.typelevel.paiges.Doc#2
+ËΩÌΩ&_root_.org.typelevel.paiges.Doc.Union.R
+æ∞ø∞Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22590..22591P
+ÊmÏmFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13973..13998]
+≤T¥TS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.-
+ˆH¸H#_root_.java.lang.String#charAt(I)C.
+πGºG_root_.scala.Int#0
+ÿm€m&_root_.scala.collection.immutable.Nil.P
+ËiÍiFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499$
+≈Z…Z_root_.scala.package.Left.0
+û~£~&_root_.org.typelevel.paiges.Doc.Empty.R
+ñóóóFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19350..19356Y
+îöO_root_.org.typelevel.paiges.Doc.Concat.;_root_.org.typelevel.paiges.Doc.Concat#N
+Ã4œ4Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6691..6712N
+ü5†5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6800..6801r
+Éáh_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)%
+ãì_root_.scala.util.matching.N
+¸5˝5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6908..6909*
+†9£9 _root_.org.typelevel.paiges.Doc#N
+êJëJDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9488..9489/
+‚&Ê&%_root_.org.typelevel.paiges.Doc.Line.P
+ﬁy‚yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006P
+Â|È|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006$
+ßY´Y_root_.scala.package.Left.R
+˝◊˛◊Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27645..276548
+ËïÛï,_root_.org.typelevel.paiges.Doc.lineOrEmpty.Y
+û2¶2O_root_.scala.collection.Iterator#toStream()Lscala/collection/immutable/Stream;.P
+ßj©jFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13607..136090
+¯k˚k&_root_.scala.collection.immutable.Nil.V
+¢@®@L_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.(amount)N
+—<”<Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7720..7739,
+¸…ˇ… _root_.org.typelevel.paiges.Doc#%
+∑HΩH_root_.scala.Predef.String#P
+ÖbÜbFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12549..125580
+ï)ö)&_root_.org.typelevel.paiges.Doc.Align.f
+ÇèÉèZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.ë
+‚ Ê Ü_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(left)P
+¶l®lFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13862..13864
+∆ü…ü_root_.scala.Int#
+»:À:_root_.scala.Int#$
+—P’P_root_.scala.package.List#,
+◊◊⁄◊ _root_.org.typelevel.paiges.Doc.[
+ÎãÌãO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.N
+ï5ô5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..72871
+±5∑5'_root_.org.typelevel.paiges.Doc.Concat.P
+ız¯zFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406}
+´Ã≥Ãq_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.,
+ú/°/"_root_.org.typelevel.paiges.Chunk.k
+–Z“Za_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+û(¢(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..5579R
+¡¢∆¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20649..206591
+‡ÿ‰ÿ%_root_.org.typelevel.paiges.Doc.line.*
+‹ﬂ _root_.org.typelevel.paiges.Doc.$
+’·_root_.scala.Serializable#P
+ˇlÄmFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13917..13926
+®“∞“s_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.N
+‡8„8Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..6689P
+ÄeÅeFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12914..12915$
+åkêk_root_.scala.package.List#>
+∆ô»ô2_root_.java.lang.Object#`==`(Ljava/lang/Object;)Z."
+§h¶h_root_.scala.Tuple2#(_1)l
+Ì¯b_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.d
+ã£é£X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)1
+ˆ¸'_root_.org.typelevel.paiges.Doc.Concat.]
+ËXÍXS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;..
+≠£≥£"_root_.java.lang.String#length()I.,
+Ò™Ù™ _root_.org.typelevel.paiges.Doc.R
+«ÿÕÿFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27594..27625P
+Õ`Œ`Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12308..12314G
+„KÎK=_root_.org.typelevel.paiges.Doc#toString()Ljava/lang/String;.k
+‚5‰5a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.[
+·ö„öO_root_.scala.runtime.RichInt#to(I)Lscala/collection/immutable/Range/Inclusive;.P
+ÛyÙyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15557..15558/
+õü%_root_.org.typelevel.paiges.Doc.line.R
+≠¢Æ¢Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647Q
+„ú‰úE_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.(c)1
+àååå%_root_.org.typelevel.paiges.Doc.Text.P
+°R¢RFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10529..10530R
+Ω∂¬∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23182..23187P
+ê|ë|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15888..15889%
+ëUñU_root_.scala.package.Right.P
+|Ò|Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15888..15889P
+èeîeFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350R
+˘πˇπFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23797..238391
+∞¢¥¢%_root_.org.typelevel.paiges.Doc.line._
+Ø◊≤◊S_root_.scala.collection.Iterator#map(Lscala/Function1;)Lscala/collection/Iterator;.g
+…Ò…[_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(s)V
+€?·?L_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.(amount)P
+òzôzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15640..15641N
+;Û;Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7631..7639N
+‚*Î*Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5474..5483R
+á∂ã∂Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23299..235540
+‚UÁU&_root_.org.typelevel.paiges.Doc.Align.P
+‚i‰iFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499R
+ÂòÍòFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19557..19755P
+ªQøQFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10401..104050
+˚Ä&_root_.org.typelevel.paiges.Doc.Empty./
+Î(Ô(%_root_.org.typelevel.paiges.Doc.Nest.,
+´ÇÆÇ _root_.org.typelevel.paiges.Doc#%
+˘é˙é_root_.scala.Int#`-`(I)I.&
+Ò1˜1_root_.scala.package.Stream#ñ
+Ì©Ú©â_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.P
+ÂzÊzFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15717..15718
+`e_root_.scala.1
+≥π'_root_.org.typelevel.paiges.Doc.Concat.|
+§∞®∞p_root_.org.typelevel.paiges.package.call(Ljava/lang/Object;Lscala/collection/immutable/List;)Ljava/lang/Object;.1
+êñ'_root_.org.typelevel.paiges.Doc.Concat.R
+ﬂ¿Ê¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615,
+ø–¬– _root_.org.typelevel.paiges.Doc#1
+Ùö¯ö%_root_.org.typelevel.paiges.Doc.Text.2
+Ωç¬ç&_root_.org.typelevel.paiges.Doc.Empty.$
+µxπx_root_.scala.package.List#N
+™@´@Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8211..8212Ñ
+Ì™™x_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.
+ˆx˙x_root_.scala.math.^
+Ò4ˆ4T_root_.scala.collection.immutable.Stream.empty()Lscala/collection/immutable/Stream;.P
+≠W±WFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..10413*
+÷Ÿ _root_.org.typelevel.paiges.Doc#Q
+ÑúÖúE_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.(c)M
+ß/¨/C_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.(width)S
+–ç—çG_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.(n)R
+ø≈¿≈Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25275..25300*
+ÏÔ _root_.org.typelevel.paiges.Doc#0
+°}§}&_root_.scala.collection.immutable.Nil.*
+µ_∏_ _root_.org.typelevel.paiges.Doc#N
+è&ì&Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4879..4883Å
+™≈¨≈u_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.(ds)6
+•ìÆì*_root_.org.typelevel.paiges.Doc.lineBreak.]
+ÇSÑSS_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+Ã5œ5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..66897
+‰çÓç+_root_.org.typelevel.paiges.Doc.spaceArray.N
+ò%ú%Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..55796
+±Ñ¥Ñ*_root_.org.typelevel.paiges.Doc.Nest#(doc)R
+ÓΩÛΩFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24116..24165l
+˜Çb_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.&
+≥π_root_.org.typelevel.paiges.
+EI_root_.java.lang.2
+£Ä®Ä&_root_.org.typelevel.paiges.Doc.space.*
+≥%∂% _root_.org.typelevel.paiges.Doc#a
+«¶»¶U_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(t)N
+ª5º5Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6843..68440
+˜B¸B&_root_.org.typelevel.paiges.Doc.Align.,
+ÀäŒä _root_.org.typelevel.paiges.Doc#P
+ÚdÛdFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12914..12915*
+Ÿ‹ _root_.org.typelevel.paiges.Doc#d
+ı°¯°X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)k
+‚a‰aa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.k
+ãWçWa_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.P
+„yÊyFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406$
+‚z‰z_root_.scala.package.`::`.P
+édèdFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12814..12815k
+û}†}a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.R
+°ó¢óFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19350..19356&
+ƒò»ò_root_.scala.package.List#R
+ëåíåF_root_.scala.collection.immutable.StringLike#`*`(I)Ljava/lang/String;.b
+ñôX_root_.org.typelevel.paiges.Doc#line(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)&
+Í44_root_.scala.package.Stream.P
+¨ÿ≤ÿD_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.*
+∫`Ω` _root_.org.typelevel.paiges.Doc#%
+∏çπç_root_.scala.Int#`<`(I)Z.P
+ùn£nFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14109..14115P
+œn–nFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14159..14160R
+°µ¢µFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22478..22484P
+¨Y≠YFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11229..11230N
+◊(‹(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791V
+˛OåPL_root_.org.typelevel.paiges.Doc#representation(Z)Lorg/typelevel/paiges/Doc;.N
+≠7Æ7Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7085..7086*
+èŒóŒ_root_.scala.package.Iterable#R
+ëºïºFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24077..24336%
+‚PËP_root_.scala.Predef.String#]
+ ŒS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;."
+ rÃr_root_.scala.Tuple2#(_2)R
+±¿π¿Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24621..246916
+¨ÅØÅ*_root_.org.typelevel.paiges.Doc.Text#(str)1
+π'ø''_root_.org.typelevel.paiges.Doc.Concat.
+≥i∫i_root_.scala.Boolean#P
+É{Ü{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439P
+¨l∞lFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..149067
+¢Ã©Ã+_root_.org.typelevel.paiges.Doc#isEmpty()Z.k
+ãŒçŒ__root_.org.typelevel.paiges.Doc.cat(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)â
+∞÷∏÷}_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rightSep)P
+¨s±sFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..13699d
+ã•é•X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)d
+˜§˙§X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)P
+ŸSﬂSFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359P
+®ØØØD_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.R
+ó∆ô∆Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25249..25268P
+“S”SFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10663..10664k
+¸V˛Va_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.w
+ßô≠ôk_root_.org.typelevel.paiges.Doc.equivAtWidths(Lscala/collection/immutable/List;)Lscala/math/Equiv;.(widths)f
+‚Á\_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.*
+ó`ö` _root_.org.typelevel.paiges.Doc#2
+ñ¡ô¡&_root_.scala.collection.immutable.Nil.j
+Ã–`_root_.org.typelevel.paiges.Doc#`&`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)P
+ˆg˘gFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13298..13322*
+ºø _root_.org.typelevel.paiges.Doc#N
+∂=π=Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7679..7815,
+ß™™™ _root_.org.typelevel.paiges.Doc#d
+√§∆§X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)2
+©ùÆù&_root_.org.typelevel.paiges.Doc.comma.N
+¡(¬(Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5185..5186P
+ÓmÛmFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716%
+Ì§Ó§_root_.scala.Int#`<`(I)Z.1
+∞j∂j'_root_.org.typelevel.paiges.Doc.Concat.,
+ÚØıØ _root_.org.typelevel.paiges.Doc#c
+çPòPY_root_.org.typelevel.paiges.Doc#representation(Z)Lorg/typelevel/paiges/Doc;.(forceUnions)R
+éªïªFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615P
+î{ï{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15764..15765/
+ábãb%_root_.org.typelevel.paiges.Doc.Line.P
+◊Y›YFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359*
+ñô _root_.org.typelevel.paiges.Doc#d
+∫ªZ_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.N
+üJ†JDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9488..9489]
+∞¥S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.N
+Ï%Ò%Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791$
+®4¨4_root_.scala.package.List#g
+áŒäŒ[_root_.org.typelevel.paiges.Doc.cat(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.P
+Ωb¡bFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..12957P
+âlélFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716B
+˘ö˙ö6_root_.org.typelevel.paiges.Doc.charTable.$anonfun.(i)%
+ˇVÑW_root_.scala.package.Right.$
+˜T˚T_root_.scala.package.Left.k
+¢6§6a_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.P
+≥{¥{Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15772..15773R
+©∆™∆Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25307..25328(
+éÇîÇ_root_.org.typelevel.paiges.$
+ï9ô9_root_.scala.package.List#h
+éõïõ\_root_.scala.collection.TraversableOnce#toArray(Lscala/reflect/ClassTag;)Ljava/lang/Object;.3
+ÅΩáΩ'_root_.org.typelevel.paiges.Doc.Concat.R
+˛≈ˇ≈Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25307..25328k
+§n¶na_root_.scala.collection.immutable.List#`::`(Ljava/lang/Object;)Lscala/collection/immutable/List;.N
+åHçHDpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9186..9193P
+ùp°pFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..14906P
+œy–yFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15567..15568$
+Ä8Ç8_root_.scala.package.`::`.*
+Î\Ó\ _root_.org.typelevel.paiges.Doc#P
+ÜnánFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14086..14087R
+ë´í´Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@21888..21889P
+˚dˇdFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..129570
+Ú#˜#&_root_.org.typelevel.paiges.Doc.Union.G
+JW?_root_.java.lang.StringBuilder.;_root_.java.lang.StringBuilder#1
+’€'_root_.org.typelevel.paiges.Doc.Concat.&
+ª4¡4_root_.scala.package.Stream##
+ô6ö6_root_.scala.Int#`+`(I)I.%
+„.È._root_.scala.Predef.String#X
+õßúßL_root_.scala.collection.immutable.StringLike#r()Lscala/util/matching/Regex;.ã
+ô ß Ä_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.,
+ùº†º _root_.org.typelevel.paiges.Doc#1
+ßÅ´Å%_root_.org.typelevel.paiges.Doc.Text#P
+»r…rFpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@26207..26208 Äaorg.typelevel.paiges.Doc"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23182..23187#flatxorg.typelevel.paiges.Doc"W
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15431..15439ÄmaxInt"ê
+a_root_.org.typelevel.paiges.Doc.stack(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)+Äds"Iterable[org.typelevel.paiges.Doc]"o
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11232..11233%y() => org.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25307..25328
+iInt"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15577..15578,z%List[(Int, org.typelevel.paiges.Doc)]"â
+b_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)#Äthatorg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27770..27771vorg.typelevel.paiges.Doc"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13298..13322,res#(org.typelevel.paiges.Doc, Boolean)"Y
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13607..13609c2Boolean"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15710..15711dorg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12651..12652dorg.typelevel.paiges.Doc"e
+E_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.(pw)Äpwjava.io.PrintWriter"ù
+Z_root_.org.typelevel.paiges.Doc#`&`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.?&8(that: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6787..6788
+iInt"M
+&_root_.org.typelevel.paiges.Doc.space.#spaceorg.typelevel.paiges.Doc"Ÿ
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12299..12957éloopÉ(h: org.typelevel.paiges.Doc, stack: List[org.typelevel.paiges.Doc], front: List[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"Ñ
+S_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.-:/%(str: String)org.typelevel.paiges.Doc"e
++_root_.org.typelevel.paiges.Doc.spaceArray.6ÅÄ
+spaceArray$Array[org.typelevel.paiges.Doc.Text]"ù
+à_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(indent)ÄindentInt"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15522..15523,z%List[(Int, org.typelevel.paiges.Doc)]"x
+D_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.0repeat$(count: Int)org.typelevel.paiges.Doc"U
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20930..20951cChar"U
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20419..20425ÄjInt"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14739..14740aorg.typelevel.paiges.Doc"{
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27632..277251keyToDoc#(s: String)org.typelevel.paiges.Doc"Ö
+S_root_.org.typelevel.paiges.Doc#`:&`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;..:&&(that: String)org.typelevel.paiges.Doc"£
+é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(str)ÄstrString"Ò
+}_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.pintercalate_(sep: org.typelevel.paiges.Doc, ds: Iterable[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"M
+)_root_.org.typelevel.paiges.Doc.Union#(a) Åaorg.typelevel.paiges.Doc"ï
+Z_root_.org.typelevel.paiges.Doc#lineOrSpace(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.7lineOrSpace&(that: String)org.typelevel.paiges.Doc"u
+`_root_.org.typelevel.paiges.Doc#lineOrSpace(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)ÄthatString"t
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6850..6851,z%List[(Int, org.typelevel.paiges.Doc)]"m
+D_root_.org.typelevel.paiges.Doc#aligned()Lorg/typelevel/paiges/Doc;.%alignedorg.typelevel.paiges.Doc"t
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6980..6981,z%List[(Int, org.typelevel.paiges.Doc)]"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7656..7672
+nInt"u
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23797..23839+secondorg.typelevel.paiges.Doc.Concat"l
+A_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.'* (n: Int)org.typelevel.paiges.Doc"S
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14086..14087	xDB"Ö
+k_root_.org.typelevel.paiges.Doc.equivAtWidths(Lscala/collection/immutable/List;)Lscala/math/Equiv;.(widths)Äwidths	List[Int]"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15779..15780,z%List[(Int, org.typelevel.paiges.Doc)]"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5185..5186aorg.typelevel.paiges.Doc"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15717..15718,z%List[(Int, org.typelevel.paiges.Doc)]"E
+6_root_.org.typelevel.paiges.Doc.charTable.$anonfun.(i)ÄiInt"S
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9279..9285ÄiInt"£
+\_root_.org.typelevel.paiges.Doc#space(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.Cspace8(that: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6843..6844borg.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14156..14157
+iInt"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12917..12918borg.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@18208..18233
+dInt"â
+T_root_.org.typelevel.paiges.Doc#space(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.1space&(that: String)org.typelevel.paiges.Doc"M
+&_root_.org.typelevel.paiges.Doc.comma.#commaorg.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15509..15510
+iInt"d
+0_root_.org.typelevel.paiges.Doc.splitWhitespace.0ÅÄsplitWhitespacescala.util.matching.Regex"
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13668..149065loop+(h: DB, stack: List[DB], front: List[DB])DB"à
+a_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)#Äthatorg.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13677..13682
+ÄhDB"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@26210..26211 Äborg.typelevel.paiges.Doc"Z
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13862..13864xsList[DB]"ñ
+}_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rightSep)ÄrightSepString"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7085..7086
+iInt"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19586..19592 Äxorg.typelevel.paiges.Doc"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5232..5233
+iInt"X
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27541..27587fillsInt"x
+2_root_.org.typelevel.paiges.Doc.Line#`<init>`(Z)V.B<init>6(flattenToSpace: Boolean)org.typelevel.paiges.Doc.Line"Ù
+{_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.u	bracketByf(left: org.typelevel.paiges.Doc, right: org.typelevel.paiges.Doc, indent: Int)org.typelevel.paiges.Doc"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12258..12259 Äforg.typelevel.paiges.Doc"-
+ _root_.org.typelevel.paiges.Doc.	ÄÑDoc"-
+ _root_.org.typelevel.paiges.Doc#	Ä†Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15764..15765
+iInt"ù
+Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.?+8(that: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"–
+g_root_.org.typelevel.paiges.Doc.Concat#`<init>`(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;)V.e<init>Y(a: org.typelevel.paiges.Doc, b: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc.Concat"m
+[_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(s)ÄsString"M
+&_root_.org.typelevel.paiges.Doc.empty.#emptyorg.typelevel.paiges.Doc"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5188..5189borg.typelevel.paiges.Doc"r
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22486..22500(ÄlstList[org.typelevel.paiges.Doc]"n
+Y_root_.org.typelevel.paiges.Doc#`:&`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)ÄthatString"∂
+é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(pat)#Äpatscala.util.matching.Regex"S
++_root_.org.typelevel.paiges.Doc.Union#bDoc.$ÅÄ@bDocorg.typelevel.paiges.Doc"l
+X_root_.org.typelevel.paiges.Doc#`:/`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)ÄstrString"±
+Å_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)+Äds"Iterable[org.typelevel.paiges.Doc]"o
+Z_root_.org.typelevel.paiges.Doc#space(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)ÄthatString"p
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22421..22447&sepGrouporg.typelevel.paiges.Doc"é
+X_root_.org.typelevel.paiges.Doc.paragraph(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.2	paragraph#(s: String)org.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10984..10985dorg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12489..12490xorg.typelevel.paiges.Doc"¨
+]_root_.org.typelevel.paiges.Doc.stack(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.Kstack@(ds: Iterable[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"h
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4873..4875 d1org.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12914..12915aorg.typelevel.paiges.Doc"n
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13917..13926$lorg.typelevel.paiges.Doc.Line"t
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6800..6801,z%List[(Int, org.typelevel.paiges.Doc)]"ƒ
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10305..11579zloopp(stack: List[Either[org.typelevel.paiges.Doc,String]], suffix: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"v
+Y_root_.org.typelevel.paiges.Doc#representation(Z)Lorg/typelevel/paiges/Doc;.(forceUnions)ÄforceUnionsBoolean"m
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23133..23138#flatyorg.typelevel.paiges.Doc"©
+z_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)+Äds"Iterable[org.typelevel.paiges.Doc]"•
+L_root_.org.typelevel.paiges.Doc.Nest#`<init>`(ILorg/typelevel/paiges/Doc;)V.U<init>I(indent: Int, doc: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc.Nest"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11092..11093xorg.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15825..15826
+iInt"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12308..12314 Ähorg.typelevel.paiges.Doc"u
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13475..13499+@DB#(org.typelevel.paiges.Doc, Boolean)"t
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23733..23782*firstorg.typelevel.paiges.Doc.Concat"r
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4775..4791*ÄstackList[org.typelevel.paiges.Doc]"l
+X_root_.org.typelevel.paiges.Doc#`/:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)ÄstrString"C
++_root_.org.typelevel.paiges.Doc#isEmpty()Z.isEmptyBoolean"l
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13940..13962"nextorg.typelevel.paiges.Doc"É
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10314..103469Ästack-List[Either[org.typelevel.paiges.Doc,String]]"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7152..7153
+iInt"X
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10663..10664fBoolean"l
+X_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)ÄstrString"ë
+b_root_.org.typelevel.paiges.Doc.spread(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)+Äds"Iterable[org.typelevel.paiges.Doc]"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24750..24751horg.typelevel.paiges.Doc"q
+B_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.+char!(c: Char)org.typelevel.paiges.Doc"è
+h_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)#Äthatorg.typelevel.paiges.Doc"p
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12494..12496&xsList[org.typelevel.paiges.Doc]"n
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12549..12558$lorg.typelevel.paiges.Doc.Line"A
+,_root_.org.typelevel.paiges.Doc#maxWidth()I.maxWidthInt"w
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6691..6712/Älst%List[(Int, org.typelevel.paiges.Doc)]"y
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13973..13998/change#(org.typelevel.paiges.Doc, Boolean)"ì
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23299..23554Icont?(resty: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc.Union"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@21885..21886 Äxorg.typelevel.paiges.Doc"V
+C_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.(width)ÄwidthInt"l
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12253..12256"Äresorg.typelevel.paiges.Doc"U
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5064..5065sString"w
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7312..7333/Älst%List[(Int, org.typelevel.paiges.Doc)]"F
+7_root_.org.typelevel.paiges.Doc.spaceArray.$anonfun.(i)ÄiInt"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15640..15641
+jInt"Z
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14091..14093xsList[DB]"r
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24642..24656(ÄlstList[org.typelevel.paiges.Doc]"s
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13505..13649)finish(last: DB, front: List[DB])DB"u
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24180..24238+secondorg.typelevel.paiges.Doc.Concat"Ñ
+S_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.-:+%(str: String)org.typelevel.paiges.Doc"j
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4765..4773"Ädocorg.typelevel.paiges.Doc"X
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27645..27654ÄsString"^
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13526..13541ÄfrontList[DB]"m
+D_root_.org.typelevel.paiges.Doc#grouped()Lorg/typelevel/paiges/Doc;.%groupedorg.typelevel.paiges.Doc"W
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15398..15406ÄposInt"u
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23402..23456+secondorg.typelevel.paiges.Doc.Concat"Y
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20649..20659ÄlimitInt"Z
+K_root_.org.typelevel.paiges.Doc.orderingAtWidth(I)Lscala/math/Ordering;.(w)ÄwInt"Y
+,_root_.org.typelevel.paiges.Doc.lineOrEmpty.)lineOrEmptyorg.typelevel.paiges.Doc"Ü
+S_root_.org.typelevel.paiges.Doc#line(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;./line%(str: String)org.typelevel.paiges.Doc"¥
+y_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(rows)7Ärows,Iterable[(String, org.typelevel.paiges.Doc)]"n
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23308..23318$Ärestyorg.typelevel.paiges.Doc"N
+*_root_.org.typelevel.paiges.Doc.Concat#(a) Åaorg.typelevel.paiges.Doc"t
+D_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.,spaces (n: Int)org.typelevel.paiges.Doc"n
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24086..24096$Ärestyorg.typelevel.paiges.Doc"U
+E_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.(c)ÄcChar"É
+S_root_.org.typelevel.paiges.Doc#renderStream(I)Lscala/collection/immutable/Stream;.,renderStream(width: Int)Stream[String]"@
+)_root_.org.typelevel.paiges.Doc#hashCode.ÅÄ@hashCodeInt"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14448..14449dorg.typelevel.paiges.Doc"t
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12316..12332*ÄstackList[org.typelevel.paiges.Doc]"^
+*_root_.org.typelevel.paiges.Doc.charTable.0ÅÄ	charTableArray[org.typelevel.paiges.Doc]"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15907..15908,z%List[(Int, org.typelevel.paiges.Doc)]"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12193..12199 Ädorg.typelevel.paiges.Doc"Ö
+S_root_.org.typelevel.paiges.Doc#`&:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;..&:&(that: String)org.typelevel.paiges.Doc"W
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13516..13524ÄlastDB"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13593..13595 d1org.typelevel.paiges.Doc"U
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5314..5315sString"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11229..11230xorg.typelevel.paiges.Doc"m
+Z_root_.org.typelevel.paiges.Doc#renderStream(I)Lscala/collection/immutable/Stream;.(width)ÄwidthInt"©
+Ç_root_.org.typelevel.paiges.Doc.intercalate(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)"Äseporg.typelevel.paiges.Doc"n
+Y_root_.org.typelevel.paiges.Doc#`&:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(that)ÄthatString"U
+5_root_.org.typelevel.paiges.Doc.Line#(flattenToSpace)ÅflattenToSpaceBoolean"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15701..15702
+iInt"Æ
+Ü_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(left)#Äleftorg.typelevel.paiges.Doc"V
+,_root_.org.typelevel.paiges.Doc#`<init>`()V.&<init>()org.typelevel.paiges.Doc"≤
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12182..12280hfinish\(d: org.typelevel.paiges.Doc, front: List[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15557..15558
+iInt"l
+X_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)ÄstrString"ù
+Z_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.?/8(that: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24543..24549 Ädorg.typelevel.paiges.Doc"b
+U_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(t)	ÄtT"†
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20631..20865VparseK(i: Int, limit: Int, doc: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"V
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9268..9277ÄsString"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15643..15644dorg.typelevel.paiges.Doc"´
+Ç_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(right)$Ärightorg.typelevel.paiges.Doc"{
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10401..104051head'Either[org.typelevel.paiges.Doc,String]"o
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22391..22416%flatSeporg.typelevel.paiges.Doc"°
+{_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(sep)"Äseporg.typelevel.paiges.Doc"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15650..15651,z%List[(Int, org.typelevel.paiges.Doc)]"ü
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4756..5579WloopM(doc: org.typelevel.paiges.Doc, stack: List[org.typelevel.paiges.Doc])Boolean"ê
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22502..22525FÄstack:List[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]"^
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13684..13699ÄstackList[DB]"ã
+H_root_.org.typelevel.paiges.Doc.orderingAtWidth(I)Lscala/math/Ordering;.?orderingAtWidth*(w: Int)Ordering[org.typelevel.paiges.Doc]"t
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7171..7172,z%List[(Int, org.typelevel.paiges.Doc)]"Ñ
+S_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.-+:%(str: String)org.typelevel.paiges.Doc"h
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7623..7629 Ädorg.typelevel.paiges.Doc"K
+%_root_.org.typelevel.paiges.Doc.line."lineorg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12814..12815aorg.typelevel.paiges.Doc"l
+X_root_.org.typelevel.paiges.Doc#line(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)ÄstrString"U
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7302..7310ÄposInt"≤
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24621..24691hcheatRecZ(x: org.typelevel.paiges.Doc, lst: List[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9488..9489
+nInt"U
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6681..6689ÄposInt"_
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6002..6030bldrStringBuilder"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15888..15889
+iInt"ñ
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19576..19749LequivA(x: org.typelevel.paiges.Doc, y: org.typelevel.paiges.Doc)Boolean"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6908..6909
+jInt"J
+._root_.org.typelevel.paiges.Doc.maxSpaceTable.ÅÄmaxSpaceTableInt"Y
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13597..13599c1Boolean"À
+]_root_.org.typelevel.paiges.Doc.Union#`<init>`(Lorg/typelevel/paiges/Doc;Lscala/Function0;)V.j<init>^(a: org.typelevel.paiges.Doc, b: () => org.typelevel.paiges.Doc)org.typelevel.paiges.Doc.Union"E
+,_root_.org.typelevel.paiges.Doc#nonEmpty()Z.nonEmptyBoolean"ó
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7292..7357OcheatD(pos: Int, lst: List[(Int, org.typelevel.paiges.Doc)])Stream[String]"å
+y_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(fill)ÄfillChar"„
+v_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.ifill_(sep: org.typelevel.paiges.Doc, ds: Iterable[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19594..19600 Äyorg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15567..15568aorg.typelevel.paiges.Doc"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8208..8209
+iInt"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5235..5236dorg.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10839..10840
+iInt"ü
+j_root_.org.typelevel.paiges.Doc.tabulate(Lscala/collection/immutable/List;)Lorg/typelevel/paiges/Doc;.(kv)1Äkv(List[(String, org.typelevel.paiges.Doc)]"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7022..7023
+iInt"o
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5474..5483'	flattenedorg.typelevel.paiges.Doc"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6964..6965
+iInt"v
+K_root_.org.typelevel.paiges.Doc.Line#asFlatDoc()Lorg/typelevel/paiges/Doc;.'	asFlatDocorg.typelevel.paiges.Doc"U
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20641..20647ÄiInt"S
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9260..9266ÄnInt"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6840..6841aorg.typelevel.paiges.Doc"ò
+É_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(indent)ÄindentInt"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14850..14851borg.typelevel.paiges.Doc"_
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23189..23197changedxBoolean"o
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4540..4549'	flattenedorg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12732..12733dorg.typelevel.paiges.Doc"t
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23338..23387*firstorg.typelevel.paiges.Doc.Concat"^
+<_root_.org.typelevel.paiges.Doc#render(I)Ljava/lang/String;.render(width: Int)String"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15897..15898aorg.typelevel.paiges.Doc"h
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7720..7739 dnorg.typelevel.paiges.Doc"ó
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15389..16006MloopC(pos: Int, lst: List[(Int, org.typelevel.paiges.Doc)], max: Int)Int"`
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6035..6067itIterator[String]"i
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9166..9235!hash(curr: Int, c: Char)Int"t
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12334..12350*ÄfrontList[org.typelevel.paiges.Doc]"õ
+q_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.•foldDocsñ(ds: Iterable[org.typelevel.paiges.Doc])(fn: (org.typelevel.paiges.Doc, org.typelevel.paiges.Doc) => org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"ì
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24077..24336Icont?(resty: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc.Union"Ä
+R_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.*str![T](t: T)org.typelevel.paiges.Doc"o
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10348..10359%Äsuffixorg.typelevel.paiges.Doc"t
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7100..7101,z%List[(Int, org.typelevel.paiges.Doc)]"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6830..6831
+iInt"∞
+á_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(right)$Ärightorg.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12648..12649
+iInt"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14847..14848aorg.typelevel.paiges.Doc"W
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10463..10464sString"U
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19637..19638ÄwInt"U
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9491..9492sString"t
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12201..12217*ÄfrontList[org.typelevel.paiges.Doc]"ˇ
+Ä_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.ztightBracketByf(left: org.typelevel.paiges.Doc, right: org.typelevel.paiges.Doc, indent: Int)org.typelevel.paiges.Doc"y
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15408..15429/Älst%List[(Int, org.typelevel.paiges.Doc)]"ô
+L_root_.org.typelevel.paiges.Doc.Align#`<init>`(Lorg/typelevel/paiges/Doc;)V.I<init>=(doc: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc.Align"é
+__root_.org.typelevel.paiges.Doc.cat(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.(ds)+Äds"Iterable[org.typelevel.paiges.Doc]"U
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20411..20417ÄiInt"u
+>_root_.org.typelevel.paiges.Doc#flattenOption()Lscala/Option;.3flattenOption Option[org.typelevel.paiges.Doc]"4
+%_root_.org.typelevel.paiges.Doc.Nest#Ä†ÅNest"t
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7037..7038,z%List[(Int, org.typelevel.paiges.Doc)]"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5275..5276dorg.typelevel.paiges.Doc"N
+*_root_.org.typelevel.paiges.Doc.Concat#(b) Åborg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25275..25300dorg.typelevel.paiges.Doc"Ô
+s_root_.org.typelevel.paiges.Doc.tabulate(CLjava/lang/String;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.xtabulatej(fill: Char, rightSep: String, rows: Iterable[(String, org.typelevel.paiges.Doc)])org.typelevel.paiges.Doc"z
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20404..204880tx((i: Int, j: Int)org.typelevel.paiges.Doc"W
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15772..15773sString"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6973..6974dorg.typelevel.paiges.Doc"U
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7631..7639ÄcntInt"W
+=_root_.org.typelevel.paiges.Doc#toString()Ljava/lang/String;.toString()String"Q
++_root_.org.typelevel.paiges.Doc.Align#(doc)"Ådocorg.typelevel.paiges.Doc"_
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23140..23148changedyBoolean"á
+`_root_.org.typelevel.paiges.Doc#`/`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)#Äthatorg.typelevel.paiges.Doc"S
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13857..13858	xDB"r
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24755..24759(tailList[org.typelevel.paiges.Doc]"n
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23703..23713$Ärestyorg.typelevel.paiges.Doc"R
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6900..6901
+iInt"^
+K_root_.org.typelevel.paiges.Doc#repeat(I)Lorg/typelevel/paiges/Doc;.(count)ÄcountInt"ñ
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6672..7287NloopD(pos: Int, lst: List[(Int, org.typelevel.paiges.Doc)])Stream[String]"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8211..8212dorg.typelevel.paiges.Doc"°
+[_root_.org.typelevel.paiges.Doc#line(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.Bline8(that: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"W
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10747..10748sString"4
+%_root_.org.typelevel.paiges.Doc.Text#Ä†ÅText"y
+D_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.1nested%(amount: Int)org.typelevel.paiges.Doc"T
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9186..9193ÄcChar"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@19350..19356 Ädorg.typelevel.paiges.Doc"6
+&_root_.org.typelevel.paiges.Doc.Union#Ä†ÅUnion"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24634..24640 Äxorg.typelevel.paiges.Doc"t
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6918..6919,z%List[(Int, org.typelevel.paiges.Doc)]"Ñ
+S_root_.org.typelevel.paiges.Doc#`/:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.-/:%(str: String)org.typelevel.paiges.Doc"V
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9175..9184ÄcurrInt"A
+-_root_.org.typelevel.paiges.Doc.Nest#(indent)ÅindentInt"i
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7679..7815!dn2org.typelevel.paiges.Doc"r
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22595..22599(tailList[org.typelevel.paiges.Doc]"p
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4879..4883(tailList[org.typelevel.paiges.Doc]"S
+D_root_.org.typelevel.paiges.Doc#`*`(I)Lorg/typelevel/paiges/Doc;.(n)ÄnInt"ì
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@23694..23937Icont?(resty: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc.Union"Å
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10409..104137tail-List[Either[org.typelevel.paiges.Doc,String]]"q
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@9250..9362)shash(n: Int, s: String, i: Int)Int"á
+`_root_.org.typelevel.paiges.Doc#`&`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)#Äthatorg.typelevel.paiges.Doc"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10842..10843dorg.typelevel.paiges.Doc"6
+&_root_.org.typelevel.paiges.Doc.Align#Ä†ÅAlign"|
+?_root_.org.typelevel.paiges.Doc#flattenBoolean()Lscala/Tuple2;.9ÑÄflattenBoolean#(org.typelevel.paiges.Doc, Boolean)"U
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7030..7031sString"§
+u_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.(ds)+Äds"Iterable[org.typelevel.paiges.Doc]"á
+`_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(that)#Äthatorg.typelevel.paiges.Doc"Æ
+^_root_.org.typelevel.paiges.Doc.spread(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.Lspread@(ds: Iterable[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"8
+'_root_.org.typelevel.paiges.Doc.Concat#Ä†ÅConcat"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@10529..10530dorg.typelevel.paiges.Doc"“
+u_root_.org.typelevel.paiges.Doc.foldDocs(Lscala/collection/Iterable;Lscala/Function2;)Lorg/typelevel/paiges/Doc;.(fn)YÄfnP(org.typelevel.paiges.Doc, org.typelevel.paiges.Doc) => org.typelevel.paiges.Doc"t
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@24116..24165*firstorg.typelevel.paiges.Doc.Concat"[
+H_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.(width)ÄwidthInt"n
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27594..27625$rightDorg.typelevel.paiges.Doc"q
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@25249..25268'xsArray[org.typelevel.paiges.Doc]"l
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@20661..20669"Ädocorg.typelevel.paiges.Doc"P
+*_root_.org.typelevel.paiges.Doc.Nest#(doc)"Ådocorg.typelevel.paiges.Doc"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@21888..21889 Äyorg.typelevel.paiges.Doc"^
+T_root_.org.typelevel.paiges.Doc.str(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.T#ÄT"}
+C_root_.org.typelevel.paiges.Doc.Text#`<init>`(Ljava/lang/String;)V.6<init>*(str: String)org.typelevel.paiges.Doc.Text"W
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@27767..27768kString"m
+D_root_.org.typelevel.paiges.Doc#flatten()Lorg/typelevel/paiges/Doc;.%flattenorg.typelevel.paiges.Doc"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7161..7162aorg.typelevel.paiges.Doc"{
+A_root_.org.typelevel.paiges.Doc#writeTo(ILjava/io/PrintWriter;)V.6writeTo)(width: Int, pw: java.io.PrintWriter)Unit"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@18240..18265
+rInt">
+*_root_.org.typelevel.paiges.Doc.Text#(str)ÅstrString"æ
+f_root_.org.typelevel.paiges.Doc.tabulate(Lscala/collection/immutable/List;)Lorg/typelevel/paiges/Doc;.TtabulateF(kv: List[(String, org.typelevel.paiges.Doc)])org.typelevel.paiges.Doc"`
+L_root_.org.typelevel.paiges.Doc#nested(I)Lorg/typelevel/paiges/Doc;.(amount)ÄamountInt"^
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13701..13716ÄfrontList[DB]"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15570..15571borg.typelevel.paiges.Doc"©
+Å_root_.org.typelevel.paiges.Doc#bracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.(left)#Äleftorg.typelevel.paiges.Doc"ë
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@7614..7871Iloop?(d: org.typelevel.paiges.Doc, cnt: Int)org.typelevel.paiges.Doc"ˆ
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22466..24615´fillRecù(x: org.typelevel.paiges.Doc, lst: List[org.typelevel.paiges.Doc], stack: List[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"V
+G_root_.org.typelevel.paiges.Doc.spaces(I)Lorg/typelevel/paiges/Doc;.(n)ÄnInt"í
+L_root_.org.typelevel.paiges.Doc#representation(Z)Lorg/typelevel/paiges/Doc;.Brepresentation.(forceUnions: Boolean)org.typelevel.paiges.Doc"µ
+é_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.(sep)"Äseporg.typelevel.paiges.Doc"`
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@8971..9003itIterator[String]"®
+[_root_.org.typelevel.paiges.Doc.cat(Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.Icat@(ds: Iterable[org.typelevel.paiges.Doc])org.typelevel.paiges.Doc"4
+%_root_.org.typelevel.paiges.Doc.Line#Ä†ÅLine"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@11095..11096yorg.typelevel.paiges.Doc"l
+X_root_.org.typelevel.paiges.Doc#`+:`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.(str)ÄstrString"~
+V_root_.org.typelevel.paiges.Doc#renderWideStream()Lscala/collection/immutable/Stream;.$renderWideStreamStream[String]"˝
+â_root_.org.typelevel.paiges.Doc.split(Ljava/lang/String;Lscala/util/matching/Regex;Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.osplitd(str: String, pat: scala.util.matching.Regex, sep: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"U
+*_root_.org.typelevel.paiges.Doc.lineBreak.'	lineBreakorg.typelevel.paiges.Doc"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@6911..6912dorg.typelevel.paiges.Doc"Y
+,_root_.org.typelevel.paiges.Doc.lineOrSpace.)lineOrSpaceorg.typelevel.paiges.Doc"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22478..22484 Äxorg.typelevel.paiges.Doc"6
+&_root_.org.typelevel.paiges.Doc.Empty.ÄÑâEmpty"¨
+c_root_.org.typelevel.paiges.Doc.equivAtWidths(Lscala/collection/immutable/List;)Lscala/math/Equiv;.EequivAtWidths2(widths: List[Int])Equiv[org.typelevel.paiges.Doc]"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@14159..14160dorg.typelevel.paiges.Doc"Ø
+b_root_.org.typelevel.paiges.Doc#lineOrSpace(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;.IlineOrSpace8(that: org.typelevel.paiges.Doc)org.typelevel.paiges.Doc"g
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@5056..5057aorg.typelevel.paiges.Doc"Ü
+S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;./text%(str: String)org.typelevel.paiges.Doc"l
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@12572..12594"nextorg.typelevel.paiges.Doc"j
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@13603..13605 d0org.typelevel.paiges.Doc"T
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15632..15633
+iInt"i
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@22590..22591yorg.typelevel.paiges.Doc"v
+Fpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@15840..15841,z%List[(Int, org.typelevel.paiges.Doc)]"\
+Dpaiges/core/src/main/scala/org/typelevel/paiges/Doc.scala@4551..4558changedBoolean"S
+)_root_.org.typelevel.paiges.Doc.Union#(b)&Åb() => org.typelevel.paiges.Doc2/
+Ì¥Ì¥#[org.typelevel.paiges.Doc, Boolean]23
+‚X‚X)[Either[org.typelevel.paiges.Doc,String]]2
+ÅjÅj[DB]2
+ñUñU[Nothing, String]2+
+¶6¶6![(Int, org.typelevel.paiges.Doc)]2
+´U´U[Nothing, String]2†
+üåüåì(((ClassTag.apply[org.typelevel.paiges.Doc.Text](classOf[org.typelevel.paiges.Doc$$Text])): scala.reflect.ClassTag[org.typelevel.paiges.Doc.Text]))2=
+÷Z÷Z3[scala.util.Left[org.typelevel.paiges.Doc,Nothing]]2
+ÑWÑW[Nothing, String]2+
+˙|˙|![(Int, org.typelevel.paiges.Doc)]2-
+âVâV#[org.typelevel.paiges.Doc, Nothing]2.
+îóîó"[org.typelevel.paiges.Doc, String]2&
+®∞®∞[org.typelevel.paiges.Doc]2
+ˆ4ˆ4	[Nothing]2ê
+¥≈¥≈É(((ClassTag.apply[org.typelevel.paiges.Doc](classOf[org.typelevel.paiges.Doc])): scala.reflect.ClassTag[org.typelevel.paiges.Doc]))2-
+¯V¯V#[org.typelevel.paiges.Doc, Nothing]2
+™t™t[DB]2)
+ëßößscala.Predef.augmentString(*)2$
+çeçe[org.typelevel.paiges.Doc]2/
+“™Ï™#scala.Predef.refArrayOps[String](*)2+
+§}§}![(Int, org.typelevel.paiges.Doc)]23
+ßVßV)[Either[org.typelevel.paiges.Doc,String]]2
+†7†7[String]2
+¨n¨n[DB]2+
+Ê5Ê5![(Int, org.typelevel.paiges.Doc)]2
+–X–X[Nothing, String]2
+áUáU[Nothing, String]2)
+çåêåscala.Predef.augmentString(*)2ê
+ïõïõÉ(((ClassTag.apply[org.typelevel.paiges.Doc](classOf[org.typelevel.paiges.Doc])): scala.reflect.ClassTag[org.typelevel.paiges.Doc]))2
+ûWûW[Nothing, String]23
+…Y…Y)[Either[org.typelevel.paiges.Doc,String]]23
+±W±W)[Either[org.typelevel.paiges.Doc,String]]2-
+˚T˚T#[org.typelevel.paiges.Doc, Nothing]2B
+¥ª¥ª6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2B
+√æ√æ6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2$
+ühüh[org.typelevel.paiges.Doc]2+
+¬z¬z![(Int, org.typelevel.paiges.Doc)]2%
+√◊√◊(scala.math.Ordering.Int)2q
+ÏöÏöe[org.typelevel.paiges.Doc.Text, scala.collection.immutable.IndexedSeq[org.typelevel.paiges.Doc.Text]]2
+„7„7[String]2$
+ÍaÍa[org.typelevel.paiges.Doc]23
+ºUºU)[Either[org.typelevel.paiges.Doc,String]]2/
+ûµûµ#[org.typelevel.paiges.Doc, Boolean]2-
+…Z…Z#[org.typelevel.paiges.Doc, Nothing]2&
+ÈãÍãscala.Predef.intWrapper(*)2+
+‡6‡6![(Int, org.typelevel.paiges.Doc)]2
+∂X∂X[Nothing, String]2$
+‹(‹([org.typelevel.paiges.Doc]2
+ıIıI[Int]2
+ïVïV[Nothing, String]2+
+˝y˝y![(Int, org.typelevel.paiges.Doc)]2B
+ñ¿ñ¿6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2-
+®X®X#[org.typelevel.paiges.Doc, Nothing]2+
+Å{Å{![(Int, org.typelevel.paiges.Doc)]2J
+ÓÿÓÿ>[org.typelevel.paiges.Doc, Iterable[org.typelevel.paiges.Doc]]2-
+ƒXƒX#[org.typelevel.paiges.Doc, Nothing]2
+¬l¬l[DB]26
+ÿ7„7,immutable.this.Stream.consWrapper[String](*)2J
+™™>[org.typelevel.paiges.Doc, Iterable[org.typelevel.paiges.Doc]]2&
+ﬁö‡öscala.Predef.intWrapper(*)2$
+÷_÷_[org.typelevel.paiges.Doc]2q
+˙™˙™e(scala.Array.fallbackCanBuildFrom[org.typelevel.paiges.Doc](Predef.this.DummyImplicit.dummyImplicit))2_
+çõçõS(scala.collection.immutable.IndexedSeq.canBuildFrom[org.typelevel.paiges.Doc.Text])26
+à7†7,immutable.this.Stream.consWrapper[String](*)2N
+ôŸôŸB(scala.collection.Iterable.canBuildFrom[org.typelevel.paiges.Doc])2-
+œ#œ##[org.typelevel.paiges.Doc, Boolean]2_
+óåóåS(scala.collection.immutable.IndexedSeq.canBuildFrom[org.typelevel.paiges.Doc.Text])2
+∑Y∑Y[Nothing, String]2-
+íWíW#[org.typelevel.paiges.Doc, Nothing]2+
+€9€9![(Int, org.typelevel.paiges.Doc)]2q
+ÄåÄåe[org.typelevel.paiges.Doc.Text, scala.collection.immutable.IndexedSeq[org.typelevel.paiges.Doc.Text]]2-
+´Y´Y#[org.typelevel.paiges.Doc, Nothing]2B
+µ∏µ∏6[org.typelevel.paiges.Doc => org.typelevel.paiges.Doc]2+
+88![(Int, org.typelevel.paiges.Doc)]2
+≤◊≤◊[Int]2(
+≠ó≠ó(scala.math.Ordering.String):Scala212B£Ÿpackage org.typelevel.paiges
+
+import java.io.PrintWriter
+import java.lang.StringBuilder
+
+import scala.annotation.tailrec
+import scala.util.matching.Regex
+
+/**
+ * implementation of Wadler's classic "A Prettier Printer"
+ *
+ * http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf
+ */
+sealed abstract class Doc extends Product with Serializable {
+
+  import Doc.{ Align, Empty, Text, Line, Nest, Concat, Union }
+
+  /**
+   * Append the given Doc to this one.
+   */
+  def +(that: Doc): Doc =
+    Concat(this, that)
+
+  /**
+   * Prepend the given String to this Doc.
+   *
+   * The expression `str +: d` is equivalent to `Doc.text(str) + d`.
+   */
+  def +:(str: String): Doc =
+    Doc.text(str) + this
+
+  /**
+   * Append the given String to this Doc.
+   *
+   * The expression `d :+ str` is equivalent to `d + Doc.text(str)`.
+   */
+  def :+(str: String): Doc =
+    this + Doc.text(str)
+
+  /**
+   * Synonym for .repeat. If n > 0 repeat the doc n times,
+   * else return empty
+   */
+  def *(n: Int): Doc =
+    repeat(n)
+
+  /**
+   * Append the given Doc to this one, separated by a newline.
+   */
+  def /(that: Doc): Doc =
+    Concat(this, Concat(Doc.line, that))
+
+  /**
+   * Append the given Doc to this one, separated by a newline.
+   */
+  def line(that: Doc): Doc =
+    this / that
+
+  /**
+   * Prepend the given String to this Doc, separated by a newline.
+   *
+   * The expression `str /: d` is equivalent to `Doc.text(str) / d`.
+   */
+  def /:(str: String): Doc =
+    Concat(Doc.text(str), Concat(Doc.line, this))
+
+  /**
+   * Append the given String to this Doc, separated by a newline.
+   *
+   * The expression `d :/ str` is equivalent to `d / Doc.text(str)`.
+   */
+  def :/(str: String): Doc =
+    this / Doc.text(str)
+
+  /**
+   * Append the given String to this one, separated by a newline.
+   */
+  def line(str: String): Doc =
+    this :/ str
+
+  /**
+   * Append the given Doc to this one, separated by a space.
+   */
+  def space(that: Doc): Doc =
+    Concat(this, Concat(Doc.space, that))
+
+  /**
+   * Append the given String to this Doc, separated by a space.
+   */
+  def space(that: String): Doc =
+    this.space(Doc.text(that))
+
+  /**
+   * Append the given Doc to this one, separated by a space.
+   */
+  def &(that: Doc): Doc =
+    this space that
+
+  /**
+   * Append the given String to this Doc, separated by a space.
+   *
+   * The expression `str &: d` is equivalent to `Doc.text(str) & d`.
+   */
+  def &:(that: String): Doc =
+    Doc.text(that) space this
+
+  /**
+   * Append the given String to this Doc, separated by a space.
+   *
+   * The expression `d :& str` is equivalent to `d & Doc.text(str)`.
+   */
+  def :&(that: String): Doc =
+    this space Doc.text(that)
+
+  /**
+   * Append the given Doc to this one, using a space (if there is
+   * enough room), or a newline otherwise.
+   */
+  def lineOrSpace(that: Doc): Doc =
+    Concat(this, Concat(Doc.lineOrSpace, that))
+
+  /**
+   * Append the given String to this Doc, using a space (if there is
+   * enough room), or a newline otherwise.
+   */
+  def lineOrSpace(that: String): Doc =
+    lineOrSpace(Doc.text(that))
+
+  /**
+   * Bookend this Doc between the given Docs.
+   *
+   * If the documents (when flattened) all fit on one line, then
+   * newlines will be collapsed, spaces will be added,
+   * and the document will render on one line. If you do not want
+   * a space, see tightBracketBy
+   *
+   * Otherwise, newlines will be used on either side of this document,
+   * and the requested level of indentation will be added as well.
+   */
+  def bracketBy(left: Doc, right: Doc, indent: Int = 2): Doc =
+    Concat(left,
+      Concat(Concat(Doc.line, this).nested(indent),
+      Concat(Doc.line, right)).grouped)
+
+  /**
+   * Bookend this Doc between the given Docs.
+   *
+   * If the documents (when flattened) all fit on one line, then
+   * newlines will be collapsed, without a space
+   * and the document will render on one line. If you want
+   * the newline to collapse to a space, see bracketBy.
+   *
+   * Otherwise, newlines will be used on either side of this document,
+   * and the requested level of indentation will be added as well.
+   */
+  def tightBracketBy(left: Doc, right: Doc, indent: Int = 2): Doc =
+    Concat(left,
+      Concat(Concat(Doc.lineBreak, this).nested(indent),
+      Concat(Doc.lineBreak, right)).grouped)
+
+  /**
+   * Treat this Doc as a group that can be compressed.
+   *
+   * The effect of this is to replace newlines with spaces, if there
+   * is enough room. Otherwise, the Doc will be rendered as-is.
+   */
+  def grouped: Doc = {
+    val (flattened, changed) = flattenBoolean
+    if (changed) Union(flattened, () => this)
+    else flattened
+  }
+
+  /**
+   * Returns true if all renders return the empty string
+   */
+  def isEmpty: Boolean = {
+    @tailrec def loop(doc: Doc, stack: List[Doc]): Boolean =
+      doc match {
+        case Empty => stack match {
+          case d1 :: tail => loop(d1, tail)
+          case Nil => true
+        }
+        case Concat(_, Line(_)) =>
+          false // minor optimization to short circuit sooner
+        case Concat(a, Text(s)) =>
+          // minor optimization to short circuit sooner
+          s.isEmpty && loop(a, stack)
+        case Concat(a, b) => loop(a, b :: stack)
+        case Nest(i, d) => loop(d, stack)
+        case Align(d) => loop(d, stack)
+        case Text(s) =>
+          // shouldn't be empty by construction, but defensive
+          s.isEmpty && loop(Empty, stack)
+        case Line(_) => false
+        case Union(flattened, _) =>
+          // flattening cannot change emptiness
+          loop(flattened, stack)
+      }
+    loop(this, Nil)
+  }
+
+  /**
+   * d.nonEmpty == !d.isEmpty
+   */
+  def nonEmpty: Boolean = !isEmpty
+
+  /**
+   * Render this Doc as a String, limiting line lengths to `width` or
+   * shorter when possible.
+   *
+   * Note that this method does not guarantee there are no lines
+   * longer than `width` -- it just attempts to keep lines within this
+   * length when possible.
+   */
+  def render(width: Int): String = {
+    val bldr = new StringBuilder
+    val it = Chunk.best(width, this)
+    while (it.hasNext) {
+      bldr.append(it.next)
+    }
+    bldr.toString
+  }
+
+  /**
+   * Render this Doc as a stream of strings, treating `width` in the
+   * same way as `render` does.
+   *
+   * The expression `d.renderStream(w).mkString` is equivalent to
+   * `d.render(w)`.
+   */
+  def renderStream(width: Int): Stream[String] =
+    Chunk.best(width, this).toStream
+
+  /**
+   * Render this Doc as a stream of strings, using
+   * the widest possible variant. This is the same
+   * as render(Int.MaxValue) except it is more efficient.
+   */
+  def renderWideStream: Stream[String] = {
+    @tailrec
+    def loop(pos: Int, lst: List[(Int, Doc)]): Stream[String] = lst match {
+      case Nil => Stream.empty
+      case (i, Empty) :: z => loop(pos, z)
+      case (i, Concat(a, b)) :: z => loop(pos, (i, a) :: (i, b) :: z)
+      case (i, Nest(j, d)) :: z => loop(pos, ((i + j), d) :: z)
+      case (i, Align(d)) :: z => loop(pos, (pos, d) :: z)
+      case (i, Text(s)) :: z => s #:: cheat(pos + s.length, z)
+      case (i, Line(_)) :: z => Chunk.lineToStr(i) #:: cheat(i, z)
+      case (i, Union(a, _)) :: z =>
+        /*
+         * if we are infinitely wide, a always fits
+         */
+        loop(pos, (i, a) :: z)
+    }
+    def cheat(pos: Int, lst: List[(Int, Doc)]) =
+      loop(pos, lst)
+
+    loop(0, (0, this) :: Nil)
+  }
+
+  /**
+   * If n > 0, repeat the Doc that many times, else
+   * return empty
+   */
+  def repeat(count: Int): Doc = {
+    /*
+     * only have log depth, so recursion is fine
+     * d * (2n + c) = (dn + dn) + c
+     */
+    def loop(d: Doc, cnt: Int): Doc = {
+      val n = cnt >> 1
+      val dn2 =
+        if (n > 0) {
+          val dn = loop(d, n)
+          Concat(dn, dn)
+        }
+        else {
+          Empty
+        }
+      if ((cnt & 1) == 1) Concat(dn2, d) else dn2
+    }
+    if (count <= 0) Empty
+    else loop(this, count)
+  }
+
+  /**
+   * Nest appends spaces to any newlines ocurring within this Doc.
+   *
+   * The effect of this is cumulative. For example, the expression
+   * `x.nested(1).nested(2)` is equivalent to `x.nested(3)`.
+   */
+  def nested(amount: Int): Doc =
+    this match {
+      case Nest(i, d) => Nest(i + amount, d)
+      case _ => Nest(amount, this)
+    }
+
+  /**
+   * aligned sets the nesting to the column position before we
+   * render the current doc. This is useful if you have:
+   *
+   * Doc.text("foo") + (Doc.text("bar").line(Doc.text("baz"))).align
+   *
+   * which will render as:
+   *
+   * foobar
+   *    baz
+   */
+  def aligned: Doc = Align(this)
+
+  /**
+   * Render this Doc at the given `width`, and write it to the given
+   * PrintWriter.
+   *
+   * The expression `x.writeTo(w, pw)` is equivalent to
+   * `pw.print(x.render(w))`, but will usually be much more efficient.
+   *
+   * This method does not close `pw` or have any side-effects other
+   * than the actual writing.
+   */
+  def writeTo(width: Int, pw: PrintWriter): Unit = {
+    val it = Chunk.best(width, this)
+    while(it.hasNext) {
+      pw.append(it.next)
+    }
+  }
+
+  /**
+   * Compute a hash code for this Doc.
+   */
+  override lazy val hashCode: Int = {
+
+    @inline def hash(curr: Int, c: Char): Int =
+      curr * 1500450271 + c.toInt
+
+    @tailrec def shash(n: Int, s: String, i: Int): Int =
+      if (i < s.length) shash(hash(n, s.charAt(i)), s, i + 1) else n
+
+    // Always go left to avoid triggering the lazy fill evaluation.
+    renderWideStream.foldLeft(0xdead60d5) {
+      case (n, s) => shash(n, s, 0)
+    }
+  }
+
+  /**
+   * Return a very terse string for this Doc.
+   *
+   * To get a full representation of the document's internal
+   * structure, see `verboseString`.
+   */
+  override def toString: String =
+    "Doc(...)"
+
+  /**
+   * Produce a verbose string representation of this Doc.
+   *
+   * Unlike `render`, this method will reveal the internal tree
+   * structure of the Doc (i.e. how concatenation and union nodes are
+   * constructed), as well as the contents of every text node.
+   *
+   * By default, only the left side of union nodes is displayed. If
+   * `forceUnions = true` is passed, then both sides of the union are
+   * rendered (making this potentially-expensive method even more
+   * expensive).
+   */
+  def representation(forceUnions: Boolean = false): Doc = {
+    @tailrec def loop(stack: List[Either[Doc, String]], suffix: Doc): Doc =
+      stack match {
+        case head :: tail =>
+          head match {
+            case Right(s) =>
+              loop(tail, s +: suffix)
+            case Left(d) =>
+              d match {
+                case Empty =>
+                  loop(tail, "Empty" +: suffix)
+                case Line(f) =>
+                  loop(tail, s"Line($f)" +: suffix)
+                case Text(s) =>
+                  loop(tail, "Text(" +: s +: ")" +: suffix)
+                case Nest(i, d) =>
+                  loop(Left(d) :: Right(", ") :: Right(i.toString) :: Right("Nest(") :: tail, ")" +: suffix)
+                case Align(d) =>
+                  loop(Left(d) :: Right("Align(") :: tail, ")" +: suffix)
+                case Concat(x, y) =>
+                  loop(Left(y) :: Right(", ") :: Left(x) :: Right("Concat(") :: tail, ")" +: suffix)
+                case Union(x, y) =>
+                  if (forceUnions) {
+                    loop(Left(y()) :: Right(", ") :: Left(x) :: Right("Union(") :: tail, ")" +: suffix)
+                  } else {
+                    loop(Left(x) :: Right("Union(") :: tail, ", ...)" +: suffix)
+                  }
+              }
+          }
+        case Nil =>
+          suffix
+      }
+    loop(Left(this) :: Nil, Doc.empty)
+  }
+
+  /**
+   * Convert this Doc to a single-line representation.
+   *
+   * All newlines are replaced with spaces (and optional indentation
+   * is ignored). The resulting Doc will never render any newlines, no
+   * matter what width is used.
+   */
+  def flatten: Doc = {
+
+    /*
+     * Note after this, docs are right associated.
+     * Also note the left side of a grouped is always
+     * flattened, this means the "fits" branch in rendering
+     * always has a right associated Doc which means it is O(w)
+     * to find if you can fit in width w.
+     */
+    def finish(d: Doc, front: List[Doc]): Doc =
+      front.foldLeft(d) { (res, f) => Concat(f, res) }
+
+    @tailrec
+    def loop(h: Doc, stack: List[Doc], front: List[Doc]): Doc =
+      h match {
+        case Empty | Text(_) =>
+          stack match {
+            case Nil => finish(h, front)
+            case x :: xs => loop(x, xs, h :: front)
+          }
+        case l@Line(_) =>
+          val next = l.asFlatDoc
+          loop(next, stack, front)
+        case Nest(i, d) => loop(d, stack, front) // no Line, so Nest is irrelevant
+        case Align(d) => loop(d, stack, front) // no Line, so Align is irrelevant
+        case Union(a, _) => loop(a, stack, front) // invariant: flatten(union(a, b)) == flatten(a)
+        case Concat(a, b) => loop(a, b :: stack, front)
+      }
+    loop(this, Nil, Nil)
+  }
+
+  /**
+   * This method is similar to flatten, but returns None if no
+   * flattening was needed (i.e. if no newlines or unions were present).
+   *
+   * As with flatten, the resulting Doc (if any) will never render any
+   * newlines, no matter what width is used.
+   */
+  def flattenOption: Option[Doc] = {
+    val res = flattenBoolean
+    if (res._2) Some(res._1) else None
+  }
+
+  // return the flattened doc, and if it is different
+  private def flattenBoolean: (Doc, Boolean) = {
+
+    type DB = (Doc, Boolean)
+
+    def finish(last: DB, front: List[DB]): DB =
+      front.foldLeft(last) {
+        case ((d1, c1), (d0, c2)) => (Concat(d0, d1), c1 || c2)
+      }
+
+    @tailrec
+    def loop(h: DB, stack: List[DB], front: List[DB]): DB =
+      h._1 match {
+        case Empty | Text(_) =>
+          stack match {
+            case Nil => finish(h, front)
+            case x :: xs => loop(x, xs, h :: front)
+          }
+        case l@Line(_) =>
+          val next = l.asFlatDoc
+          val change = (next, true)
+          stack match {
+            case Nil => finish(change, front)
+            case x :: xs => loop(x, xs, change :: front)
+          }
+        case Nest(i, d) =>
+          /*
+           * This is different from flatten which always strips
+           * the Nest node. This will return None if there is
+           * no embedded Line inside
+           */
+          loop((d, h._2), stack, front) // no Line, so Nest is irrelevant
+        case Align(d) =>
+          /*
+           * This is different from flatten which always strips
+           * the Align node. This will return None if there is
+           * no embedded Line inside
+           */
+          loop((d, h._2), stack, front) // no Line, so Align is irrelevant
+        case Union(a, _) => loop((a, true), stack, front) // invariant: flatten(union(a, b)) == flatten(a)
+        case Concat(a, b) => loop((a, h._2), (b, h._2) :: stack, front)
+      }
+    loop((this, false), Nil, Nil)
+  }
+
+  /**
+   * Returns the largest width which may affect how this Doc
+   * renders. All widths larger than this amount are guaranteed to
+   * render the same.
+   *
+   * Note that this does not guarantee that all widths below this
+   * value are distinct, just that they may be distinct. This value is
+   * an upper-bound on widths that produce distinct renderings, but
+   * not a least upper-bound.
+   */
+  def maxWidth: Int = {
+    @tailrec
+    def loop(pos: Int, lst: List[(Int, Doc)], max: Int): Int = lst match {
+      case Nil => math.max(max, pos)
+      case (i, Empty) :: z => loop(pos, z, max)
+      case (i, Concat(a, b)) :: z => loop(pos, (i, a) :: (i, b) :: z, max)
+      case (i, Nest(j, d)) :: z => loop(pos, ((i + j), d) :: z, max)
+      case (i, Align(d)) :: z => loop(pos, (pos, d) :: z, max)
+      case (i, Text(s)) :: z => loop(pos + s.length, z, max)
+      case (i, Line(_)) :: z => loop(i, z, math.max(max, pos))
+      case (i, Union(a, _)) :: z =>
+        // we always go left, take the widest branch
+        loop(pos, (i, a) :: z, max)
+    }
+
+    loop(0, (0, this) :: Nil, 0)
+  }
+}
+
+object Doc {
+
+  /**
+   * Represents an empty document (the empty string).
+   */
+  private[paiges] case object Empty extends Doc
+
+  /**
+   * Represents a single, literal newline.
+   * if flattenToSpace == true, flatten returns space else empty
+   */
+  private[paiges] case class Line(flattenToSpace: Boolean) extends Doc {
+    def asFlatDoc: Doc = if (flattenToSpace) Doc.space else Doc.empty
+  }
+
+  /**
+   * The string must not be empty, and may not contain newlines.
+   */
+  private[paiges] case class Text(str: String) extends Doc
+
+  /**
+   * Represents a concatenation of two documents.
+   */
+  private[paiges] case class Concat(a: Doc, b: Doc) extends Doc
+
+  /**
+   * Represents a "remembered indentation level" for a
+   * document. Newlines in this document will be followed by at least
+   * this much indentation (nesting is cumulative).
+   */
+  private[paiges] case class Nest(indent: Int, doc: Doc) extends Doc
+
+  /**
+   * Align sets the nesting at the current position
+   */
+  private[paiges] case class Align(doc: Doc) extends Doc
+
+  /**
+   * Represents an optimistic rendering (on the left) as well as a
+   * fallback rendering (on the right) if the first line of the left
+   * is too long.
+   *
+   * There is an additional invariant on Union: `flatten(a) == flatten(b)`.
+   *
+   * By construction all `Union` nodes have this property; to preserve
+   * this we don't expose the `Union` constructor directly, but only
+   * the `.grouped` method on Doc.
+   *
+   * Additionally, the left side (a) MUST be right associated with
+   * any Concat nodes to maintain efficiency in rendering. This
+   * is currently done by flatten/flattenOption
+   */
+  private[paiges] case class Union(a: Doc, b: () => Doc) extends Doc {
+    lazy val bDoc: Doc = b()
+  }
+
+  private[this] val maxSpaceTable = 20
+
+  private[this] val spaceArray: Array[Text] =
+    (1 to maxSpaceTable).map { i => Text(" " * i) }.toArray
+
+  /**
+   * Produce a document of exactly `n` spaces.
+   *
+   * If `n < 1`, and empty document is returned.
+   */
+  def spaces(n: Int): Doc =
+    if (n < 1) Empty
+    else if (n <= maxSpaceTable) spaceArray(n - 1)
+    else {
+      // n = max * d + r
+      val d = n / maxSpaceTable
+      val r = n % maxSpaceTable
+      spaceArray(maxSpaceTable - 1) * d + spaces(r)
+    }
+
+  val space: Doc = spaceArray(0)
+  val empty: Doc = Empty
+  /**
+   * when flattened a line becomes a space
+   * You might also @see lineBreak if you want a line that
+   * is flattened into empty
+   */
+  val line: Doc = Line(true)
+  /**
+   * A lineBreak is a line that is flattened into
+   * an empty Doc. This is generally useful in code
+   * following tokens that parse without the need for
+   * whitespace termination (consider ";" "," "=>" etc..)
+   *
+   * when we call `.grouped` on lineBreak we get lineOrEmpty
+   */
+  val lineBreak: Doc = Line(false)
+
+  /**
+   * lineOrSpace renders a space if we can fit the rest
+   * or inserts a newline. Identical to line.grouped
+   */
+  val lineOrSpace: Doc = line.grouped
+
+  /**
+   * lineOrEmpty renders as empty if we can fit the rest
+   * or inserts a newline. Identical to lineBreak.grouped
+   */
+  val lineOrEmpty: Doc = lineBreak.grouped
+
+  /**
+   * Order documents by how they render at the given width.
+   */
+  def orderingAtWidth(w: Int): Ordering[Doc] =
+    Ordering.by((d: Doc) => d.render(w))
+
+  /**
+   * Require documents to be equivalent at all the given widths, as
+   * well as at their "wide" renderings.
+   */
+  def equivAtWidths(widths: List[Int]): Equiv[Doc] =
+    new Equiv[Doc] {
+      def equiv(x: Doc, y: Doc): Boolean = {
+        widths.forall(w => x.render(w) == y.render(w)) &&
+          x.renderWideStream.mkString == y.renderWideStream.mkString
+      }
+    }
+
+  private[this] val charTable: Array[Doc] =
+    (32 to 126).map { i => Text(i.toChar.toString) }.toArray
+
+  /**
+   * Build a document from a single character.
+   */
+  def char(c: Char): Doc =
+    if ((' ' <= c) && (c <= '~')) charTable(c.toInt - 32)
+    else if (c == '\n') line
+    else Text(new String(Array(c)))
+
+  /**
+   * a literal comma, equivalent to char(',')
+   */
+  val comma: Doc = char(',')
+
+  /**
+   * Convert a string to text.
+   *
+   * This method translates newlines into an appropriate document
+   * representation. The result may be much more complex than a single
+   * `Text(_)` node.
+   */
+  def text(str: String): Doc = {
+    def tx(i: Int, j: Int): Doc =
+      if (i == j) Empty else Text(str.substring(i, j))
+
+    // parse the string right-to-left, splitting at newlines.
+    // this ensures that our concatenations are right-associated.
+    @tailrec def parse(i: Int, limit: Int, doc: Doc): Doc =
+      if (i < 0) tx(0, limit) + doc
+      else str.charAt(i) match {
+        case '\n' => parse(i - 1, i, line + tx(i + 1, limit) + doc)
+        case _ => parse(i - 1, limit, doc)
+      }
+
+    if (str == "") Empty
+    else if (str.length == 1) {
+      val c = str.charAt(0)
+      if ((' ' <= c) && (c <= '~')) charTable(c.toInt - 32)
+      else if (c == '\n') line
+      else Text(str)
+    }
+    else if (str.indexOf('\n') < 0) Text(str)
+    else parse(str.length - 1, str.length, Empty)
+  }
+
+  /**
+   * Convert an arbitrary value to a Doc, using `toString`.
+   *
+   * This method is equivalent to `Doc.text(t.toString)`.
+   */
+  def str[T](t: T): Doc =
+    text(t.toString)
+
+  private val splitWhitespace: Regex = """\s+""".r
+
+  /**
+   * Convert a string to text, replacing instances of the given
+   * pattern with the corresponding separator.
+   *
+   * Like Doc.text, this method will also lift newlines into the Doc
+   * abstraction.
+   *
+   * The default pattern to use is `"""\s+""".r` and the default
+   * separator to use is `Doc.lineOrSpace`.
+   */
+  def split(str: String, pat: Regex = Doc.splitWhitespace, sep: Doc = Doc.lineOrSpace): Doc =
+    foldDocs(pat.pattern.split(str, -1).map(Doc.text))((x, y) => x + (sep + y))
+
+  /**
+   * Collapse a collection of documents into one document, delimited
+   * by a separator.
+   *
+   * For example:
+   *
+   *     import Doc.{ comma, line, text, fill }
+   *     val ds = text("1") :: text("2") :: text("3") :: Nil
+   *     val doc = fill(comma + line, ds)
+   *
+   *     doc.render(0)  // produces "1,\n2,\n3"
+   *     doc.render(6)  // produces "1, 2,\n3"
+   *     doc.render(10) // produces "1, 2, 3"
+   */
+  def fill(sep: Doc, ds: Iterable[Doc]): Doc = {
+
+    val flatSep = sep.flatten
+    val sepGroup = sep.grouped
+
+    @tailrec
+    def fillRec(x: Doc, lst: List[Doc], stack: List[Doc => Doc]): Doc = lst match {
+      case Nil => call(x, stack)
+      case y :: tail =>
+
+        /*
+         * The cost of this algorithm c(n) for list of size n.
+         * note that c(n) = 2 * c(n-1) + k
+         * for some constant.
+         * so, c(n) - c(n-1) = c(n-1) + k
+         * which means that
+         * c(n) = (0 until n).map(c(_)).sum + nk
+         *
+         * which is exponential in n (O(2^n))
+         *
+         * Making the second parameter in the union lazy fixes this.
+         * This is exactly the motivation for keeping the second
+         * parameter of Union lazy.
+         */
+        val (flaty, changedy) = y.flattenBoolean
+        val (flatx, changedx) = x.flattenBoolean
+
+        (changedx, changedy) match {
+          case (true, true) =>
+            def cont(resty: Doc) = {
+              val first = Concat(flatx, Concat(flatSep, resty))
+              def second = Concat(x, Concat(sep, cheatRec(y, tail)))
+              // note that first != second
+              Union(first, () => second)
+            }
+            fillRec(flaty, tail, (cont _) :: stack)
+          case (true, false) =>
+            // flaty == y but reassociated
+            def cont(resty: Doc) = {
+              val first = Concat(flatx, Concat(flatSep, resty))
+              val second = Concat(x, Concat(sep, resty))
+              // note that first != second
+              Union(first, () => second)
+            }
+            fillRec(flaty, tail, (cont _) :: stack)
+          case (false, true) =>
+            // flatx == x but reassociated
+            def cont(resty: Doc) = {
+              val first = Concat(flatx, Concat(flatSep, resty))
+              def second = Concat(flatx, Concat(sep, cheatRec(y, tail)))
+              // note that first != second
+              Union(first, () => second)
+            }
+            fillRec(flaty, tail, (cont _) :: stack)
+          case (false, false) =>
+            // flaty == y but reassociated
+            // flatx == x but reassociated
+            fillRec(flaty, tail, { d: Doc => Concat(flatx, Concat(sepGroup, d)) } :: stack)
+        }
+    }
+
+    def cheatRec(x: Doc, lst: List[Doc]): Doc =
+      fillRec(x, lst, Nil)
+
+    ds.toList match {
+      case Nil => Empty
+      case h :: tail => fillRec(h, tail, Nil)
+    }
+  }
+
+  /**
+   * Combine documents, using the given associative function.
+   *
+   * The function `fn` must be associative. That is, the expression
+   * `fn(x, fn(y, z))` must be equivalent to `fn(fn(x, y), z)`.
+   *
+   * In practice this method builds documents from the right, so that
+   * the resulting concatenations are all right-associated.
+   */
+  def foldDocs(ds: Iterable[Doc])(fn: (Doc, Doc) => Doc): Doc =
+    if (ds.isEmpty) Doc.empty else {
+      val xs = ds.toArray
+      var d = xs(xs.length - 1)
+      var i = xs.length - 2
+      while (i >= 0) {
+        d = fn(xs(i), d)
+        i -= 1
+      }
+      d
+    }
+
+  /**
+   * Split the given text into words (separated by whitespace), and
+   * then join those words with a space or newline.
+   *
+   * This produces text which will wrap naturally at line boundaries,
+   * producing a block of text.
+   *
+   * `paragraph` is an alias for Doc.split(s), which uses its default
+   * arguments to split on whitespace and to rejoin the documents with
+   * `Doc.lineOrSpace`.
+   */
+  def paragraph(s: String): Doc =
+    split(s)
+
+  /**
+   * Concatenate the given documents together, delimited by the given
+   * separator.
+   *
+   * For example, `intercalate(comma, List(a, b, c))` is equivalent to
+   * `a + comma + b + comma + b`.
+   */
+  def intercalate(sep: Doc, ds: Iterable[Doc]): Doc =
+    if (sep.isEmpty) foldDocs(ds)(Concat(_, _))
+    else foldDocs(ds) { (a, b) => Concat(a, Concat(sep, b)) }
+
+  /**
+   * Concatenate the given documents together.
+   *
+   * `cat(ds)` is equivalent to `ds.foldLeft(empty)(_ + _)`
+   */
+  def cat(ds: Iterable[Doc]): Doc =
+    intercalate(empty, ds)
+
+  /**
+   * Concatenate the given documents together, delimited by spaces.
+   */
+  def spread(ds: Iterable[Doc]): Doc =
+    intercalate(space, ds)
+
+  /**
+   * Concatenate the given documents together, delimited by newlines.
+   */
+  def stack(ds: Iterable[Doc]): Doc =
+    intercalate(line, ds)
+
+  /**
+   * A simple table which is the same as:
+   * tabulate("", ' ', "", kv)
+   *
+   * or, no right separator and a space as the fill
+   */
+  def tabulate(kv: List[(String, Doc)]): Doc =
+    tabulate(' ', "", kv)
+
+  /**
+   * build a table with the strings left aligned and
+   * the Docs starting in the column after the longest string.
+   * The Docs on the right are rendered aligned after the rightSep
+   *
+   * @param fill the character used to fill the columns to make the values aligned (i.e. ' ' or '.')
+   * @param rightSep a string append left to the left of the value. Intended for use with bullets on values
+   * @param kv a List of key, value pairs to put in a table.
+   */
+  def tabulate(fill: Char, rightSep: String, rows: Iterable[(String, Doc)]): Doc =
+    if (rows.isEmpty) empty
+    else {
+      val fills = rows.iterator.map(_._1.length).max
+      val rightD = Doc.text(rightSep)
+      def keyToDoc(s: String): Doc = Doc.text(s) + Doc.char(fill).repeat(fills - s.length) + rightD
+      intercalate(line, rows.map { case (k, v) => keyToDoc(k) + v.aligned })
+    }
+}
+J9paiges/core/src/main/scala/org/typelevel/paiges/Doc.scala

@@ -1,0 +1,265 @@
+\
+±ºR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;./
+™≤%_root_.org.typelevel.paiges.Document./
+¡…%_root_.org.typelevel.paiges.Document#
+äê_root_.scala.Double#k
+klc_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.Z#%
+ú¢_root_.scala.Predef.String#0
+pq(_root_.org.typelevel.paiges.Document#[A]%
+…œ_root_.scala.Predef.String#j
+äí`_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.\
+œ⁄R_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.l
+hid_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.(f)
+–‘_root_.scala.Unit#]
+Ö
+â
+S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.w
+ÌÓm_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#-
+t|%_root_.org.typelevel.paiges.Document#Ä
+∑	ª	v_root_.org.typelevel.paiges.Doc.fill(Lorg/typelevel/paiges/Doc;Lscala/collection/Iterable;)Lorg/typelevel/paiges/Doc;.
+ôù_root_.scala.Long#d
+∆	«	Z_root_.org.typelevel.paiges.Doc#`+`(Lorg/typelevel/paiges/Doc;)Lorg/typelevel/paiges/Doc;./
+‰Ï%_root_.org.typelevel.paiges.Document#*
+»	À	 _root_.org.typelevel.paiges.Doc.l
+ﬁﬂb_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.A#/
+ô°%_root_.org.typelevel.paiges.Document#
+†¶_root_.scala.Double#/
+ˆ˛%_root_.org.typelevel.paiges.Document#<
+Æ∫2_root_.org.typelevel.paiges.Document.documentByte.s
+±πi_root_.org.typelevel.paiges.Document.FromToString.document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.l
+≠Æb_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.A#
+Ÿ›_root_.scala.Byte#/
+ÏÙ%_root_.org.typelevel.paiges.Document#
+Üã_root_.scala.Short#*
+≈» _root_.org.typelevel.paiges.Doc#k
+efc_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.Z#(
+PS _root_.org.typelevel.paiges.Doc#x
+∫Ωn_root_.org.typelevel.paiges.Document.FromToString.document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(any)y
+ÄÇo_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(ev)ï
+ÁËä_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#0
+¿	≈	&_root_.org.typelevel.paiges.Doc.comma./
+˝Ö%_root_.org.typelevel.paiges.Document#/
+ìõ%_root_.org.typelevel.paiges.Document#Q
+ÍÎGpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@347..351f
+‹	‰	\_root_.org.typelevel.paiges.Document#document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.
+∆À_root_.scala.Float#<
+Ó˙2_root_.org.typelevel.paiges.Document.documentLong.L
+ú
+†
+B_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.Q
+≠ÆGpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@152..153/
+Ú˙%_root_.org.typelevel.paiges.Document#
+¢•_root_.scala.Any#$
+_root_.org.typelevel.paiges./
+¸Ñ%_root_.org.typelevel.paiges.Document#*
+º	ø	 _root_.org.typelevel.paiges.Doc.
+ˇÜ_root_.scala.Boolean#\
+îüR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.-
+$,%_root_.org.typelevel.paiges.Document#\
+äïR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.;
+±º1_root_.org.typelevel.paiges.Document.documentInt./
+Üé%_root_.org.typelevel.paiges.Document.l
+ìîb_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.A#
+⁄›_root_.scala.Int#ì
+Øøà_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.ó
+⁄‹å_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(ev)(
+ı˝_root_.scala.package.Iterable#w
+‘’m_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#Q
+òôGpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@152..153
+õ†_root_.scala.Short#x
+‘◊n_root_.org.typelevel.paiges.Document.FromToString.document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(any)<
+‡Ï2_root_.scala.Any#asInstanceOf()Ljava/lang/Object;.m
+ËÈc_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.(f)*
+‚Â _root_.org.typelevel.paiges.Doc#S
+ú	û	Ipaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@1180..1182j
+Çä`_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.\
+ƒœR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.3
+26+_root_.org.typelevel.paiges.Document#self=>
+ñù_root_.scala.Boolean#/
+à	ê	%_root_.org.typelevel.paiges.Document.S
+“	‘	Ipaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@1180..1182\
+èöR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.<
+Ñê2_root_.org.typelevel.paiges.Document.FromToString.*
+ºø _root_.org.typelevel.paiges.Doc.S
+¨	∞	Ipaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@1192..1254
+_root_.org.typelevel.S
+Ì	Ò	Ipaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@1192..1254?
+ÂÙ5_root_.org.typelevel.paiges.Document.documentBoolean.Ç
+’	ÿ	x_root_.scala.collection.TraversableLike#map(Lscala/Function1;Lscala/collection/generic/CanBuildFrom;)Ljava/lang/Object;.\
+çòR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.=
+Ó˚3_root_.org.typelevel.paiges.Document.documentShort.]
+¿ƒS_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.<
+”ﬂ2_root_.org.typelevel.paiges.Document.FromToString.l
+√ƒb_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.A#Q
+∫¬Gpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@314..370*
+ÀŒ _root_.org.typelevel.paiges.Doc./
+Ã	–	%_root_.org.typelevel.paiges.Doc.line.
+€‡_root_.scala.Float#Q
+“⁄Gpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@334..364
+« _root_.scala.Int#Q
+€‹Gpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@347..351/
+≥ª%_root_.org.typelevel.paiges.Document#*
+ãé _root_.org.typelevel.paiges.Doc.m
+ñóc_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.(f)/
+ºƒ%_root_.org.typelevel.paiges.Document.
+º¿_root_.scala.Unit#/
+ù°%_root_.org.typelevel.paiges.Document#j
+ë	ô	`_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.
+ø¬_root_.scala.Any#]
+ê
+í
+S_root_.org.typelevel.paiges.Doc#`:+`(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;.\
+ÕÿR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.<
+÷‚2_root_.org.typelevel.paiges.Document.documentChar.*
+≥	∂	 _root_.org.typelevel.paiges.Doc.y
+‡‚o_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(ev)l
+ôöb_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.A#/
+Åâ%_root_.org.typelevel.paiges.Document#ô
+ä
+é
+é_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(name)d
+@H\_root_.org.typelevel.paiges.Document#document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.]
+œ”S_root_.org.typelevel.paiges.Doc.text(Ljava/lang/String;)Lorg/typelevel/paiges/Doc;./
+Ω≈%_root_.org.typelevel.paiges.Document#/
+˘Å%_root_.org.typelevel.paiges.Document.ï
+¿¡ä_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#>
+Éë4_root_.org.typelevel.paiges.Document.documentString.<
+•±2_root_.org.typelevel.paiges.Document.documentUnit.g
+IJ__root_.org.typelevel.paiges.Document#document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(a)/
+ºƒ%_root_.org.typelevel.paiges.Document#
+_root_.org.=
+Æª3_root_.org.typelevel.paiges.Document.documentFloat./
+§¨%_root_.org.typelevel.paiges.Document#0
+LM(_root_.org.typelevel.paiges.Document#[A]
+≈…_root_.scala.Byte#^
+ ÀT_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.A#^
+ˆ˜T_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.A#/
+ﬁÊ%_root_.org.typelevel.paiges.Document#j
+≥ª`_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;./
+Ìı%_root_.org.typelevel.paiges.Document#^
+ΩæT_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.A#n
+´¨d_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.(f)k
+}~c_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.Z#i
+[da_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.\
+ŒŸR_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.ô
+√«é_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(name)u
+Œ”k_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.8
+ÿ‡._root_.scala.Any#toString()Ljava/lang/String;./
+æ∆%_root_.org.typelevel.paiges.Document#>
+Òˇ4_root_.org.typelevel.paiges.Document.documentDouble.ï
+˛ˇä_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#*
+û° _root_.org.typelevel.paiges.Doc#*
+ò
+õ
+ _root_.org.typelevel.paiges.Doc.f
+¢™\_root_.org.typelevel.paiges.Document#document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.
+ÌÒ_root_.scala.Char#j
+èó`_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.ã
+Ú	Ä
+Ä_root_.org.typelevel.paiges.Doc#tightBracketBy(Lorg/typelevel/paiges/Doc;Lorg/typelevel/paiges/Doc;I)Lorg/typelevel/paiges/Doc;.ó
+Ÿ	€	å_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(ev)/
+‰Ï%_root_.org.typelevel.paiges.Document#L
+èìB_root_.org.typelevel.paiges.Doc.char(C)Lorg/typelevel/paiges/Doc;.w
+˚¸m_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#*
+Å
+Ñ
+ _root_.org.typelevel.paiges.Doc.0
+-.(_root_.org.typelevel.paiges.Document#[A]
+Öâ_root_.scala.Long#"m
+2_root_.org.typelevel.paiges.Document.documentByte.7ÅÄ documentByte#org.typelevel.paiges.Document[Byte]"ù
+i_root_.org.typelevel.paiges.Document.FromToString.document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.0document"(any: Any)org.typelevel.paiges.Doc"é
+\_root_.org.typelevel.paiges.Document#document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;..ÑÄdocument(a: A)org.typelevel.paiges.Doc"T
+Gpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@347..351	ÄaA"§
+é_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(name)ÄnameString"^
+T_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.A#ÄA"Ã
+k_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.]applyR[A](implicit ev: org.typelevel.paiges.Document[A])org.typelevel.paiges.Document[A]"¢
+a_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.=	contramap.[Z](f: Z => A)org.typelevel.paiges.Document[Z]"l
+__root_.org.typelevel.paiges.Document#document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(a)	ÄaA"Y
++_root_.org.typelevel.paiges.Document#self=>*self org.typelevel.paiges.Document[A]"v
+d_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.(f)ÄfZ => A"a
+Ipaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@1180..1182ÄxsIterable[A]"w
+m_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#ÄA"T
+Gpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@152..153	ÄzZ"ï
+ä_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.A#ÄA"m
+c_root_.org.typelevel.paiges.Document#contramap(Lscala/Function1;)Lorg/typelevel/paiges/Document;.Z#ÄZ"ª
+å_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(ev)*ÄÅ ev org.typelevel.paiges.Document[A]"2
+(_root_.org.typelevel.paiges.Document#[A]ÄA"l
+b_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.A#ÄA"j
+1_root_.org.typelevel.paiges.Document.documentInt.5ÅÄ documentInt"org.typelevel.paiges.Document[Int]"H
+2_root_.org.typelevel.paiges.Document.FromToString.ÄÑFromToString"s
+4_root_.org.typelevel.paiges.Document.documentDouble.;ÅÄ documentDouble%org.typelevel.paiges.Document[Double]"å
+c_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.(f)%ÄfA => org.typelevel.paiges.Doc"v
+5_root_.org.typelevel.paiges.Document.documentBoolean.=ÅÄ documentBoolean&org.typelevel.paiges.Document[Boolean]"
+n_root_.org.typelevel.paiges.Document.FromToString.document(Ljava/lang/Object;)Lorg/typelevel/paiges/Doc;.(any)ÄanyAny"é
+à_root_.org.typelevel.paiges.Document.documentIterable(Ljava/lang/String;Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.ÄdocumentIterablej[A](name: String)(implicit ev: org.typelevel.paiges.Document[A])org.typelevel.paiges.Document[Iterable[A]]"o
+Ipaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@1192..1254"bodyorg.typelevel.paiges.Doc"∑
+`_root_.org.typelevel.paiges.Document.instance(Lscala/Function1;)Lorg/typelevel/paiges/Document;.SinstanceE[A](f: A => org.typelevel.paiges.Doc)org.typelevel.paiges.Document[A]"m
+2_root_.org.typelevel.paiges.Document.documentUnit.7ÅÄ documentUnit#org.typelevel.paiges.Document[Unit]"ù
+o_root_.org.typelevel.paiges.Document.apply(Lorg/typelevel/paiges/Document;)Lorg/typelevel/paiges/Document;.(ev)*ÄÅ ev org.typelevel.paiges.Document[A]"p
+3_root_.org.typelevel.paiges.Document.documentShort.9ÅÄ documentShort$org.typelevel.paiges.Document[Short]"p
+3_root_.org.typelevel.paiges.Document.documentFloat.9ÅÄ documentFloat$org.typelevel.paiges.Document[Float]"w
+Gpaiges/core/src/main/scala/org/typelevel/paiges/Document.scala@334..364,document(a: A)org.typelevel.paiges.Doc"s
+4_root_.org.typelevel.paiges.Document.documentString.;ÅÄ documentString%org.typelevel.paiges.Document[String]"m
+2_root_.org.typelevel.paiges.Document.documentChar.7ÅÄ documentChar#org.typelevel.paiges.Document[Char]"7
+%_root_.org.typelevel.paiges.Document.ÄÑDocument"6
+%_root_.org.typelevel.paiges.Document#Ä@Document"ç
+R_root_.org.typelevel.paiges.Document.useToString()Lorg/typelevel/paiges/Document;.7useToString&[A]=> org.typelevel.paiges.Document[A]"m
+2_root_.org.typelevel.paiges.Document.documentLong.7ÅÄ documentLong#org.typelevel.paiges.Document[Long]2
+óó[Z]2H
+ÿ	ÿ	>[org.typelevel.paiges.Doc, Iterable[org.typelevel.paiges.Doc]]2
+ô	ô	[Iterable[A]]2L
+Â	Â	B(scala.collection.Iterable.canBuildFrom[org.typelevel.paiges.Doc])2
+ªª[String]2
+ää[Char]:Scala212BËpackage org.typelevel.paiges
+
+trait Document[A] { self =>
+  def document(a: A): Doc
+
+  def contramap[Z](f: Z => A): Document[Z] =
+    Document.instance(z => self.document(f(z)))
+}
+
+object Document {
+
+  def apply[A](implicit ev: Document[A]): Document[A] = ev
+
+  def instance[A](f: A => Doc): Document[A] =
+    new Document[A] {
+      def document(a: A): Doc = f(a)
+    }
+
+  implicit val documentString: Document[String] =
+    Document.instance(Doc.text)
+
+  implicit val documentChar: Document[Char] =
+    Document.instance(Doc.char)
+
+  implicit val documentUnit: Document[Unit] = useToString[Unit]
+  implicit val documentBoolean: Document[Boolean] = useToString[Boolean]
+  implicit val documentByte: Document[Byte] = useToString[Byte]
+  implicit val documentShort: Document[Short] = useToString[Short]
+  implicit val documentInt: Document[Int] = useToString[Int]
+  implicit val documentLong: Document[Long] = useToString[Long]
+  implicit val documentFloat: Document[Float] = useToString[Float]
+  implicit val documentDouble: Document[Double] = useToString[Double]
+
+  def documentIterable[A](name: String)(implicit ev: Document[A]): Document[Iterable[A]] =
+    Document.instance { xs =>
+      val body = Doc.fill(Doc.comma + Doc.line, xs.map(ev.document))
+      body.tightBracketBy(Doc.text(name) :+ "(", Doc.char(')'))
+    }
+
+  /**
+   * In general you will get better rendering and performance by
+   * writing your own instance of Document[A] using the document
+   * combinators. However, this method is provided as a convenience
+   * when these issues are not applicable.
+   */
+  def useToString[A]: Document[A] =
+    FromToString.asInstanceOf[Document[A]]
+
+  object FromToString extends Document[Any] {
+    def document(any: Any): Doc = Doc.text(any.toString)
+  }
+}
+J>paiges/core/src/main/scala/org/typelevel/paiges/Document.scala
